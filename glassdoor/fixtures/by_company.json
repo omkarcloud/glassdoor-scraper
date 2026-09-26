@@ -1,0 +1,494 @@
+{
+ "aggregatedSalaryEstimates": {
+  "numPages": 20839,
+  "queryLocation": {
+   "id": 1,
+   "name": "United States",
+   "shortName": "US",
+   "type": "COUNTRY"
+  },
+  "resultCount": 104192,
+  "results": [
+   {
+    "basePayStatistics": {
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 134264.84
+      },
+      {
+       "ident": "P25",
+       "value": 156158.89
+      },
+      {
+       "ident": "P50",
+       "value": 184722.83
+      },
+      {
+       "ident": "P75",
+       "value": 218511.57
+      },
+      {
+       "ident": "P90",
+       "value": 254143.41
+      }
+     ]
+    },
+    "currency": {
+     "code": "USD"
+    },
+    "employer": {
+     "counts": {
+      "globalJobCount": {
+       "jobCount": 5607
+      }
+     },
+     "id": 9079,
+     "ratings": {
+      "overallRating": 4.4
+     },
+     "shortName": "Google",
+     "squareLogoUrl": "https://media.glassdoor.com/sql/9079/google-squarelogo-1441130773284.png"
+    },
+    "jobTitle": {
+     "id": 4279,
+     "text": "Software Engineer"
+    },
+    "payPeriod": "ANNUAL",
+    "salaryCount": 51168,
+    "totalAdditionalPayStatistics": {
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 73644.24
+      },
+      {
+       "ident": "P25",
+       "value": 95229.62
+      },
+      {
+       "ident": "P50",
+       "value": 126972.82
+      },
+      {
+       "ident": "P75",
+       "value": 177761.95
+      },
+      {
+       "ident": "P90",
+       "value": 232360.26
+      }
+     ]
+    },
+    "totalPayStatistics": {
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 207909.08
+      },
+      {
+       "ident": "P25",
+       "value": 251388.51
+      },
+      {
+       "ident": "P50",
+       "value": 311695.65
+      },
+      {
+       "ident": "P75",
+       "value": 396273.52
+      },
+      {
+       "ident": "P90",
+       "value": 486503.67
+      }
+     ]
+    }
+   },
+   {
+    "basePayStatistics": {
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 120975.31
+      },
+      {
+       "ident": "P25",
+       "value": 138584.69
+      },
+      {
+       "ident": "P50",
+       "value": 161192.71
+      },
+      {
+       "ident": "P75",
+       "value": 187488.9
+      },
+      {
+       "ident": "P90",
+       "value": 214780.12
+      }
+     ]
+    },
+    "currency": {
+     "code": "USD"
+    },
+    "employer": {
+     "counts": {
+      "globalJobCount": {
+       "jobCount": 2489
+      }
+     },
+     "id": 1651,
+     "ratings": {
+      "overallRating": 4.0
+     },
+     "shortName": "Microsoft",
+     "squareLogoUrl": "https://media.glassdoor.com/sql/1651/microsoft-squarelogo-1479856042252.png"
+    },
+    "jobTitle": {
+     "id": 4279,
+     "text": "Software Engineer"
+    },
+    "payPeriod": "ANNUAL",
+    "salaryCount": 44755,
+    "totalAdditionalPayStatistics": {
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 32971.83
+      },
+      {
+       "ident": "P25",
+       "value": 42635.99
+      },
+      {
+       "ident": "P50",
+       "value": 56847.98
+      },
+      {
+       "ident": "P75",
+       "value": 79587.17
+      },
+      {
+       "ident": "P90",
+       "value": 104031.8
+      }
+     ]
+    },
+    "totalPayStatistics": {
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 153947.14
+      },
+      {
+       "ident": "P25",
+       "value": 181220.68
+      },
+      {
+       "ident": "P50",
+       "value": 218040.69
+      },
+      {
+       "ident": "P75",
+       "value": 267076.07
+      },
+      {
+       "ident": "P90",
+       "value": 318811.92
+      }
+     ]
+    }
+   },
+   {
+    "basePayStatistics": {
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 135986.71
+      },
+      {
+       "ident": "P25",
+       "value": 158173.27
+      },
+      {
+       "ident": "P50",
+       "value": 187121.08
+      },
+      {
+       "ident": "P75",
+       "value": 221366.74
+      },
+      {
+       "ident": "P90",
+       "value": 257483.24
+      }
+     ]
+    },
+    "currency": {
+     "code": "USD"
+    },
+    "employer": {
+     "counts": {
+      "globalJobCount": {
+       "jobCount": 2450
+      }
+     },
+     "id": 40772,
+     "ratings": {
+      "overallRating": 3.4
+     },
+     "shortName": "Meta",
+     "squareLogoUrl": "https://media.glassdoor.com/sql/40772/meta-squareLogo-1636117276319.png"
+    },
+    "jobTitle": {
+     "id": 4279,
+     "text": "Software Engineer"
+    },
+    "payPeriod": "ANNUAL",
+    "salaryCount": 28554,
+    "totalAdditionalPayStatistics": {
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 94898.4
+      },
+      {
+       "ident": "P25",
+       "value": 122713.45
+      },
+      {
+       "ident": "P50",
+       "value": 163617.93
+      },
+      {
+       "ident": "P75",
+       "value": 229065.1
+      },
+      {
+       "ident": "P90",
+       "value": 299420.81
+      }
+     ]
+    },
+    "totalPayStatistics": {
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 230885.11
+      },
+      {
+       "ident": "P25",
+       "value": 280886.72
+      },
+      {
+       "ident": "P50",
+       "value": 350739.01
+      },
+      {
+       "ident": "P75",
+       "value": 450431.84
+      },
+      {
+       "ident": "P90",
+       "value": 556904.05
+      }
+     ]
+    }
+   },
+   {
+    "basePayStatistics": {
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 92839.19
+      },
+      {
+       "ident": "P25",
+       "value": 110444.71
+      },
+      {
+       "ident": "P50",
+       "value": 133969.76
+      },
+      {
+       "ident": "P75",
+       "value": 162505.73
+      },
+      {
+       "ident": "P90",
+       "value": 193322.43
+      }
+     ]
+    },
+    "currency": {
+     "code": "USD"
+    },
+    "employer": {
+     "counts": {
+      "globalJobCount": {
+       "jobCount": 1928
+      }
+     },
+     "id": 1737,
+     "ratings": {
+      "overallRating": 3.4
+     },
+     "shortName": "Oracle",
+     "squareLogoUrl": "https://media.glassdoor.com/sql/1737/oracle-squarelogo-1570718316042.png"
+    },
+    "jobTitle": {
+     "id": 30270,
+     "text": "Software Developer"
+    },
+    "payPeriod": "ANNUAL",
+    "salaryCount": 20078,
+    "totalAdditionalPayStatistics": {
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 0.0
+      },
+      {
+       "ident": "P25",
+       "value": 0.0
+      },
+      {
+       "ident": "P50",
+       "value": 0.0
+      },
+      {
+       "ident": "P75",
+       "value": 0.0
+      },
+      {
+       "ident": "P90",
+       "value": 0.0
+      }
+     ]
+    },
+    "totalPayStatistics": {
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 92839.19
+      },
+      {
+       "ident": "P25",
+       "value": 110444.71
+      },
+      {
+       "ident": "P50",
+       "value": 133969.76
+      },
+      {
+       "ident": "P75",
+       "value": 162505.73
+      },
+      {
+       "ident": "P90",
+       "value": 193322.43
+      }
+     ]
+    }
+   },
+   {
+    "basePayStatistics": {
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 141850.47
+      },
+      {
+       "ident": "P25",
+       "value": 160581.43
+      },
+      {
+       "ident": "P50",
+       "value": 184329.19
+      },
+      {
+       "ident": "P75",
+       "value": 211588.91
+      },
+      {
+       "ident": "P90",
+       "value": 239528.64
+      }
+     ]
+    },
+    "currency": {
+     "code": "USD"
+    },
+    "employer": {
+     "counts": {
+      "globalJobCount": {
+       "jobCount": 1189
+      }
+     },
+     "id": 1425,
+     "ratings": {
+      "overallRating": 4.1
+     },
+     "shortName": "Cisco",
+     "squareLogoUrl": "https://media.glassdoor.com/sql/1425/cisco-squareLogo-1762795997867.png"
+    },
+    "jobTitle": {
+     "id": 4279,
+     "text": "Software Engineer"
+    },
+    "payPeriod": "ANNUAL",
+    "salaryCount": 19050,
+    "totalAdditionalPayStatistics": {
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 30531.66
+      },
+      {
+       "ident": "P25",
+       "value": 39480.6
+      },
+      {
+       "ident": "P50",
+       "value": 52640.8
+      },
+      {
+       "ident": "P75",
+       "value": 73697.12
+      },
+      {
+       "ident": "P90",
+       "value": 96332.66
+      }
+     ]
+    },
+    "totalPayStatistics": {
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 172382.13
+      },
+      {
+       "ident": "P25",
+       "value": 200062.03
+      },
+      {
+       "ident": "P50",
+       "value": 236969.99
+      },
+      {
+       "ident": "P75",
+       "value": 285286.03
+      },
+      {
+       "ident": "P90",
+       "value": 335861.3
+      }
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,147 @@
+{
+ "getFishbowlPostCG": {
+  "_id": "6aa2bc4e05d31bb5a9cbecff",
+  "annotation": null,
+  "bowl": {
+   "_id": "55375ce690f5eebe1d2a0f88",
+   "allowedMembershipType": "MEMBER",
+   "canJoin": false,
+   "creationDate": "2015-07-01T19:43:59.729Z",
+   "description": "Bowl for Tech industry professionals.",
+   "feedState": {
+    "lastMessageDate": "2026-09-26T01:08:23.777Z"
+   },
+   "handleUrl": "technology",
+   "hasPosts": true,
+   "hideNumberOfUsers": true,
+   "isBowlLeader": false,
+   "isJoined": false,
+   "isLocked": false,
+   "isVisible": true,
+   "joinMode": "DEFAULT",
+   "joinState": "NONE",
+   "meetsJoinRules": false,
+   "name": "Tech",
+   "numberOfUsers": 7851097,
+   "requestToJoinConfig": {
+    "isJoinReasonRequired": false,
+    "isMultipleChoiceEnabled": false,
+    "shouldRequestPhoto": false,
+    "userEnteredJoinReason": null
+   },
+   "subscriptionType": null,
+   "suggestionSource": "USER_INFO",
+   "type": "CROWD",
+   "uiConfig": {
+    "colorFrom": "4C28FF",
+    "colorTo": "1B0B6B",
+    "coverPic": "https://www.glassdoor.com/images/bowls/headers/tech-3x.png",
+    "icon": "https://www.glassdoor.com/images/bowls/icons/tech-3x.png"
+   },
+   "userPushState": {
+    "isNewPostsEnabled": true,
+    "isPushEnabled": true
+   }
+  },
+  "bowlMemberBadges": [],
+  "canComment": false,
+  "canDelete": false,
+  "canEdit": false,
+  "canonicalURL": null,
+  "commentsCount": 159,
+  "companyMentions": [],
+  "creatorStats": null,
+  "date": "2026-09-10T14:18:54.134Z",
+  "followedByUser": false,
+  "globalBadges": [],
+  "handleUrl": "i-am-a-fully-remote-engineer-and-my-team-does-a-1-hour-game-hour-every-week-it-feels-so-pointless-because-we-are-all-remote-and",
+  "isAuthor": false,
+  "isProfileFollowedByCurrentUser": false,
+  "messageData": {
+   "linkMetadata": null,
+   "text": "I am a fully remote engineer and my team does a 1-hour game hour every week. It feels so pointless because we are all remote and I know that we would largely rather be doing other things than wasting our time playing a dumb game together. Do any other remote workers have this set up for their teams too. What are your thoughts on it?"
+  },
+  "messageType": "TEXT",
+  "myReaction": null,
+  "nerLocationMentions": [],
+  "nerTitleMentions": [
+   {
+    "gocId": 102465,
+    "id": 31261,
+    "mGocId": 10049,
+    "span": {
+     "endChar": 28,
+     "startChar": 20,
+     "text": "engineer"
+    },
+    "title": "Engineer"
+   }
+  ],
+  "originService": "GLASSDOOR",
+  "ppcCategories": [],
+  "reactionCounters": {
+   "funny": 0,
+   "helpful": 2,
+   "like": 77,
+   "smart": 2,
+   "uplifting": 2
+  },
+  "sharesCount": 26,
+  "sign": {
+   "icon": null,
+   "metadata": {
+    "firstName": null,
+    "handleUrl": null,
+    "lastName": null,
+    "profileDiscoverableToPublic": false
+   },
+   "name": "Software Engineer",
+   "signAccent": null,
+   "signType": "TITLE"
+  },
+  "tagsInFeed": null,
+  "topComment": {
+   "_id": "6aa2df0c53d457919d86a67c",
+   "bowlMemberBadges": [],
+   "canDelete": false,
+   "canEdit": false,
+   "commentId": null,
+   "commentType": "POST_COMMENT",
+   "date": "2026-09-10T16:47:08.022Z",
+   "globalBadges": [],
+   "isPostAuthor": false,
+   "likesCount": 119,
+   "messageData": {
+    "linkMetadata": null,
+    "text": "Sounds like a pretty neat idea and nice way to bring the team together"
+   },
+   "messageType": "TEXT",
+   "myReaction": null,
+   "originService": "FISHBOWL",
+   "postId": "6aa2bc4e05d31bb5a9cbecff",
+   "reactionCounters": {
+    "funny": 0,
+    "helpful": 1,
+    "like": 118,
+    "smart": 0,
+    "uplifting": 0
+   },
+   "repliesCount": 8,
+   "repliesPreviews": [],
+   "sign": {
+    "icon": null,
+    "metadata": {
+     "firstName": null,
+     "handleUrl": null,
+     "lastName": null,
+     "profileDiscoverableToPublic": false
+    },
+    "name": "Business Development Manager 1",
+    "signAccent": null,
+    "signType": "TITLE"
+   },
+   "userId": null
+  },
+  "userId": null
+ }
+}

@@ -1,0 +1,532 @@
+{
+ "employerSalaryComparison": {
+  "estimateSourceName": "V3",
+  "jobTitles": [
+   {
+    "employerCount": 2,
+    "jobTitle": {
+     "id": 4279,
+     "text": "Software Engineer"
+    },
+    "results": [
+     {
+      "basePayStatistics": {
+       "mean": 184722.83
+      },
+      "cashBonusStatistics": {
+       "mean": 31600.08
+      },
+      "confidence": "CONFIDENT",
+      "currency": {
+       "id": 1
+      },
+      "employer": {
+       "id": 9079
+      },
+      "obscuring": null,
+      "payPeriod": "ANNUAL",
+      "profitSharingStatistics": null,
+      "salaryCount": 51168,
+      "salesCommissionStatistics": null,
+      "stockBonusStatistics": {
+       "mean": 95372.74
+      },
+      "tipsStatistics": null,
+      "totalAdditionalPayStatistics": {
+       "mean": 31600.08
+      },
+      "totalPayStatistics": {
+       "mean": 311695.65
+      }
+     },
+     {
+      "basePayStatistics": {
+       "mean": 161192.71
+      },
+      "cashBonusStatistics": {
+       "mean": 17385.91
+      },
+      "confidence": "CONFIDENT",
+      "currency": {
+       "id": 1
+      },
+      "employer": {
+       "id": 1651
+      },
+      "obscuring": null,
+      "payPeriod": "ANNUAL",
+      "profitSharingStatistics": null,
+      "salaryCount": 44755,
+      "salesCommissionStatistics": null,
+      "stockBonusStatistics": {
+       "mean": 39462.07
+      },
+      "tipsStatistics": null,
+      "totalAdditionalPayStatistics": {
+       "mean": 17385.91
+      },
+      "totalPayStatistics": {
+       "mean": 218040.69
+      }
+     }
+    ],
+    "salaryCount": 95923
+   },
+   {
+    "employerCount": 2,
+    "jobTitle": {
+     "id": 30270,
+     "text": "Software Developer"
+    },
+    "results": [
+     {
+      "basePayStatistics": {
+       "mean": 162698.19
+      },
+      "cashBonusStatistics": null,
+      "confidence": "CONFIDENT",
+      "currency": {
+       "id": 1
+      },
+      "employer": {
+       "id": 9079
+      },
+      "obscuring": null,
+      "payPeriod": "ANNUAL",
+      "profitSharingStatistics": null,
+      "salaryCount": 1152,
+      "salesCommissionStatistics": null,
+      "stockBonusStatistics": null,
+      "tipsStatistics": null,
+      "totalAdditionalPayStatistics": null,
+      "totalPayStatistics": {
+       "mean": 162698.19
+      }
+     },
+     {
+      "basePayStatistics": {
+       "mean": 133957.37
+      },
+      "cashBonusStatistics": {
+       "mean": 11384.8
+      },
+      "confidence": "CONFIDENT",
+      "currency": {
+       "id": 1
+      },
+      "employer": {
+       "id": 1651
+      },
+      "obscuring": null,
+      "payPeriod": "ANNUAL",
+      "profitSharingStatistics": null,
+      "salaryCount": 570,
+      "salesCommissionStatistics": null,
+      "stockBonusStatistics": null,
+      "tipsStatistics": null,
+      "totalAdditionalPayStatistics": {
+       "mean": 11384.8
+      },
+      "totalPayStatistics": {
+       "mean": 145342.17
+      }
+     }
+    ],
+    "salaryCount": 1722
+   },
+   {
+    "employerCount": 2,
+    "jobTitle": {
+     "id": 54988,
+     "text": "Developer"
+    },
+    "results": [
+     {
+      "basePayStatistics": {
+       "mean": 148226.02
+      },
+      "cashBonusStatistics": null,
+      "confidence": "CONFIDENT",
+      "currency": {
+       "id": 1
+      },
+      "employer": {
+       "id": 9079
+      },
+      "obscuring": null,
+      "payPeriod": "ANNUAL",
+      "profitSharingStatistics": null,
+      "salaryCount": 90,
+      "salesCommissionStatistics": null,
+      "stockBonusStatistics": null,
+      "tipsStatistics": null,
+      "totalAdditionalPayStatistics": null,
+      "totalPayStatistics": {
+       "mean": 148226.02
+      }
+     },
+     {
+      "basePayStatistics": {
+       "mean": 121905.47
+      },
+      "cashBonusStatistics": null,
+      "confidence": "CONFIDENT",
+      "currency": {
+       "id": 1
+      },
+      "employer": {
+       "id": 1651
+      },
+      "obscuring": null,
+      "payPeriod": "ANNUAL",
+      "profitSharingStatistics": null,
+      "salaryCount": 43,
+      "salesCommissionStatistics": null,
+      "stockBonusStatistics": null,
+      "tipsStatistics": null,
+      "totalAdditionalPayStatistics": null,
+      "totalPayStatistics": {
+       "mean": 121905.47
+      }
+     }
+    ],
+    "salaryCount": 133
+   },
+   {
+    "employerCount": 2,
+    "jobTitle": {
+     "id": 4512,
+     "text": "Software Engineer I"
+    },
+    "results": [
+     {
+      "basePayStatistics": {
+       "mean": 155059.95
+      },
+      "cashBonusStatistics": {
+       "mean": 20504.89
+      },
+      "confidence": "CONFIDENT",
+      "currency": {
+       "id": 1
+      },
+      "employer": {
+       "id": 9079
+      },
+      "obscuring": null,
+      "payPeriod": "ANNUAL",
+      "profitSharingStatistics": null,
+      "salaryCount": 6,
+      "salesCommissionStatistics": null,
+      "stockBonusStatistics": {
+       "mean": 54010.83
+      },
+      "tipsStatistics": null,
+      "totalAdditionalPayStatistics": {
+       "mean": 20504.89
+      },
+      "totalPayStatistics": {
+       "mean": 229575.67
+      }
+     },
+     {
+      "basePayStatistics": {
+       "mean": 126479.97
+      },
+      "cashBonusStatistics": {
+       "mean": 9229.63
+      },
+      "confidence": "CONFIDENT",
+      "currency": {
+       "id": 1
+      },
+      "employer": {
+       "id": 1651
+      },
+      "obscuring": null,
+      "payPeriod": "ANNUAL",
+      "profitSharingStatistics": null,
+      "salaryCount": 58,
+      "salesCommissionStatistics": null,
+      "stockBonusStatistics": {
+       "mean": 20336.69
+      },
+      "tipsStatistics": null,
+      "totalAdditionalPayStatistics": {
+       "mean": 9229.63
+      },
+      "totalPayStatistics": {
+       "mean": 156046.29
+      }
+     }
+    ],
+    "salaryCount": 64
+   },
+   {
+    "employerCount": 2,
+    "jobTitle": {
+     "id": 642953,
+     "text": "Ingeniero De Software"
+    },
+    "results": [
+     {
+      "basePayStatistics": {
+       "mean": 180632.07
+      },
+      "cashBonusStatistics": {
+       "mean": 30918.57
+      },
+      "confidence": "CONFIDENT",
+      "currency": {
+       "id": 1
+      },
+      "employer": {
+       "id": 9079
+      },
+      "obscuring": null,
+      "payPeriod": "ANNUAL",
+      "profitSharingStatistics": null,
+      "salaryCount": 11,
+      "salesCommissionStatistics": null,
+      "stockBonusStatistics": null,
+      "tipsStatistics": null,
+      "totalAdditionalPayStatistics": {
+       "mean": 30918.57
+      },
+      "totalPayStatistics": {
+       "mean": 211550.64
+      }
+     },
+     {
+      "basePayStatistics": {
+       "mean": 153148.79
+      },
+      "cashBonusStatistics": {
+       "mean": 17393.92
+      },
+      "confidence": "CONFIDENT",
+      "currency": {
+       "id": 1
+      },
+      "employer": {
+       "id": 1651
+      },
+      "obscuring": null,
+      "payPeriod": "ANNUAL",
+      "profitSharingStatistics": null,
+      "salaryCount": 6,
+      "salesCommissionStatistics": null,
+      "stockBonusStatistics": {
+       "mean": 23479.62
+      },
+      "tipsStatistics": null,
+      "totalAdditionalPayStatistics": {
+       "mean": 17393.92
+      },
+      "totalPayStatistics": {
+       "mean": 194022.33
+      }
+     }
+    ],
+    "salaryCount": 17
+   },
+   {
+    "employerCount": 2,
+    "jobTitle": {
+     "id": 375361,
+     "text": "Engenheiro De Software"
+    },
+    "results": [
+     {
+      "basePayStatistics": {
+       "mean": 221510.41
+      },
+      "cashBonusStatistics": null,
+      "confidence": "CONFIDENT",
+      "currency": {
+       "id": 1
+      },
+      "employer": {
+       "id": 9079
+      },
+      "obscuring": null,
+      "payPeriod": "ANNUAL",
+      "profitSharingStatistics": null,
+      "salaryCount": 8,
+      "salesCommissionStatistics": null,
+      "stockBonusStatistics": {
+       "mean": 201247.77
+      },
+      "tipsStatistics": null,
+      "totalAdditionalPayStatistics": null,
+      "totalPayStatistics": {
+       "mean": 422758.18
+      }
+     },
+     {
+      "basePayStatistics": {
+       "mean": 179441.51
+      },
+      "cashBonusStatistics": {
+       "mean": 42588.99
+      },
+      "confidence": "CONFIDENT",
+      "currency": {
+       "id": 1
+      },
+      "employer": {
+       "id": 1651
+      },
+      "obscuring": null,
+      "payPeriod": "ANNUAL",
+      "profitSharingStatistics": null,
+      "salaryCount": 4,
+      "salesCommissionStatistics": null,
+      "stockBonusStatistics": {
+       "mean": 47768.62
+      },
+      "tipsStatistics": null,
+      "totalAdditionalPayStatistics": {
+       "mean": 42588.99
+      },
+      "totalPayStatistics": {
+       "mean": 269799.12
+      }
+     }
+    ],
+    "salaryCount": 12
+   },
+   {
+    "employerCount": 2,
+    "jobTitle": {
+     "id": 2980268,
+     "text": "Desarrollador De Software"
+    },
+    "results": [
+     {
+      "basePayStatistics": {
+       "mean": 171369.02
+      },
+      "cashBonusStatistics": null,
+      "confidence": "CONFIDENT",
+      "currency": {
+       "id": 1
+      },
+      "employer": {
+       "id": 9079
+      },
+      "obscuring": null,
+      "payPeriod": "ANNUAL",
+      "profitSharingStatistics": null,
+      "salaryCount": 4,
+      "salesCommissionStatistics": null,
+      "stockBonusStatistics": null,
+      "tipsStatistics": null,
+      "totalAdditionalPayStatistics": null,
+      "totalPayStatistics": {
+       "mean": 171369.02
+      }
+     },
+     {
+      "basePayStatistics": {
+       "mean": 146690.98
+      },
+      "cashBonusStatistics": {
+       "mean": 17230.41
+      },
+      "confidence": "CONFIDENT",
+      "currency": {
+       "id": 1
+      },
+      "employer": {
+       "id": 1651
+      },
+      "obscuring": null,
+      "payPeriod": "ANNUAL",
+      "profitSharingStatistics": null,
+      "salaryCount": 1,
+      "salesCommissionStatistics": null,
+      "stockBonusStatistics": null,
+      "tipsStatistics": null,
+      "totalAdditionalPayStatistics": {
+       "mean": 17230.41
+      },
+      "totalPayStatistics": {
+       "mean": 163921.39
+      }
+     }
+    ],
+    "salaryCount": 5
+   },
+   {
+    "employerCount": 2,
+    "jobTitle": {
+     "id": 30291,
+     "text": "Software Developer Engineer"
+    },
+    "results": [
+     {
+      "basePayStatistics": {
+       "mean": 173637.68
+      },
+      "cashBonusStatistics": {
+       "mean": 38384.63
+      },
+      "confidence": "CONFIDENT",
+      "currency": {
+       "id": 1
+      },
+      "employer": {
+       "id": 9079
+      },
+      "obscuring": null,
+      "payPeriod": "ANNUAL",
+      "profitSharingStatistics": null,
+      "salaryCount": 1,
+      "salesCommissionStatistics": null,
+      "stockBonusStatistics": null,
+      "tipsStatistics": null,
+      "totalAdditionalPayStatistics": {
+       "mean": 38384.63
+      },
+      "totalPayStatistics": {
+       "mean": 212022.31
+      }
+     },
+     {
+      "basePayStatistics": {
+       "mean": 138563.25
+      },
+      "cashBonusStatistics": {
+       "mean": 14592.82
+      },
+      "confidence": "CONFIDENT",
+      "currency": {
+       "id": 1
+      },
+      "employer": {
+       "id": 1651
+      },
+      "obscuring": null,
+      "payPeriod": "ANNUAL",
+      "profitSharingStatistics": null,
+      "salaryCount": 2,
+      "salesCommissionStatistics": null,
+      "stockBonusStatistics": {
+       "mean": 31939.84
+      },
+      "tipsStatistics": null,
+      "totalAdditionalPayStatistics": {
+       "mean": 14592.82
+      },
+      "totalPayStatistics": {
+       "mean": 185095.91
+      }
+     }
+    ],
+    "salaryCount": 3
+   }
+  ],
+  "numPages": 2
+ }
+}

@@ -1,0 +1,900 @@
+{
+ "industries": [
+  {
+   "industryId": 200001,
+   "industryName": "Accounting & Tax",
+   "parentSectorId": 10010
+  },
+  {
+   "industryId": 200002,
+   "industryName": "Legal",
+   "parentSectorId": 10001
+  },
+  {
+   "industryId": 200003,
+   "industryName": "Aerospace & Defense",
+   "parentSectorId": 10002
+  },
+  {
+   "industryId": 200004,
+   "industryName": "Animal Production",
+   "parentSectorId": 10003
+  },
+  {
+   "industryId": 200005,
+   "industryName": "Fishery",
+   "parentSectorId": 10003
+  },
+  {
+   "industryId": 200006,
+   "industryName": "Farm Support",
+   "parentSectorId": 10003
+  },
+  {
+   "industryId": 200007,
+   "industryName": "Floral Nursery",
+   "parentSectorId": 10003
+  },
+  {
+   "industryId": 200008,
+   "industryName": "Crop Production",
+   "parentSectorId": 10003
+  },
+  {
+   "industryId": 200009,
+   "industryName": "Forestry, Logging & Timber Operations",
+   "parentSectorId": 10003
+  },
+  {
+   "industryId": 200011,
+   "industryName": "Audiovisual",
+   "parentSectorId": 10004
+  },
+  {
+   "industryId": 200012,
+   "industryName": "Bars & Nightclubs",
+   "parentSectorId": 10021
+  },
+  {
+   "industryId": 200013,
+   "industryName": "Gambling",
+   "parentSectorId": 10004
+  },
+  {
+   "industryId": 200016,
+   "industryName": "Culture & Entertainment",
+   "parentSectorId": 10004
+  },
+  {
+   "industryId": 200017,
+   "industryName": "Photography",
+   "parentSectorId": 10016
+  },
+  {
+   "industryId": 200018,
+   "industryName": "Sports & Recreation",
+   "parentSectorId": 10004
+  },
+  {
+   "industryId": 200020,
+   "industryName": "Ticket Sales",
+   "parentSectorId": 10004
+  },
+  {
+   "industryId": 200021,
+   "industryName": "Biotech & Pharmaceuticals",
+   "parentSectorId": 10005
+  },
+  {
+   "industryId": 200022,
+   "industryName": "Advertising & Public Relations",
+   "parentSectorId": 10016
+  },
+  {
+   "industryId": 200023,
+   "industryName": "Architectural & Engineering Services",
+   "parentSectorId": 10007
+  },
+  {
+   "industryId": 200024,
+   "industryName": "Building & Personnel Services",
+   "parentSectorId": 10006
+  },
+  {
+   "industryId": 200025,
+   "industryName": "Office Supply & Copy Stores",
+   "parentSectorId": 10022
+  },
+  {
+   "industryId": 200027,
+   "industryName": "Commercial Printing",
+   "parentSectorId": 10015
+  },
+  {
+   "industryId": 200028,
+   "industryName": "Business Consulting",
+   "parentSectorId": 10006
+  },
+  {
+   "industryId": 200029,
+   "industryName": "Membership Organizations",
+   "parentSectorId": 10006
+  },
+  {
+   "industryId": 200030,
+   "industryName": "Research & Development",
+   "parentSectorId": 10006
+  },
+  {
+   "industryId": 200031,
+   "industryName": "Security & Protective",
+   "parentSectorId": 10006
+  },
+  {
+   "industryId": 200032,
+   "industryName": "HR Consulting",
+   "parentSectorId": 10026
+  },
+  {
+   "industryId": 200033,
+   "industryName": "Wholesale",
+   "parentSectorId": 10022
+  },
+  {
+   "industryId": 200034,
+   "industryName": "Vehicle Repair & Maintenance",
+   "parentSectorId": 10007
+  },
+  {
+   "industryId": 200035,
+   "industryName": "Commercial Equipment Services",
+   "parentSectorId": 10007
+  },
+  {
+   "industryId": 200036,
+   "industryName": "Construction",
+   "parentSectorId": 10007
+  },
+  {
+   "industryId": 200037,
+   "industryName": "General Repair & Maintenance",
+   "parentSectorId": 10007
+  },
+  {
+   "industryId": 200038,
+   "industryName": "Consumer Product Rental",
+   "parentSectorId": 10008
+  },
+  {
+   "industryId": 200039,
+   "industryName": "Event Services",
+   "parentSectorId": 10008
+  },
+  {
+   "industryId": 200040,
+   "industryName": "Beauty & Wellness",
+   "parentSectorId": 10008
+  },
+  {
+   "industryId": 200041,
+   "industryName": "Laundry & Dry Cleaning",
+   "parentSectorId": 10008
+  },
+  {
+   "industryId": 200042,
+   "industryName": "Property Management",
+   "parentSectorId": 10008
+  },
+  {
+   "industryId": 200043,
+   "industryName": "Pet Care & Veterinary",
+   "parentSectorId": 10008
+  },
+  {
+   "industryId": 200044,
+   "industryName": "Colleges & Universities",
+   "parentSectorId": 10009
+  },
+  {
+   "industryId": 200045,
+   "industryName": "Education & Training Services",
+   "parentSectorId": 10009
+  },
+  {
+   "industryId": 200046,
+   "industryName": "Primary & Secondary Schools",
+   "parentSectorId": 10009
+  },
+  {
+   "industryId": 200047,
+   "industryName": "Preschools & Child Care Services",
+   "parentSectorId": 10009
+  },
+  {
+   "industryId": 200048,
+   "industryName": "Banking & Lending",
+   "parentSectorId": 10010
+  },
+  {
+   "industryId": 200052,
+   "industryName": "Financial Transaction Processing",
+   "parentSectorId": 10010
+  },
+  {
+   "industryId": 200055,
+   "industryName": "Stock Exchanges",
+   "parentSectorId": 10010
+  },
+  {
+   "industryId": 200056,
+   "industryName": "National Agencies",
+   "parentSectorId": 10011
+  },
+  {
+   "industryId": 200057,
+   "industryName": "Municipal Agencies",
+   "parentSectorId": 10011
+  },
+  {
+   "industryId": 200058,
+   "industryName": "State & Regional Agencies",
+   "parentSectorId": 10011
+  },
+  {
+   "industryId": 200059,
+   "industryName": "Health Care Services & Hospitals",
+   "parentSectorId": 10012
+  },
+  {
+   "industryId": 200060,
+   "industryName": "Computer Hardware Development",
+   "parentSectorId": 10013
+  },
+  {
+   "industryId": 200061,
+   "industryName": "Enterprise Software & Network Solutions",
+   "parentSectorId": 10013
+  },
+  {
+   "industryId": 200063,
+   "industryName": "Internet & Web Services",
+   "parentSectorId": 10013
+  },
+  {
+   "industryId": 200064,
+   "industryName": "Information Technology Support Services",
+   "parentSectorId": 10013
+  },
+  {
+   "industryId": 200065,
+   "industryName": "Insurance Agencies & Brokerages",
+   "parentSectorId": 10014
+  },
+  {
+   "industryId": 200066,
+   "industryName": "Insurance Carriers",
+   "parentSectorId": 10014
+  },
+  {
+   "industryId": 200068,
+   "industryName": "Chemical Manufacturing",
+   "parentSectorId": 10015
+  },
+  {
+   "industryId": 200070,
+   "industryName": "Electronics Manufacturing",
+   "parentSectorId": 10015
+  },
+  {
+   "industryId": 200071,
+   "industryName": "Food & Beverage Manufacturing",
+   "parentSectorId": 10015
+  },
+  {
+   "industryId": 200072,
+   "industryName": "Health Care Products Manufacturing",
+   "parentSectorId": 10015
+  },
+  {
+   "industryId": 200073,
+   "industryName": "Machinery Manufacturing",
+   "parentSectorId": 10015
+  },
+  {
+   "industryId": 200074,
+   "industryName": "Metal & Mineral Manufacturing",
+   "parentSectorId": 10015
+  },
+  {
+   "industryId": 200075,
+   "industryName": "Transportation Equipment Manufacturing",
+   "parentSectorId": 10015
+  },
+  {
+   "industryId": 200076,
+   "industryName": "Wood & Paper Manufacturing",
+   "parentSectorId": 10015
+  },
+  {
+   "industryId": 200077,
+   "industryName": "Film Production",
+   "parentSectorId": 10016
+  },
+  {
+   "industryId": 200080,
+   "industryName": "Publishing",
+   "parentSectorId": 10016
+  },
+  {
+   "industryId": 200082,
+   "industryName": "Broadcast Media",
+   "parentSectorId": 10016
+  },
+  {
+   "industryId": 200083,
+   "industryName": "Video Game Publishing",
+   "parentSectorId": 10016
+  },
+  {
+   "industryId": 200085,
+   "industryName": "Mining & Metals",
+   "parentSectorId": 10019
+  },
+  {
+   "industryId": 200087,
+   "industryName": "Grantmaking & Charitable Foundations",
+   "parentSectorId": 10018
+  },
+  {
+   "industryId": 200088,
+   "industryName": "Religious Institutions",
+   "parentSectorId": 10018
+  },
+  {
+   "industryId": 200089,
+   "industryName": "Civic & Social Services",
+   "parentSectorId": 10018
+  },
+  {
+   "industryId": 200091,
+   "industryName": "Energy & Utilities",
+   "parentSectorId": 10019
+  },
+  {
+   "industryId": 200094,
+   "industryName": "Real Estate",
+   "parentSectorId": 10020
+  },
+  {
+   "industryId": 200096,
+   "industryName": "Catering & Food Service Contractors",
+   "parentSectorId": 10021
+  },
+  {
+   "industryId": 200097,
+   "industryName": "Convenience Stores",
+   "parentSectorId": 10022
+  },
+  {
+   "industryId": 200099,
+   "industryName": "Restaurants & Cafes",
+   "parentSectorId": 10021
+  },
+  {
+   "industryId": 200100,
+   "industryName": "Auctions & Galleries",
+   "parentSectorId": 10022
+  },
+  {
+   "industryId": 200101,
+   "industryName": "Automotive Parts & Accessories Stores",
+   "parentSectorId": 10022
+  },
+  {
+   "industryId": 200102,
+   "industryName": "Beauty & Personal Accessories Stores",
+   "parentSectorId": 10022
+  },
+  {
+   "industryId": 200103,
+   "industryName": "Consumer Electronics & Appliances Stores",
+   "parentSectorId": 10022
+  },
+  {
+   "industryId": 200105,
+   "industryName": "Department, Clothing & Shoe Stores",
+   "parentSectorId": 10022
+  },
+  {
+   "industryId": 200106,
+   "industryName": "Drug & Health Stores",
+   "parentSectorId": 10022
+  },
+  {
+   "industryId": 200107,
+   "industryName": "Food & Beverage Stores",
+   "parentSectorId": 10022
+  },
+  {
+   "industryId": 200109,
+   "industryName": "General Merchandise & Superstores",
+   "parentSectorId": 10022
+  },
+  {
+   "industryId": 200110,
+   "industryName": "Gift, Novelty & Souvenir Stores",
+   "parentSectorId": 10022
+  },
+  {
+   "industryId": 200111,
+   "industryName": "Home Furniture & Housewares Stores",
+   "parentSectorId": 10022
+  },
+  {
+   "industryId": 200113,
+   "industryName": "Media & Entertainment Stores",
+   "parentSectorId": 10022
+  },
+  {
+   "industryId": 200115,
+   "industryName": "Other Retail Stores",
+   "parentSectorId": 10022
+  },
+  {
+   "industryId": 200116,
+   "industryName": "Pet & Pet Supplies Stores",
+   "parentSectorId": 10022
+  },
+  {
+   "industryId": 200117,
+   "industryName": "Sporting Goods Stores",
+   "parentSectorId": 10022
+  },
+  {
+   "industryId": 200118,
+   "industryName": "Toy & Hobby Stores",
+   "parentSectorId": 10022
+  },
+  {
+   "industryId": 200119,
+   "industryName": "Vehicle Dealers",
+   "parentSectorId": 10022
+  },
+  {
+   "industryId": 200120,
+   "industryName": "Cable, Internet & Telephone Providers",
+   "parentSectorId": 10023
+  },
+  {
+   "industryId": 200122,
+   "industryName": "Telecommunications Services",
+   "parentSectorId": 10023
+  },
+  {
+   "industryId": 200127,
+   "industryName": "Parking & Valet",
+   "parentSectorId": 10024
+  },
+  {
+   "industryId": 200128,
+   "industryName": "Rail Transportation",
+   "parentSectorId": 10024
+  },
+  {
+   "industryId": 200130,
+   "industryName": "Shipping & Trucking",
+   "parentSectorId": 10024
+  },
+  {
+   "industryId": 200132,
+   "industryName": "Car & Truck Rental",
+   "parentSectorId": 10024
+  },
+  {
+   "industryId": 200134,
+   "industryName": "Airlines, Airports & Air Transportation",
+   "parentSectorId": 10024
+  },
+  {
+   "industryId": 200135,
+   "industryName": "Taxi & Car Services",
+   "parentSectorId": 10024
+  },
+  {
+   "industryId": 200139,
+   "industryName": "Hotels & Resorts",
+   "parentSectorId": 10025
+  },
+  {
+   "industryId": 200144,
+   "industryName": "Travel Agencies",
+   "parentSectorId": 10025
+  },
+  {
+   "industryId": 200145,
+   "industryName": "Grocery Stores",
+   "parentSectorId": 10022
+  },
+  {
+   "industryId": 200146,
+   "industryName": "Investment & Asset Management",
+   "parentSectorId": 10010
+  },
+  {
+   "industryId": 200147,
+   "industryName": "Consumer Product Manufacturing",
+   "parentSectorId": 10015
+  },
+  {
+   "industryId": 200148,
+   "industryName": "Debt Relief",
+   "parentSectorId": 10010
+  },
+  {
+   "industryId": 200149,
+   "industryName": "Ambulance & Medical Transportation",
+   "parentSectorId": 10012
+  },
+  {
+   "industryId": 200150,
+   "industryName": "Dental Clinics",
+   "parentSectorId": 10012
+  },
+  {
+   "industryId": 200151,
+   "industryName": "Hospitals & Health Clinics",
+   "parentSectorId": 10012
+  },
+  {
+   "industryId": 200152,
+   "industryName": "Medical Testing & Clinical Laboratories",
+   "parentSectorId": 10012
+  },
+  {
+   "industryId": 200153,
+   "industryName": "Nursing Care Facilities",
+   "parentSectorId": 10012
+  },
+  {
+   "industryId": 200154,
+   "industryName": "Staffing & Subcontracting",
+   "parentSectorId": 10026
+  },
+  {
+   "industryId": 200155,
+   "industryName": "Software Development",
+   "parentSectorId": 10013
+  },
+  {
+   "industryId": 200156,
+   "industryName": "Law Firms",
+   "parentSectorId": 10001
+  },
+  {
+   "industryId": 200157,
+   "industryName": "Legal Services",
+   "parentSectorId": 10001
+  },
+  {
+   "industryId": 200158,
+   "industryName": "Waste Management",
+   "parentSectorId": 10006
+  },
+  {
+   "industryId": 200159,
+   "industryName": "Textile & Apparel Manufacturing",
+   "parentSectorId": 10015
+  },
+  {
+   "industryId": 200160,
+   "industryName": "Music & Sound Production",
+   "parentSectorId": 10016
+  },
+  {
+   "industryId": 200161,
+   "industryName": "Translation & Linguistic Services",
+   "parentSectorId": 10016
+  },
+  {
+   "industryId": 200162,
+   "industryName": "Private Households",
+   "parentSectorId": 10008
+  },
+  {
+   "industryId": 200163,
+   "industryName": "Biotechnology",
+   "parentSectorId": 10005
+  },
+  {
+   "industryId": 200164,
+   "industryName": "Pharmaceutical",
+   "parentSectorId": 10005
+  },
+  {
+   "industryId": 200165,
+   "industryName": "Real Estate Agencies",
+   "parentSectorId": 10020
+  },
+  {
+   "industryId": 200166,
+   "industryName": "Marine Transportation",
+   "parentSectorId": 10024
+  }
+ ],
+ "sectors": [
+  {
+   "childIndustryIds": [
+    200002,
+    200156,
+    200157
+   ],
+   "sectorId": 10001,
+   "sectorName": "Legal"
+  },
+  {
+   "childIndustryIds": [
+    200003
+   ],
+   "sectorId": 10002,
+   "sectorName": "Aerospace & Defense"
+  },
+  {
+   "childIndustryIds": [
+    200004,
+    200005,
+    200006,
+    200007,
+    200008,
+    200009
+   ],
+   "sectorId": 10003,
+   "sectorName": "Agriculture"
+  },
+  {
+   "childIndustryIds": [
+    200011,
+    200013,
+    200016,
+    200018,
+    200020
+   ],
+   "sectorId": 10004,
+   "sectorName": "Arts, Entertainment & Recreation"
+  },
+  {
+   "childIndustryIds": [
+    200021,
+    200163,
+    200164
+   ],
+   "sectorId": 10005,
+   "sectorName": "Pharmaceutical & Biotechnology"
+  },
+  {
+   "childIndustryIds": [
+    200024,
+    200028,
+    200029,
+    200030,
+    200031,
+    200158
+   ],
+   "sectorId": 10006,
+   "sectorName": "Management & Consulting"
+  },
+  {
+   "childIndustryIds": [
+    200023,
+    200034,
+    200035,
+    200036,
+    200037
+   ],
+   "sectorId": 10007,
+   "sectorName": "Construction, Repair & Maintenance Services"
+  },
+  {
+   "childIndustryIds": [
+    200038,
+    200039,
+    200040,
+    200041,
+    200042,
+    200043,
+    200162
+   ],
+   "sectorId": 10008,
+   "sectorName": "Personal Consumer Services"
+  },
+  {
+   "childIndustryIds": [
+    200044,
+    200045,
+    200046,
+    200047
+   ],
+   "sectorId": 10009,
+   "sectorName": "Education"
+  },
+  {
+   "childIndustryIds": [
+    200001,
+    200048,
+    200052,
+    200055,
+    200146,
+    200148
+   ],
+   "sectorId": 10010,
+   "sectorName": "Financial Services"
+  },
+  {
+   "childIndustryIds": [
+    200056,
+    200057,
+    200058
+   ],
+   "sectorId": 10011,
+   "sectorName": "Government & Public Administration"
+  },
+  {
+   "childIndustryIds": [
+    200059,
+    200149,
+    200150,
+    200151,
+    200152,
+    200153
+   ],
+   "sectorId": 10012,
+   "sectorName": "Healthcare"
+  },
+  {
+   "childIndustryIds": [
+    200060,
+    200061,
+    200063,
+    200064,
+    200155
+   ],
+   "sectorId": 10013,
+   "sectorName": "Information Technology"
+  },
+  {
+   "childIndustryIds": [
+    200065,
+    200066
+   ],
+   "sectorId": 10014,
+   "sectorName": "Insurance"
+  },
+  {
+   "childIndustryIds": [
+    200027,
+    200068,
+    200070,
+    200071,
+    200072,
+    200073,
+    200074,
+    200075,
+    200076,
+    200147,
+    200159
+   ],
+   "sectorId": 10015,
+   "sectorName": "Manufacturing"
+  },
+  {
+   "childIndustryIds": [
+    200017,
+    200022,
+    200077,
+    200080,
+    200082,
+    200083,
+    200160,
+    200161
+   ],
+   "sectorId": 10016,
+   "sectorName": "Media & Communication"
+  },
+  {
+   "childIndustryIds": [
+    200087,
+    200088,
+    200089
+   ],
+   "sectorId": 10018,
+   "sectorName": "Nonprofit & NGO"
+  },
+  {
+   "childIndustryIds": [
+    200085,
+    200091
+   ],
+   "sectorId": 10019,
+   "sectorName": "Energy, Mining & Utilities"
+  },
+  {
+   "childIndustryIds": [
+    200094,
+    200165
+   ],
+   "sectorId": 10020,
+   "sectorName": "Real Estate"
+  },
+  {
+   "childIndustryIds": [
+    200012,
+    200096,
+    200099
+   ],
+   "sectorId": 10021,
+   "sectorName": "Restaurants & Food Service"
+  },
+  {
+   "childIndustryIds": [
+    200025,
+    200033,
+    200097,
+    200100,
+    200101,
+    200102,
+    200103,
+    200105,
+    200106,
+    200107,
+    200109,
+    200110,
+    200111,
+    200113,
+    200115,
+    200116,
+    200117,
+    200118,
+    200119,
+    200145
+   ],
+   "sectorId": 10022,
+   "sectorName": "Retail & Wholesale"
+  },
+  {
+   "childIndustryIds": [
+    200120,
+    200122
+   ],
+   "sectorId": 10023,
+   "sectorName": "Telecommunications"
+  },
+  {
+   "childIndustryIds": [
+    200127,
+    200128,
+    200130,
+    200132,
+    200134,
+    200135,
+    200166
+   ],
+   "sectorId": 10024,
+   "sectorName": "Transportation & Logistics"
+  },
+  {
+   "childIndustryIds": [
+    200139,
+    200144
+   ],
+   "sectorId": 10025,
+   "sectorName": "Hotels & Travel Accommodation"
+  },
+  {
+   "childIndustryIds": [
+    200032,
+    200154
+   ],
+   "sectorId": 10026,
+   "sectorName": "Human Resources & Staffing"
+  }
+ ]
+}

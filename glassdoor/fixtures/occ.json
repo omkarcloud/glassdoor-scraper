@@ -1,0 +1,86 @@
+{
+ "occSalaryEstimates": {
+  "additionalPayPercentiles": [
+   {
+    "percentile": "P_10TH",
+    "value": 25019.76
+   },
+   {
+    "percentile": "P_25TH",
+    "value": 32353.13
+   },
+   {
+    "percentile": "P_50TH",
+    "value": 43137.51
+   },
+   {
+    "percentile": "P_75TH",
+    "value": 60392.51
+   },
+   {
+    "percentile": "P_90TH",
+    "value": 78941.64
+   }
+  ],
+  "basePayPercentiles": [
+   {
+    "percentile": "P_10TH",
+    "value": 83165.05
+   },
+   {
+    "percentile": "P_25TH",
+    "value": 101202.79
+   },
+   {
+    "percentile": "P_50TH",
+    "value": 125890.97
+   },
+   {
+    "percentile": "P_75TH",
+    "value": 156601.76
+   },
+   {
+    "percentile": "P_90TH",
+    "value": 190567.25
+   }
+  ],
+  "confidence": "CONFIDENT",
+  "currency": {
+   "code": "USD"
+  },
+  "estimateSourceUpdateTime": "2025-04-10T23:59:59",
+  "jobTitle": {
+   "id": 4279,
+   "text": "Software Engineer"
+  },
+  "payPeriod": "ANNUAL",
+  "queryLocation": {
+   "id": 1132348,
+   "name": "New York, NY",
+   "type": "CITY"
+  },
+  "salariesCount": 50621,
+  "totalPayPercentiles": [
+   {
+    "percentile": "P_50TH",
+    "value": 169028.48
+   },
+   {
+    "percentile": "P_75TH",
+    "value": 216994.27
+   },
+   {
+    "percentile": "P_25TH",
+    "value": 133555.92
+   },
+   {
+    "percentile": "P_90TH",
+    "value": 269508.89
+   },
+   {
+    "percentile": "P_10TH",
+    "value": 108184.81
+   }
+  ]
+ }
+}

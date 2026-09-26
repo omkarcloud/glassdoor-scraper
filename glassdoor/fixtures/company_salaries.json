@@ -1,0 +1,444 @@
+{
+ "aggregatedSalaryEstimates": {
+  "numPages": 1836,
+  "queryLocation": {
+   "id": 1,
+   "name": "United States",
+   "shortName": "US",
+   "type": "COUNTRY"
+  },
+  "resultCount": 9176,
+  "results": [
+   {
+    "basePayStatistics": {
+     "mean": 184722.83,
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 134264.84
+      },
+      {
+       "ident": "P25",
+       "value": 156158.89
+      },
+      {
+       "ident": "P50",
+       "value": 184722.83
+      },
+      {
+       "ident": "P75",
+       "value": 218511.57
+      },
+      {
+       "ident": "P90",
+       "value": 254143.41
+      }
+     ]
+    },
+    "currency": {
+     "code": "USD"
+    },
+    "jobTitle": {
+     "id": 4279,
+     "text": "Software Engineer"
+    },
+    "payPeriod": "ANNUAL",
+    "salaryCount": 51168,
+    "totalAdditionalPayStatistics": {
+     "mean": 126972.82,
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 73644.24
+      },
+      {
+       "ident": "P25",
+       "value": 95229.62
+      },
+      {
+       "ident": "P50",
+       "value": 126972.82
+      },
+      {
+       "ident": "P75",
+       "value": 177761.95
+      },
+      {
+       "ident": "P90",
+       "value": 232360.26
+      }
+     ]
+    },
+    "totalPayStatistics": {
+     "mean": 311695.65,
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 207909.08
+      },
+      {
+       "ident": "P25",
+       "value": 251388.51
+      },
+      {
+       "ident": "P50",
+       "value": 311695.65
+      },
+      {
+       "ident": "P75",
+       "value": 396273.52
+      },
+      {
+       "ident": "P90",
+       "value": 486503.67
+      }
+     ]
+    }
+   },
+   {
+    "basePayStatistics": {
+     "mean": 231325.27,
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 173235.14
+      },
+      {
+       "ident": "P25",
+       "value": 198654.69
+      },
+      {
+       "ident": "P50",
+       "value": 231325.27
+      },
+      {
+       "ident": "P75",
+       "value": 269368.83
+      },
+      {
+       "ident": "P90",
+       "value": 308894.51
+      }
+     ]
+    },
+    "currency": {
+     "code": "USD"
+    },
+    "jobTitle": {
+     "id": 17959,
+     "text": "Senior Software Engineer"
+    },
+    "payPeriod": "ANNUAL",
+    "salaryCount": 3798,
+    "totalAdditionalPayStatistics": {
+     "mean": 225799.86,
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 130963.92
+      },
+      {
+       "ident": "P25",
+       "value": 169349.9
+      },
+      {
+       "ident": "P50",
+       "value": 225799.86
+      },
+      {
+       "ident": "P75",
+       "value": 316119.8
+      },
+      {
+       "ident": "P90",
+       "value": 413213.74
+      }
+     ]
+    },
+    "totalPayStatistics": {
+     "mean": 457125.13,
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 304199.06
+      },
+      {
+       "ident": "P25",
+       "value": 368004.59
+      },
+      {
+       "ident": "P50",
+       "value": 457125.13
+      },
+      {
+       "ident": "P75",
+       "value": 585488.63
+      },
+      {
+       "ident": "P90",
+       "value": 722108.25
+      }
+     ]
+    }
+   },
+   {
+    "basePayStatistics": {
+     "mean": 166826.94,
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 123828.13
+      },
+      {
+       "ident": "P25",
+       "value": 142596.77
+      },
+      {
+       "ident": "P50",
+       "value": 166826.94
+      },
+      {
+       "ident": "P75",
+       "value": 195174.32
+      },
+      {
+       "ident": "P90",
+       "value": 224756.9
+      }
+     ]
+    },
+    "currency": {
+     "code": "USD"
+    },
+    "jobTitle": {
+     "id": 61502,
+     "text": "Program Manager"
+    },
+    "payPeriod": "ANNUAL",
+    "salaryCount": 2489,
+    "totalAdditionalPayStatistics": {
+     "mean": 87477.26,
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 50736.81
+      },
+      {
+       "ident": "P25",
+       "value": 65607.95
+      },
+      {
+       "ident": "P50",
+       "value": 87477.26
+      },
+      {
+       "ident": "P75",
+       "value": 122468.16
+      },
+      {
+       "ident": "P90",
+       "value": 160083.39
+      }
+     ]
+    },
+    "totalPayStatistics": {
+     "mean": 254304.2,
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 174564.94
+      },
+      {
+       "ident": "P25",
+       "value": 208204.72
+      },
+      {
+       "ident": "P50",
+       "value": 254304.2
+      },
+      {
+       "ident": "P75",
+       "value": 317642.48
+      },
+      {
+       "ident": "P90",
+       "value": 384840.29
+      }
+     ]
+    }
+   },
+   {
+    "basePayStatistics": {
+     "mean": 206176.25,
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 150537.62
+      },
+      {
+       "ident": "P25",
+       "value": 174710.59
+      },
+      {
+       "ident": "P50",
+       "value": 206176.25
+      },
+      {
+       "ident": "P75",
+       "value": 243308.93
+      },
+      {
+       "ident": "P90",
+       "value": 282378.9
+      }
+     ]
+    },
+    "currency": {
+     "code": "USD"
+    },
+    "jobTitle": {
+     "id": 61585,
+     "text": "Product Manager"
+    },
+    "payPeriod": "ANNUAL",
+    "salaryCount": 2329,
+    "totalAdditionalPayStatistics": {
+     "mean": 157390.49,
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 91286.48
+      },
+      {
+       "ident": "P25",
+       "value": 118042.87
+      },
+      {
+       "ident": "P50",
+       "value": 157390.49
+      },
+      {
+       "ident": "P75",
+       "value": 220346.69
+      },
+      {
+       "ident": "P90",
+       "value": 288024.6
+      }
+     ]
+    },
+    "totalPayStatistics": {
+     "mean": 363566.74,
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 241824.1
+      },
+      {
+       "ident": "P25",
+       "value": 292753.46
+      },
+      {
+       "ident": "P50",
+       "value": 363566.74
+      },
+      {
+       "ident": "P75",
+       "value": 463655.62
+      },
+      {
+       "ident": "P90",
+       "value": 570403.5
+      }
+     ]
+    }
+   },
+   {
+    "basePayStatistics": {
+     "mean": 189044.01,
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 141102.65
+      },
+      {
+       "ident": "P25",
+       "value": 162061.6
+      },
+      {
+       "ident": "P50",
+       "value": 189044.01
+      },
+      {
+       "ident": "P75",
+       "value": 220518.84
+      },
+      {
+       "ident": "P90",
+       "value": 253274.04
+      }
+     ]
+    },
+    "currency": {
+     "code": "USD"
+    },
+    "jobTitle": {
+     "id": 58273,
+     "text": "Technical Program Manager"
+    },
+    "payPeriod": "ANNUAL",
+    "salaryCount": 1227,
+    "totalAdditionalPayStatistics": {
+     "mean": 193344.02,
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 112139.53
+      },
+      {
+       "ident": "P25",
+       "value": 145008.02
+      },
+      {
+       "ident": "P50",
+       "value": 193344.02
+      },
+      {
+       "ident": "P75",
+       "value": 270681.63
+      },
+      {
+       "ident": "P90",
+       "value": 353819.56
+      }
+     ]
+    },
+    "totalPayStatistics": {
+     "mean": 382388.03,
+     "percentiles": [
+      {
+       "ident": "P10",
+       "value": 253242.18
+      },
+      {
+       "ident": "P25",
+       "value": 307069.62
+      },
+      {
+       "ident": "P50",
+       "value": 382388.03
+      },
+      {
+       "ident": "P75",
+       "value": 491200.47
+      },
+      {
+       "ident": "P90",
+       "value": 607093.6
+      }
+     ]
+    }
+   }
+  ]
+ }
+}

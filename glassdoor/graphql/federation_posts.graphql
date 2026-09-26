@@ -1,0 +1,40 @@
+query GetFederationPosts($query: FederationPublicPostsParams!) {
+    getFederationPosts(query: $query) {
+      posts {
+        _id
+        bowl {
+          _id
+          handleUrl
+          name
+          numberOfUsers
+          type
+          uiConfig {
+            icon
+          }
+        }
+        commentsCount
+        date
+        handleUrl
+        messageData {
+          ... on TextMessageData {
+            text
+          }
+        }
+        messageType
+        ppcCategories {
+          categoryName
+        }
+        reactionCounters {
+          FUNNY: funny
+          HELPFUL: helpful
+          LIKE: like
+          SMART: smart
+          UPLIFTING: uplifting
+        }
+        sign {
+          signType
+          name
+        }
+      }
+    }
+  }

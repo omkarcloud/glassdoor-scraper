@@ -1,0 +1,1164 @@
+{
+ "benefitsOverviewForCountry": {
+  "benefitsCategoryToStatisticAggregates": [
+   {
+    "benefitCategory": {
+     "id": 0,
+     "name": "Overview"
+    },
+    "benefitStatisticAggregateList": [
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Overview"
+       },
+       "id": 0,
+       "name": "",
+       "score": 0,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 8266,
+      "benefitRatingNumerator": 38480,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 0,
+      "reportingNumerator": 0,
+      "totalComments": 8266,
+      "verified": false,
+      "verifiedDate": null
+     }
+    ]
+   },
+   {
+    "benefitCategory": {
+     "id": 1,
+     "name": "Insurance, Health & Wellness"
+    },
+    "benefitStatisticAggregateList": [
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Insurance, Health & Wellness"
+       },
+       "id": 1,
+       "name": "Health Insurance",
+       "score": 70,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 816,
+      "benefitRatingNumerator": 3770,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 4206,
+      "reportingNumerator": 4079,
+      "totalComments": 816,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:44:28.927Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Insurance, Health & Wellness"
+       },
+       "id": 2,
+       "name": "Dental Insurance",
+       "score": 30,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 149,
+      "benefitRatingNumerator": 667,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 898,
+      "reportingNumerator": 870,
+      "totalComments": 149,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:44:28.927Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Insurance, Health & Wellness"
+       },
+       "id": 4,
+       "name": "Flexible Spending Account (FSA)",
+       "score": 20,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 21,
+      "benefitRatingNumerator": 95,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 961,
+      "reportingNumerator": 901,
+      "totalComments": 21,
+      "verified": false,
+      "verifiedDate": "2021-11-24T08:44:28.927Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Insurance, Health & Wellness"
+       },
+       "id": 3,
+       "name": "Vision Insurance",
+       "score": 10,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 113,
+      "benefitRatingNumerator": 511,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 932,
+      "reportingNumerator": 898,
+      "totalComments": 113,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:44:28.927Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Insurance, Health & Wellness"
+       },
+       "id": 5,
+       "name": "Health Savings Account (HSA)",
+       "score": 10,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 47,
+      "benefitRatingNumerator": 203,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 960,
+      "reportingNumerator": 922,
+      "totalComments": 47,
+      "verified": false,
+      "verifiedDate": "2021-11-24T08:44:28.927Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Insurance, Health & Wellness"
+       },
+       "id": 6,
+       "name": "Life Insurance",
+       "score": 10,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 97,
+      "benefitRatingNumerator": 426,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 884,
+      "reportingNumerator": 843,
+      "totalComments": 97,
+      "verified": false,
+      "verifiedDate": "2021-11-24T08:44:28.927Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Insurance, Health & Wellness"
+       },
+       "id": 7,
+       "name": "Supplemental Life Insurance",
+       "score": 5,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 58,
+      "benefitRatingNumerator": 247,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 928,
+      "reportingNumerator": 880,
+      "totalComments": 58,
+      "verified": false,
+      "verifiedDate": "2021-11-24T08:44:28.927Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Insurance, Health & Wellness"
+       },
+       "id": 8,
+       "name": "Disability Insurance",
+       "score": 5,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 45,
+      "benefitRatingNumerator": 202,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 933,
+      "reportingNumerator": 886,
+      "totalComments": 45,
+      "verified": false,
+      "verifiedDate": "2021-11-24T08:44:28.927Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Insurance, Health & Wellness"
+       },
+       "id": 9,
+       "name": "Occupational Accident Insurance",
+       "score": 5,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 14,
+      "benefitRatingNumerator": 60,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 885,
+      "reportingNumerator": 795,
+      "totalComments": 14,
+      "verified": false,
+      "verifiedDate": "2021-11-24T08:44:28.927Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Insurance, Health & Wellness"
+       },
+       "id": 10,
+       "name": "Health Care On-Site",
+       "score": 5,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 13,
+      "benefitRatingNumerator": 59,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 896,
+      "reportingNumerator": 783,
+      "totalComments": 13,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:44:28.927Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Insurance, Health & Wellness"
+       },
+       "id": 11,
+       "name": "Mental Health Care",
+       "score": 5,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 26,
+      "benefitRatingNumerator": 119,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 897,
+      "reportingNumerator": 837,
+      "totalComments": 26,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:44:28.927Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Insurance, Health & Wellness"
+       },
+       "id": 12,
+       "name": "Retiree Health & Medical",
+       "score": 5,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 10,
+      "benefitRatingNumerator": 47,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 891,
+      "reportingNumerator": 689,
+      "totalComments": 10,
+      "verified": false,
+      "verifiedDate": "2021-11-24T08:44:28.927Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Insurance, Health & Wellness"
+       },
+       "id": 18,
+       "name": "Workers' Compensation",
+       "score": 5,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 7,
+      "benefitRatingNumerator": 31,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 906,
+      "reportingNumerator": 778,
+      "totalComments": 7,
+      "verified": false,
+      "verifiedDate": null
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Insurance, Health & Wellness"
+       },
+       "id": 166,
+       "name": "Accidental Death & Dismemberment Insurance",
+       "score": 5,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 27,
+      "benefitRatingNumerator": 122,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 912,
+      "reportingNumerator": 860,
+      "totalComments": 27,
+      "verified": false,
+      "verifiedDate": "2021-11-24T08:44:28.927Z"
+     }
+    ]
+   },
+   {
+    "benefitCategory": {
+     "id": 2,
+     "name": "Financial & Retirement"
+    },
+    "benefitStatisticAggregateList": [
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Financial & Retirement"
+       },
+       "id": 14,
+       "name": "Pension Plan",
+       "score": 80,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 14,
+      "benefitRatingNumerator": 51,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 873,
+      "reportingNumerator": 379,
+      "totalComments": 14,
+      "verified": false,
+      "verifiedDate": null
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Financial & Retirement"
+       },
+       "id": 13,
+       "name": "401K Plan",
+       "score": 70,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 378,
+      "benefitRatingNumerator": 1782,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 4410,
+      "reportingNumerator": 4209,
+      "totalComments": 378,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:46:06.047Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Financial & Retirement"
+       },
+       "id": 20,
+       "name": "Retirement Plan",
+       "score": 60,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 210,
+      "benefitRatingNumerator": 960,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 4237,
+      "reportingNumerator": 3846,
+      "totalComments": 210,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:46:24.610Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Financial & Retirement"
+       },
+       "id": 15,
+       "name": "Employee Stock Purchase Plan",
+       "score": 20,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 1,
+      "benefitRatingNumerator": 5,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 893,
+      "reportingNumerator": 566,
+      "totalComments": 1,
+      "verified": false,
+      "verifiedDate": null
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Financial & Retirement"
+       },
+       "id": 17,
+       "name": "Performance Bonus",
+       "score": 20,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 104,
+      "benefitRatingNumerator": 451,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 884,
+      "reportingNumerator": 841,
+      "totalComments": 104,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:47:48.590Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Financial & Retirement"
+       },
+       "id": 19,
+       "name": "Stock Options",
+       "score": 20,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 18,
+      "benefitRatingNumerator": 80,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 879,
+      "reportingNumerator": 746,
+      "totalComments": 18,
+      "verified": false,
+      "verifiedDate": null
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Financial & Retirement"
+       },
+       "id": 16,
+       "name": "Equity Incentive Plan",
+       "score": 5,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 13,
+      "benefitRatingNumerator": 60,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 887,
+      "reportingNumerator": 786,
+      "totalComments": 13,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:46:24.610Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Financial & Retirement"
+       },
+       "id": 21,
+       "name": "Charitable Gift Matching",
+       "score": 5,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 61,
+      "benefitRatingNumerator": 262,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 920,
+      "reportingNumerator": 875,
+      "totalComments": 61,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:46:39.747Z"
+     }
+    ]
+   },
+   {
+    "benefitCategory": {
+     "id": 3,
+     "name": "Family & Parenting"
+    },
+    "benefitStatisticAggregateList": [
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Family & Parenting"
+       },
+       "id": 23,
+       "name": "Maternity & Paternity Leave",
+       "score": 80,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 355,
+      "benefitRatingNumerator": 1656,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 4201,
+      "reportingNumerator": 4025,
+      "totalComments": 355,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:47:48.590Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Family & Parenting"
+       },
+       "id": 25,
+       "name": "Fertility Assistance",
+       "score": 30,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 12,
+      "benefitRatingNumerator": 55,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 920,
+      "reportingNumerator": 825,
+      "totalComments": 12,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:48:37.587Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Family & Parenting"
+       },
+       "id": 22,
+       "name": "Dependent Care",
+       "score": 20,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 9,
+      "benefitRatingNumerator": 43,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 901,
+      "reportingNumerator": 756,
+      "totalComments": 9,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:49:20.657Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Family & Parenting"
+       },
+       "id": 24,
+       "name": "Adoption Assistance",
+       "score": 20,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 7,
+      "benefitRatingNumerator": 29,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 903,
+      "reportingNumerator": 779,
+      "totalComments": 7,
+      "verified": false,
+      "verifiedDate": null
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Family & Parenting"
+       },
+       "id": 26,
+       "name": "Childcare",
+       "score": 20,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 7,
+      "benefitRatingNumerator": 26,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 895,
+      "reportingNumerator": 605,
+      "totalComments": 7,
+      "verified": false,
+      "verifiedDate": null
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Family & Parenting"
+       },
+       "id": 164,
+       "name": "Reduced or Flexible Hours",
+       "score": 20,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 24,
+      "benefitRatingNumerator": 91,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 894,
+      "reportingNumerator": 781,
+      "totalComments": 24,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:50:23.547Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Family & Parenting"
+       },
+       "id": 28,
+       "name": "Family Medical Leave",
+       "score": 10,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 36,
+      "benefitRatingNumerator": 161,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 905,
+      "reportingNumerator": 858,
+      "totalComments": 36,
+      "verified": false,
+      "verifiedDate": null
+     }
+    ]
+   },
+   {
+    "benefitCategory": {
+     "id": 4,
+     "name": "Vacation & Time Off"
+    },
+    "benefitStatisticAggregateList": [
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Vacation & Time Off"
+       },
+       "id": 29,
+       "name": "Vacation & Paid Time Off",
+       "score": 60,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 549,
+      "benefitRatingNumerator": 2496,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 4207,
+      "reportingNumerator": 4046,
+      "totalComments": 549,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:52:48.833Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Vacation & Time Off"
+       },
+       "id": 33,
+       "name": "Sick Leave",
+       "score": 40,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 228,
+      "benefitRatingNumerator": 1031,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 885,
+      "reportingNumerator": 863,
+      "totalComments": 228,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:52:48.833Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Vacation & Time Off"
+       },
+       "id": 30,
+       "name": "Paid Holidays",
+       "score": 30,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 218,
+      "benefitRatingNumerator": 993,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 896,
+      "reportingNumerator": 871,
+      "totalComments": 218,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:52:48.833Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Vacation & Time Off"
+       },
+       "id": 27,
+       "name": "Military Leave",
+       "score": 10,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 5,
+      "benefitRatingNumerator": 23,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 888,
+      "reportingNumerator": 741,
+      "totalComments": 5,
+      "verified": false,
+      "verifiedDate": null
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Vacation & Time Off"
+       },
+       "id": 32,
+       "name": "Volunteer Time Off",
+       "score": 10,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 18,
+      "benefitRatingNumerator": 80,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 885,
+      "reportingNumerator": 816,
+      "totalComments": 18,
+      "verified": false,
+      "verifiedDate": null
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Vacation & Time Off"
+       },
+       "id": 31,
+       "name": "Sabbatical Leave",
+       "score": 5,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 2,
+      "benefitRatingNumerator": 9,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 906,
+      "reportingNumerator": 573,
+      "totalComments": 2,
+      "verified": false,
+      "verifiedDate": null
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Vacation & Time Off"
+       },
+       "id": 156,
+       "name": "Unpaid Extended Leave",
+       "score": 5,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 15,
+      "benefitRatingNumerator": 65,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 899,
+      "reportingNumerator": 818,
+      "totalComments": 15,
+      "verified": false,
+      "verifiedDate": null
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Vacation & Time Off"
+       },
+       "id": 160,
+       "name": "Bereavement Leave",
+       "score": 5,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 42,
+      "benefitRatingNumerator": 177,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 929,
+      "reportingNumerator": 883,
+      "totalComments": 42,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:58:49.437Z"
+     }
+    ]
+   },
+   {
+    "benefitCategory": {
+     "id": 5,
+     "name": "Perks & Discounts"
+    },
+    "benefitStatisticAggregateList": [
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Perks & Discounts"
+       },
+       "id": 152,
+       "name": "Work From Home",
+       "score": 70,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 246,
+      "benefitRatingNumerator": 1071,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 4159,
+      "reportingNumerator": 3581,
+      "totalComments": 246,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:48:07.557Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Perks & Discounts"
+       },
+       "id": 34,
+       "name": "Employee Discounts",
+       "score": 50,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 244,
+      "benefitRatingNumerator": 1015,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 4187,
+      "reportingNumerator": 3819,
+      "totalComments": 244,
+      "verified": false,
+      "verifiedDate": null
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Perks & Discounts"
+       },
+       "id": 36,
+       "name": "Free Lunch or Snacks",
+       "score": 50,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 2144,
+      "benefitRatingNumerator": 10081,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 4174,
+      "reportingNumerator": 4047,
+      "totalComments": 2144,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:58:49.437Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Perks & Discounts"
+       },
+       "id": 47,
+       "name": "Employee Assistance Program",
+       "score": 30,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 41,
+      "benefitRatingNumerator": 174,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 883,
+      "reportingNumerator": 830,
+      "totalComments": 41,
+      "verified": true,
+      "verifiedDate": "2021-11-24T09:01:21.907Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Perks & Discounts"
+       },
+       "id": 37,
+       "name": "Gym Membership",
+       "score": 20,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 18,
+      "benefitRatingNumerator": 80,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 877,
+      "reportingNumerator": 737,
+      "totalComments": 18,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:59:15.260Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Perks & Discounts"
+       },
+       "id": 35,
+       "name": "Commuter Checks & Assistance",
+       "score": 10,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 12,
+      "benefitRatingNumerator": 54,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 910,
+      "reportingNumerator": 795,
+      "totalComments": 12,
+      "verified": false,
+      "verifiedDate": null
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Perks & Discounts"
+       },
+       "id": 38,
+       "name": "Pet Friendly Workplace",
+       "score": 5,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 62,
+      "benefitRatingNumerator": 280,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 919,
+      "reportingNumerator": 875,
+      "totalComments": 62,
+      "verified": true,
+      "verifiedDate": "2021-11-24T09:00:01.837Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Perks & Discounts"
+       },
+       "id": 39,
+       "name": "Mobile Phone Discount",
+       "score": 5,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 10,
+      "benefitRatingNumerator": 47,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 891,
+      "reportingNumerator": 732,
+      "totalComments": 10,
+      "verified": true,
+      "verifiedDate": "2021-11-24T08:59:38.113Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Perks & Discounts"
+       },
+       "id": 40,
+       "name": "Company Car",
+       "score": 5,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 2,
+      "benefitRatingNumerator": 8,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 904,
+      "reportingNumerator": 233,
+      "totalComments": 2,
+      "verified": false,
+      "verifiedDate": null
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Perks & Discounts"
+       },
+       "id": 42,
+       "name": "Company Social Events",
+       "score": 5,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 144,
+      "benefitRatingNumerator": 622,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 901,
+      "reportingNumerator": 873,
+      "totalComments": 144,
+      "verified": false,
+      "verifiedDate": null
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Perks & Discounts"
+       },
+       "id": 45,
+       "name": "Travel Concierge",
+       "score": 5,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 7,
+      "benefitRatingNumerator": 31,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 905,
+      "reportingNumerator": 715,
+      "totalComments": 7,
+      "verified": false,
+      "verifiedDate": null
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Perks & Discounts"
+       },
+       "id": 46,
+       "name": "Legal Assistance",
+       "score": 5,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 20,
+      "benefitRatingNumerator": 96,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 928,
+      "reportingNumerator": 861,
+      "totalComments": 20,
+      "verified": false,
+      "verifiedDate": null
+     }
+    ]
+   },
+   {
+    "benefitCategory": {
+     "id": 21,
+     "name": "Professional Support"
+    },
+    "benefitStatisticAggregateList": [
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Professional Support"
+       },
+       "id": 123,
+       "name": "Diversity Programs",
+       "score": 40,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 81,
+      "benefitRatingNumerator": 335,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 876,
+      "reportingNumerator": 819,
+      "totalComments": 81,
+      "verified": false,
+      "verifiedDate": "2021-11-24T09:05:40.913Z"
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Professional Support"
+       },
+       "id": 43,
+       "name": "Job Training",
+       "score": 20,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 80,
+      "benefitRatingNumerator": 322,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 885,
+      "reportingNumerator": 839,
+      "totalComments": 80,
+      "verified": false,
+      "verifiedDate": null
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Professional Support"
+       },
+       "id": 44,
+       "name": "Professional Development",
+       "score": 20,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 109,
+      "benefitRatingNumerator": 472,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 890,
+      "reportingNumerator": 854,
+      "totalComments": 109,
+      "verified": false,
+      "verifiedDate": null
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Professional Support"
+       },
+       "id": 250,
+       "name": "Apprenticeship Program",
+       "score": 20,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 7,
+      "benefitRatingNumerator": 32,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 873,
+      "reportingNumerator": 629,
+      "totalComments": 7,
+      "verified": false,
+      "verifiedDate": null
+     },
+     {
+      "benefit": {
+       "benefitCategory": {
+        "name": "Professional Support"
+       },
+       "id": 41,
+       "name": "Tuition Assistance",
+       "score": 10,
+       "tooltip": null
+      },
+      "benefitRatingDenominator": 17,
+      "benefitRatingNumerator": 75,
+      "comment": null,
+      "linked": true,
+      "reportingDenominator": 915,
+      "reportingNumerator": 843,
+      "totalComments": 17,
+      "verified": false,
+      "verifiedDate": null
+     }
+    ]
+   }
+  ],
+  "overallBenefitRating": 4.7,
+  "totalBenefitReviews": 8266
+ }
+}

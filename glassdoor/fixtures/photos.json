@@ -1,0 +1,47 @@
+{
+ "employerPhotos": {
+  "photos": [
+   {
+    "caption": "See yourself at Google",
+    "location": null,
+    "photoId": 10582892,
+    "photoLink": "/Photos/Google-Office-Photos-IMG10582892.htm",
+    "photoUrl2x": "https://media.glassdoor.com/lst2x/4c/06/b3/cd/see-yourself-at-google.jpg?signature=4f8ac92b94eac9a701cde125743053476d544d4a7e9c1277d24da6885ad60957",
+    "photoUrlLarge": "https://media.glassdoor.com/l/4c/06/b3/cd/see-yourself-at-google.jpg?signature=7ab372dffc23f6e061fae87128e468a08b5df1653d7093bbe12ba82421dceed6"
+   },
+   {
+    "caption": "Japan Office",
+    "location": null,
+    "photoId": 10589185,
+    "photoLink": "/Photos/Google-Office-Photos-IMG10589185.htm",
+    "photoUrl2x": "https://media.glassdoor.com/lst2x/85/99/71/08/japan-office.jpg?signature=60ed6342ffebd8ae88f9f71c5f0fe6a0259d28a1a351627e8d271b38c95423d2",
+    "photoUrlLarge": "https://media.glassdoor.com/l/85/99/71/08/japan-office.jpg?signature=ebf1bc40a2cdf6b1d2af7c5e4e055bde518b939bbf8a9820fa2b9a488445aee6"
+   },
+   {
+    "caption": "Google canada",
+    "location": null,
+    "photoId": 10589160,
+    "photoLink": "/Photos/Google-Office-Photos-IMG10589160.htm",
+    "photoUrl2x": "https://media.glassdoor.com/lst2x/29/e7/1c/2f/google-canada.jpg?signature=37eb9fd216dfdc546d06960300b85a167f675de30f6780222b4f89534976dac2",
+    "photoUrlLarge": "https://media.glassdoor.com/l/29/e7/1c/2f/google-canada.jpg?signature=436666d2a87ad8c162ca501d0ef50c24bb7c3034d0e9a7c742e0cfcd0495da88"
+   },
+   {
+    "caption": "Office slide",
+    "location": null,
+    "photoId": 10589153,
+    "photoLink": "/Photos/Google-Office-Photos-IMG10589153.htm",
+    "photoUrl2x": "https://media.glassdoor.com/lst2x/a3/e8/aa/0a/office-slide.jpg?signature=ee51c53fb7eaae199b06e0e1d26ebbf76015265be583a48010aca252e234afb4",
+    "photoUrlLarge": "https://media.glassdoor.com/l/a3/e8/aa/0a/office-slide.jpg?signature=396caf54177d6558f0441c04da59900d4cce63d1111d239cdd057802ad5370fb"
+   },
+   {
+    "caption": "Googlers in game room",
+    "location": null,
+    "photoId": 10589150,
+    "photoLink": "/Photos/Google-Office-Photos-IMG10589150.htm",
+    "photoUrl2x": "https://media.glassdoor.com/lst2x/a5/1c/f4/53/googlers-in-game-room.jpg?signature=032aec822e469f63ef35d7aa467da2e7decdfa17d0ff83a25bd6880acf280c2a",
+    "photoUrlLarge": "https://media.glassdoor.com/l/a5/1c/f4/53/googlers-in-game-room.jpg?signature=654a8025a93cfc96e13630417cebdfb5a4557b43a2d7973b144a1cdfeeb46375"
+   }
+  ],
+  "totalCount": 621
+ }
+}

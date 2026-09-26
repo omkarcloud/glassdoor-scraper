@@ -1,0 +1,52 @@
+{
+ "employerInterviews": {
+  "difficultySubmissionCount": 25354,
+  "difficultySum": 85280,
+  "filteredInterviewCount": 26139,
+  "interviewExperienceCounts": [
+   {
+    "count": 16223,
+    "type": "POSITIVE"
+   },
+   {
+    "count": 3202,
+    "type": "NEGATIVE"
+   },
+   {
+    "count": 6068,
+    "type": "NEUTRAL"
+   }
+  ],
+  "interviewObtainedChannelCounts": [
+   {
+    "count": 3413,
+    "type": "RECRUITER"
+   },
+   {
+    "count": 398,
+    "type": "OTHER"
+   },
+   {
+    "count": 3235,
+    "type": "EMPLOYEE_REFERRAL"
+   },
+   {
+    "count": 1336,
+    "type": "COLLEGE"
+   },
+   {
+    "count": 266,
+    "type": "IN_PERSON"
+   },
+   {
+    "count": 8605,
+    "type": "APPLIED_ONLINE"
+   },
+   {
+    "count": 251,
+    "type": "STAFFING_AGENCY"
+   }
+  ],
+  "totalInterviewCount": 26139
+ }
+}

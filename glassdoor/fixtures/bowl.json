@@ -1,0 +1,43 @@
+{
+ "getBowlDetailsCG": {
+  "_id": "55375ce690f5eebe1d2a0f88",
+  "allowedMembershipType": "MEMBER",
+  "canJoin": false,
+  "creationDate": "2015-07-01T19:43:59.729Z",
+  "description": "Bowl for Tech industry professionals.",
+  "feedState": {
+   "lastMessageDate": "2026-09-26T01:08:23.777Z"
+  },
+  "handleUrl": "technology",
+  "hasPosts": true,
+  "hideNumberOfUsers": true,
+  "isBowlLeader": false,
+  "isJoined": false,
+  "isLocked": false,
+  "isVisible": true,
+  "joinMode": "DEFAULT",
+  "joinState": "NONE",
+  "meetsJoinRules": false,
+  "name": "Tech",
+  "numberOfUsers": 7851094,
+  "requestToJoinConfig": {
+   "isJoinReasonRequired": false,
+   "isMultipleChoiceEnabled": false,
+   "shouldRequestPhoto": false,
+   "userEnteredJoinReason": null
+  },
+  "subscriptionType": null,
+  "suggestionSource": "USER_INFO",
+  "type": "CROWD",
+  "uiConfig": {
+   "colorFrom": "4C28FF",
+   "colorTo": "1B0B6B",
+   "coverPic": "https://www.glassdoor.com/images/bowls/headers/tech-3x.png",
+   "icon": "https://www.glassdoor.com/images/bowls/icons/tech-3x.png"
+  },
+  "userPushState": {
+   "isNewPostsEnabled": true,
+   "isPushEnabled": true
+  }
+ }
+}

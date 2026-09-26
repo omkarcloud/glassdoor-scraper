@@ -1,0 +1,1677 @@
+{
+ "employerSearchRG": {
+  "employerResults": [
+   {
+    "demographicRatings": [
+     {
+      "category": "gender",
+      "categoryRatings": [
+       {
+        "categoryValue": "man",
+        "ratings": {
+         "overallRating": 3.4
+        }
+       },
+       {
+        "categoryValue": "woman",
+        "ratings": {
+         "overallRating": 5.0
+        }
+       },
+       {
+        "categoryValue": "nonBinary",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "raceEthnicity",
+      "categoryRatings": [
+       {
+        "categoryValue": "indigenousAmerican",
+        "ratings": null
+       },
+       {
+        "categoryValue": "asian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "nativeHawaiian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "middleEastern",
+        "ratings": null
+       },
+       {
+        "categoryValue": "blackOrAfricanAmerican",
+        "ratings": null
+       },
+       {
+        "categoryValue": "hispanicOrLatinx",
+        "ratings": {
+         "overallRating": 4.6
+        }
+       },
+       {
+        "categoryValue": "white",
+        "ratings": {
+         "overallRating": 4.9
+        }
+       }
+      ]
+     },
+     {
+      "category": "sexualOrientation",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 4.4
+        }
+       }
+      ]
+     },
+     {
+      "category": "disability",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 4.5
+        }
+       }
+      ]
+     },
+     {
+      "category": "parentOrCaregiver",
+      "categoryRatings": [
+       {
+        "categoryValue": "parentOrGuardian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "caregiver",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 4.0
+        }
+       }
+      ]
+     },
+     {
+      "category": "veteranStatus",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 4.8
+        }
+       }
+      ]
+     }
+    ],
+    "employer": {
+     "bestLedCompanies": [],
+     "bestPlacesToWork": [],
+     "bestPlacesToWorkCEO": [],
+     "bestProfile": {
+      "id": 7573888
+     },
+     "counts": {
+      "globalJobCount": {
+       "jobCount": 9
+      },
+      "reviewCount": 2343,
+      "salaryCount": 3771
+     },
+     "headquarters": "São Paulo, Brazil",
+     "id": 333951,
+     "name": "Banco Votorantim S.A.",
+     "overview": {
+      "description": "Muito prazer, somos o banco BV.\n\nO nome pode até parecer novo, já que a gente adotou a abreviação faz pouco tempo, mas há quase 30 anos fazemos parte da vida dos brasileiros, seja nos planos para o futuro, nas conquistas pessoais ou nos negócios. \n\nIsso porque nossa missão é tornar mais tranquila a vida financeira de pessoas e empresas, levando ainda mais leveza para nossos clientes. E a gente leva esse compromisso em tudo o que a gente faz. Foi por isso que nos transformamos e evoluímos, para acompanharmos as necessidades de nossos clientes de forma simples, corajosa, correta e parceira.\n\nEstamos presentes em todo o território nacional e já somos quase 4.000 colaboradores. Somos a sexta maior instituição financeira privada do Brasil. Nossos acionistas são a centenária Votorantim S.A., um dos maiores conglomerados industriais do mundo, e o Banco do Brasil, uma das maiores instituições financeiras da América Latina. \n\nE quando o assunto for serviço, atuamos nos segmentos de Corporate e Investment Banking, Asset Management, Private Bank e Financiamentos, além de investir no desenvolvimento de startups e fintechs com o BVx. Já quando for produtos, a gente oferece financiamentos e créditos.\n\nDurante estes anos, muita coisa mudou. Passamos por grandes transformações e continuamos na busca por mais melhorias, mas o que não muda é a forma como nos conectamos e o nosso objetivo de tentar trazer sempre mais leveza para a vida financeira.\n"
+     },
+     "primaryIndustry": {
+      "industryId": 200048,
+      "industryName": "Banking & Lending",
+      "sectorId": 10010,
+      "sectorName": "Financial Services"
+     },
+     "ratings": {
+      "businessOutlookRating": 0.68,
+      "careerOpportunitiesRating": 3.8,
+      "ceoRating": 0.78,
+      "ceoRatingsCount": 91,
+      "compensationAndBenefitsRating": 4.7,
+      "cultureAndValuesRating": 4.1,
+      "diversityAndInclusionRating": 4.3,
+      "overallRating": 4.2,
+      "recommendToFriendRating": 0.85,
+      "seniorManagementRating": 3.6,
+      "workLifeBalanceRating": 4.1
+     },
+     "shortName": "banco BV",
+     "size": "1001 to 5000 Employees",
+     "sizeCategory": "LARGE",
+     "squareLogoUrl": "https://media.glassdoor.com/sql/333951/banco-bv-squareLogo-1783604273080.png",
+     "website": "http://www.bancobv.com.br"
+    }
+   },
+   {
+    "demographicRatings": [
+     {
+      "category": "gender",
+      "categoryRatings": [
+       {
+        "categoryValue": "man",
+        "ratings": {
+         "overallRating": 3.6
+        }
+       },
+       {
+        "categoryValue": "woman",
+        "ratings": {
+         "overallRating": 3.9
+        }
+       },
+       {
+        "categoryValue": "nonBinary",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "raceEthnicity",
+      "categoryRatings": [
+       {
+        "categoryValue": "indigenousAmerican",
+        "ratings": null
+       },
+       {
+        "categoryValue": "asian",
+        "ratings": {
+         "overallRating": 3.9
+        }
+       },
+       {
+        "categoryValue": "nativeHawaiian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "middleEastern",
+        "ratings": null
+       },
+       {
+        "categoryValue": "blackOrAfricanAmerican",
+        "ratings": {
+         "overallRating": 3.9
+        }
+       },
+       {
+        "categoryValue": "hispanicOrLatinx",
+        "ratings": {
+         "overallRating": 4.0
+        }
+       },
+       {
+        "categoryValue": "white",
+        "ratings": {
+         "overallRating": 3.6
+        }
+       }
+      ]
+     },
+     {
+      "category": "sexualOrientation",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": {
+         "overallRating": 3.5
+        }
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.8
+        }
+       }
+      ]
+     },
+     {
+      "category": "disability",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": {
+         "overallRating": 3.3
+        }
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.7
+        }
+       }
+      ]
+     },
+     {
+      "category": "parentOrCaregiver",
+      "categoryRatings": [
+       {
+        "categoryValue": "parentOrGuardian",
+        "ratings": {
+         "overallRating": 4.0
+        }
+       },
+       {
+        "categoryValue": "caregiver",
+        "ratings": {
+         "overallRating": 4.0
+        }
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.6
+        }
+       }
+      ]
+     },
+     {
+      "category": "veteranStatus",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": {
+         "overallRating": 4.1
+        }
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.4
+        }
+       }
+      ]
+     }
+    ],
+    "employer": {
+     "bestLedCompanies": [],
+     "bestPlacesToWork": [],
+     "bestPlacesToWorkCEO": [],
+     "bestProfile": {
+      "id": 11406999
+     },
+     "counts": {
+      "globalJobCount": {
+       "jobCount": 1
+      },
+      "reviewCount": 546,
+      "salaryCount": 948
+     },
+     "headquarters": "Quakertown, PA",
+     "id": 8884681,
+     "name": "TD Bank",
+     "overview": {
+      "description": null
+     },
+     "primaryIndustry": null,
+     "ratings": {
+      "businessOutlookRating": 0.57,
+      "careerOpportunitiesRating": 3.6,
+      "ceoRating": 1.0,
+      "ceoRatingsCount": 7,
+      "compensationAndBenefitsRating": 3.7,
+      "cultureAndValuesRating": 3.6,
+      "diversityAndInclusionRating": 4.1,
+      "overallRating": 3.8,
+      "recommendToFriendRating": 0.67,
+      "seniorManagementRating": 3.3,
+      "workLifeBalanceRating": 3.6
+     },
+     "shortName": "TD Bank",
+     "size": "1 to 50 Employees",
+     "sizeCategory": "SMALL",
+     "squareLogoUrl": null,
+     "website": "locations.td.com"
+    }
+   },
+   {
+    "demographicRatings": [
+     {
+      "category": "gender",
+      "categoryRatings": [
+       {
+        "categoryValue": "man",
+        "ratings": null
+       },
+       {
+        "categoryValue": "woman",
+        "ratings": null
+       },
+       {
+        "categoryValue": "nonBinary",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "raceEthnicity",
+      "categoryRatings": [
+       {
+        "categoryValue": "indigenousAmerican",
+        "ratings": null
+       },
+       {
+        "categoryValue": "asian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "nativeHawaiian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "middleEastern",
+        "ratings": null
+       },
+       {
+        "categoryValue": "blackOrAfricanAmerican",
+        "ratings": null
+       },
+       {
+        "categoryValue": "hispanicOrLatinx",
+        "ratings": null
+       },
+       {
+        "categoryValue": "white",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "sexualOrientation",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "disability",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "parentOrCaregiver",
+      "categoryRatings": [
+       {
+        "categoryValue": "parentOrGuardian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "caregiver",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "veteranStatus",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": null
+       }
+      ]
+     }
+    ],
+    "employer": {
+     "bestLedCompanies": [],
+     "bestPlacesToWork": [],
+     "bestPlacesToWorkCEO": [],
+     "bestProfile": {
+      "id": 8915451
+     },
+     "counts": {
+      "globalJobCount": {
+       "jobCount": 0
+      },
+      "reviewCount": 968,
+      "salaryCount": 1616
+     },
+     "headquarters": "São Paulo, Brazil",
+     "id": 4209911,
+     "name": "will bank",
+     "overview": {
+      "description": null
+     },
+     "primaryIndustry": {
+      "industryId": 200048,
+      "industryName": "Banking & Lending",
+      "sectorId": 10010,
+      "sectorName": "Financial Services"
+     },
+     "ratings": {
+      "businessOutlookRating": 0.34,
+      "careerOpportunitiesRating": 3.9,
+      "ceoRating": 0.95,
+      "ceoRatingsCount": 4,
+      "compensationAndBenefitsRating": 4.4,
+      "cultureAndValuesRating": 4.3,
+      "diversityAndInclusionRating": 4.5,
+      "overallRating": 4.3,
+      "recommendToFriendRating": 0.82,
+      "seniorManagementRating": 3.8,
+      "workLifeBalanceRating": 4.3
+     },
+     "shortName": "will bank",
+     "size": "501 to 1000 Employees",
+     "sizeCategory": "MEDIUM_TO_LARGE",
+     "squareLogoUrl": "https://media.glassdoor.com/sql/4209911/will-bank-squarelogo-1606846570562.png",
+     "website": "https://www.willbank.com.br/"
+    }
+   },
+   {
+    "demographicRatings": [
+     {
+      "category": "gender",
+      "categoryRatings": [
+       {
+        "categoryValue": "man",
+        "ratings": {
+         "overallRating": 3.0
+        }
+       },
+       {
+        "categoryValue": "woman",
+        "ratings": {
+         "overallRating": 4.0
+        }
+       },
+       {
+        "categoryValue": "nonBinary",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "raceEthnicity",
+      "categoryRatings": [
+       {
+        "categoryValue": "indigenousAmerican",
+        "ratings": null
+       },
+       {
+        "categoryValue": "asian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "nativeHawaiian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "middleEastern",
+        "ratings": null
+       },
+       {
+        "categoryValue": "blackOrAfricanAmerican",
+        "ratings": null
+       },
+       {
+        "categoryValue": "hispanicOrLatinx",
+        "ratings": null
+       },
+       {
+        "categoryValue": "white",
+        "ratings": {
+         "overallRating": 3.4
+        }
+       }
+      ]
+     },
+     {
+      "category": "sexualOrientation",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.3
+        }
+       }
+      ]
+     },
+     {
+      "category": "disability",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.3
+        }
+       }
+      ]
+     },
+     {
+      "category": "parentOrCaregiver",
+      "categoryRatings": [
+       {
+        "categoryValue": "parentOrGuardian",
+        "ratings": {
+         "overallRating": 2.9
+        }
+       },
+       {
+        "categoryValue": "caregiver",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.9
+        }
+       }
+      ]
+     },
+     {
+      "category": "veteranStatus",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.4
+        }
+       }
+      ]
+     }
+    ],
+    "employer": {
+     "bestLedCompanies": [],
+     "bestPlacesToWork": [],
+     "bestPlacesToWorkCEO": [],
+     "bestProfile": {
+      "id": 7604016
+     },
+     "counts": {
+      "globalJobCount": {
+       "jobCount": 25
+      },
+      "reviewCount": 134,
+      "salaryCount": 207
+     },
+     "headquarters": "Wilmington, DE",
+     "id": 34951,
+     "name": "The Bancorp, Inc.",
+     "overview": {
+      "description": "From the start, we’ve spent most of our time and efforts behind the scenes, putting the companies who work with us - and their goals - first. We’ve remained in the background, offering them the guidance, innovative thinking, and operational support they need to succeed. Whether expanding business, increasing profitability, bringing existing financial products to new audiences or creating entirely new financial products and services –take a close look behind some of the world’s most successful companies: that’s where you’ll find The Bancorp.\n\nToday we’ve grown far from our roots as a branchless commercial bank to become a true financial services leader, offering private-label banking and technology solutions to non-bank companies ranging from entrepreneurial start-ups to those on the Fortune 500. Over the years, our strategic focus on a handful of high-growth financial service sectors such as Payments, Health Benefit Banking, Institutional Banking, and Specialized Lending has resulted in tremendous organizational growth and widespread recognition. We now comprise a diverse team that includes bankers, business strategists, fintech experts, software developers, program managers, regulatory advisors, information security specialists and category thought leaders, all eager to provide their wide-ranging expertise in new and innovative ways. No other organization does what we do. And no other organization delivers what we can deliver."
+     },
+     "primaryIndustry": {
+      "industryId": 200048,
+      "industryName": "Banking & Lending",
+      "sectorId": 10010,
+      "sectorName": "Financial Services"
+     },
+     "ratings": {
+      "businessOutlookRating": 0.84,
+      "careerOpportunitiesRating": 3.3,
+      "ceoRating": 0.93,
+      "ceoRatingsCount": 49,
+      "compensationAndBenefitsRating": 3.5,
+      "cultureAndValuesRating": 3.6,
+      "diversityAndInclusionRating": 4.1,
+      "overallRating": 3.4,
+      "recommendToFriendRating": 0.58,
+      "seniorManagementRating": 3.0,
+      "workLifeBalanceRating": 4.0
+     },
+     "shortName": "The Bancorp Bank, N.A.",
+     "size": "501 to 1000 Employees",
+     "sizeCategory": "MEDIUM_TO_LARGE",
+     "squareLogoUrl": "https://media.glassdoor.com/sql/34951/the-bancorp-bank-n-a-squareLogo-1769625147062.png",
+     "website": "https://www.thebancorp.com"
+    }
+   },
+   {
+    "demographicRatings": [
+     {
+      "category": "gender",
+      "categoryRatings": [
+       {
+        "categoryValue": "man",
+        "ratings": null
+       },
+       {
+        "categoryValue": "woman",
+        "ratings": null
+       },
+       {
+        "categoryValue": "nonBinary",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "raceEthnicity",
+      "categoryRatings": [
+       {
+        "categoryValue": "indigenousAmerican",
+        "ratings": null
+       },
+       {
+        "categoryValue": "asian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "nativeHawaiian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "middleEastern",
+        "ratings": null
+       },
+       {
+        "categoryValue": "blackOrAfricanAmerican",
+        "ratings": null
+       },
+       {
+        "categoryValue": "hispanicOrLatinx",
+        "ratings": null
+       },
+       {
+        "categoryValue": "white",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "sexualOrientation",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.4
+        }
+       }
+      ]
+     },
+     {
+      "category": "disability",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "parentOrCaregiver",
+      "categoryRatings": [
+       {
+        "categoryValue": "parentOrGuardian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "caregiver",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "veteranStatus",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": null
+       }
+      ]
+     }
+    ],
+    "employer": {
+     "bestLedCompanies": [],
+     "bestPlacesToWork": [],
+     "bestPlacesToWorkCEO": [],
+     "bestProfile": {
+      "id": 10738045
+     },
+     "counts": {
+      "globalJobCount": {
+       "jobCount": 0
+      },
+      "reviewCount": 147,
+      "salaryCount": 138
+     },
+     "headquarters": "Nairobi, Kenya",
+     "id": 335844,
+     "name": "I&M Bank Ltd.",
+     "overview": {
+      "description": null
+     },
+     "primaryIndustry": {
+      "industryId": 200146,
+      "industryName": "Investment & Asset Management",
+      "sectorId": 10010,
+      "sectorName": "Financial Services"
+     },
+     "ratings": {
+      "businessOutlookRating": 0.87,
+      "careerOpportunitiesRating": 3.8,
+      "ceoRating": null,
+      "ceoRatingsCount": 0,
+      "compensationAndBenefitsRating": 3.4,
+      "cultureAndValuesRating": 3.8,
+      "diversityAndInclusionRating": 3.8,
+      "overallRating": 3.9,
+      "recommendToFriendRating": 0.88,
+      "seniorManagementRating": 3.5,
+      "workLifeBalanceRating": 3.2
+     },
+     "shortName": "I&M Bank",
+     "size": "201 to 500 Employees",
+     "sizeCategory": "MEDIUM",
+     "squareLogoUrl": null,
+     "website": "www.imbank.com"
+    }
+   },
+   {
+    "demographicRatings": [
+     {
+      "category": "gender",
+      "categoryRatings": [
+       {
+        "categoryValue": "man",
+        "ratings": {
+         "overallRating": 3.3
+        }
+       },
+       {
+        "categoryValue": "woman",
+        "ratings": {
+         "overallRating": 3.6
+        }
+       },
+       {
+        "categoryValue": "nonBinary",
+        "ratings": {
+         "overallRating": 3.8
+        }
+       }
+      ]
+     },
+     {
+      "category": "raceEthnicity",
+      "categoryRatings": [
+       {
+        "categoryValue": "indigenousAmerican",
+        "ratings": {
+         "overallRating": 4.0
+        }
+       },
+       {
+        "categoryValue": "asian",
+        "ratings": {
+         "overallRating": 3.5
+        }
+       },
+       {
+        "categoryValue": "nativeHawaiian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "middleEastern",
+        "ratings": {
+         "overallRating": 2.9
+        }
+       },
+       {
+        "categoryValue": "blackOrAfricanAmerican",
+        "ratings": {
+         "overallRating": 3.4
+        }
+       },
+       {
+        "categoryValue": "hispanicOrLatinx",
+        "ratings": {
+         "overallRating": 3.2
+        }
+       },
+       {
+        "categoryValue": "white",
+        "ratings": {
+         "overallRating": 3.2
+        }
+       }
+      ]
+     },
+     {
+      "category": "sexualOrientation",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": {
+         "overallRating": 2.6
+        }
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.5
+        }
+       }
+      ]
+     },
+     {
+      "category": "disability",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": {
+         "overallRating": 3.0
+        }
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.4
+        }
+       }
+      ]
+     },
+     {
+      "category": "parentOrCaregiver",
+      "categoryRatings": [
+       {
+        "categoryValue": "parentOrGuardian",
+        "ratings": {
+         "overallRating": 3.3
+        }
+       },
+       {
+        "categoryValue": "caregiver",
+        "ratings": {
+         "overallRating": 4.2
+        }
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.3
+        }
+       }
+      ]
+     },
+     {
+      "category": "veteranStatus",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": {
+         "overallRating": 1.2
+        }
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.2
+        }
+       }
+      ]
+     }
+    ],
+    "employer": {
+     "bestLedCompanies": [],
+     "bestPlacesToWork": [],
+     "bestPlacesToWorkCEO": [],
+     "bestProfile": {
+      "id": 9230550
+     },
+     "counts": {
+      "globalJobCount": {
+       "jobCount": 0
+      },
+      "reviewCount": 2100,
+      "salaryCount": 4265
+     },
+     "headquarters": "Pearl River, NY",
+     "id": 5288086,
+     "name": "TD Bank",
+     "overview": {
+      "description": null
+     },
+     "primaryIndustry": null,
+     "ratings": {
+      "businessOutlookRating": 0.58,
+      "careerOpportunitiesRating": 3.6,
+      "ceoRating": null,
+      "ceoRatingsCount": 0,
+      "compensationAndBenefitsRating": 3.7,
+      "cultureAndValuesRating": 3.7,
+      "diversityAndInclusionRating": 4.3,
+      "overallRating": 3.6,
+      "recommendToFriendRating": 0.68,
+      "seniorManagementRating": 3.2,
+      "workLifeBalanceRating": 3.5
+     },
+     "shortName": "TD Bank",
+     "size": "1 to 50 Employees",
+     "sizeCategory": "SMALL",
+     "squareLogoUrl": null,
+     "website": null
+    }
+   },
+   {
+    "demographicRatings": [
+     {
+      "category": "gender",
+      "categoryRatings": [
+       {
+        "categoryValue": "man",
+        "ratings": {
+         "overallRating": 4.1
+        }
+       },
+       {
+        "categoryValue": "woman",
+        "ratings": {
+         "overallRating": 2.6
+        }
+       },
+       {
+        "categoryValue": "nonBinary",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "raceEthnicity",
+      "categoryRatings": [
+       {
+        "categoryValue": "indigenousAmerican",
+        "ratings": null
+       },
+       {
+        "categoryValue": "asian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "nativeHawaiian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "middleEastern",
+        "ratings": null
+       },
+       {
+        "categoryValue": "blackOrAfricanAmerican",
+        "ratings": null
+       },
+       {
+        "categoryValue": "hispanicOrLatinx",
+        "ratings": null
+       },
+       {
+        "categoryValue": "white",
+        "ratings": {
+         "overallRating": 3.2
+        }
+       }
+      ]
+     },
+     {
+      "category": "sexualOrientation",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.4
+        }
+       }
+      ]
+     },
+     {
+      "category": "disability",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.3
+        }
+       }
+      ]
+     },
+     {
+      "category": "parentOrCaregiver",
+      "categoryRatings": [
+       {
+        "categoryValue": "parentOrGuardian",
+        "ratings": {
+         "overallRating": 2.5
+        }
+       },
+       {
+        "categoryValue": "caregiver",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.7
+        }
+       }
+      ]
+     },
+     {
+      "category": "veteranStatus",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.3
+        }
+       }
+      ]
+     }
+    ],
+    "employer": {
+     "bestLedCompanies": [],
+     "bestPlacesToWork": [],
+     "bestPlacesToWorkCEO": [],
+     "bestProfile": {
+      "id": 7863481
+     },
+     "counts": {
+      "globalJobCount": {
+       "jobCount": 19
+      },
+      "reviewCount": 58,
+      "salaryCount": 116
+     },
+     "headquarters": "Dallas, TX",
+     "id": 1058371,
+     "name": "TBK Bank, SSB",
+     "overview": {
+      "description": "TBK Bank, SSB is a Texas-state savings bank headquartered in Dallas, Texas. We offer commercial and consumer banking products focused on meeting client needs in Texas, Colorado, Kansas, New Mexico, Iowa and Illinois. We also serve a national client base with factoring, equipment lending and asset based lending through Triumph’s Equipment Division, discount factoring through Triumph’s Factoring Division, insurance through Triumph’s Insurance Division, Inc., and carrier and vendor payment solutions through TriumphPay.\n\nTBK Bank  is a member of the Triumph Financial, Inc. (Nasdaq: TFIN) portfolio of brands. "
+     },
+     "primaryIndustry": {
+      "industryId": 200048,
+      "industryName": "Banking & Lending",
+      "sectorId": 10010,
+      "sectorName": "Financial Services"
+     },
+     "ratings": {
+      "businessOutlookRating": 0.49,
+      "careerOpportunitiesRating": 3.1,
+      "ceoRating": 0.86,
+      "ceoRatingsCount": 30,
+      "compensationAndBenefitsRating": 3.6,
+      "cultureAndValuesRating": 3.4,
+      "diversityAndInclusionRating": 3.4,
+      "overallRating": 3.2,
+      "recommendToFriendRating": 0.56,
+      "seniorManagementRating": 3.3,
+      "workLifeBalanceRating": 3.7
+     },
+     "shortName": "TBK Bank",
+     "size": "1001 to 5000 Employees",
+     "sizeCategory": "LARGE",
+     "squareLogoUrl": "https://media.glassdoor.com/sql/1058371/tbk-bank-squareLogo-1631627100878.png",
+     "website": "https://www.tbkbank.com"
+    }
+   },
+   {
+    "demographicRatings": [
+     {
+      "category": "gender",
+      "categoryRatings": [
+       {
+        "categoryValue": "man",
+        "ratings": null
+       },
+       {
+        "categoryValue": "woman",
+        "ratings": null
+       },
+       {
+        "categoryValue": "nonBinary",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "raceEthnicity",
+      "categoryRatings": [
+       {
+        "categoryValue": "indigenousAmerican",
+        "ratings": null
+       },
+       {
+        "categoryValue": "asian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "nativeHawaiian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "middleEastern",
+        "ratings": null
+       },
+       {
+        "categoryValue": "blackOrAfricanAmerican",
+        "ratings": null
+       },
+       {
+        "categoryValue": "hispanicOrLatinx",
+        "ratings": null
+       },
+       {
+        "categoryValue": "white",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "sexualOrientation",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "disability",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "parentOrCaregiver",
+      "categoryRatings": [
+       {
+        "categoryValue": "parentOrGuardian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "caregiver",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "veteranStatus",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": null
+       }
+      ]
+     }
+    ],
+    "employer": {
+     "bestLedCompanies": [],
+     "bestPlacesToWork": [],
+     "bestPlacesToWorkCEO": [],
+     "bestProfile": {
+      "id": 10759128
+     },
+     "counts": {
+      "globalJobCount": {
+       "jobCount": 0
+      },
+      "reviewCount": 83,
+      "salaryCount": 54
+     },
+     "headquarters": "Mangalore, India",
+     "id": 389592,
+     "name": "Corporation Bank",
+     "overview": {
+      "description": null
+     },
+     "primaryIndustry": {
+      "industryId": 200048,
+      "industryName": "Banking & Lending",
+      "sectorId": 10010,
+      "sectorName": "Financial Services"
+     },
+     "ratings": {
+      "businessOutlookRating": 0.57,
+      "careerOpportunitiesRating": 3.6,
+      "ceoRating": 0.94,
+      "ceoRatingsCount": 15,
+      "compensationAndBenefitsRating": 3.5,
+      "cultureAndValuesRating": 3.4,
+      "diversityAndInclusionRating": 4.4,
+      "overallRating": 3.8,
+      "recommendToFriendRating": 0.64,
+      "seniorManagementRating": 2.9,
+      "workLifeBalanceRating": 3.2
+     },
+     "shortName": "Corporation Bank",
+     "size": "5001 to 10000 Employees",
+     "sizeCategory": "LARGE_TO_GIANT",
+     "squareLogoUrl": "https://media.glassdoor.com/sql/389592/corporation-bank-squarelogo.png",
+     "website": "www.corpbank.com"
+    }
+   },
+   {
+    "demographicRatings": [
+     {
+      "category": "gender",
+      "categoryRatings": [
+       {
+        "categoryValue": "man",
+        "ratings": {
+         "overallRating": 3.7
+        }
+       },
+       {
+        "categoryValue": "woman",
+        "ratings": {
+         "overallRating": 4.9
+        }
+       },
+       {
+        "categoryValue": "nonBinary",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "raceEthnicity",
+      "categoryRatings": [
+       {
+        "categoryValue": "indigenousAmerican",
+        "ratings": null
+       },
+       {
+        "categoryValue": "asian",
+        "ratings": {
+         "overallRating": 4.9
+        }
+       },
+       {
+        "categoryValue": "nativeHawaiian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "middleEastern",
+        "ratings": null
+       },
+       {
+        "categoryValue": "blackOrAfricanAmerican",
+        "ratings": null
+       },
+       {
+        "categoryValue": "hispanicOrLatinx",
+        "ratings": null
+       },
+       {
+        "categoryValue": "white",
+        "ratings": {
+         "overallRating": 3.9
+        }
+       }
+      ]
+     },
+     {
+      "category": "sexualOrientation",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": {
+         "overallRating": 4.6
+        }
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.8
+        }
+       }
+      ]
+     },
+     {
+      "category": "disability",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.7
+        }
+       }
+      ]
+     },
+     {
+      "category": "parentOrCaregiver",
+      "categoryRatings": [
+       {
+        "categoryValue": "parentOrGuardian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "caregiver",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.4
+        }
+       }
+      ]
+     },
+     {
+      "category": "veteranStatus",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": {
+         "overallRating": 3.3
+        }
+       }
+      ]
+     }
+    ],
+    "employer": {
+     "bestLedCompanies": [],
+     "bestPlacesToWork": [],
+     "bestPlacesToWorkCEO": [],
+     "bestProfile": {
+      "id": 15267398
+     },
+     "counts": {
+      "globalJobCount": {
+       "jobCount": 0
+      },
+      "reviewCount": 45,
+      "salaryCount": 74
+     },
+     "headquarters": "Cherry Hill, NJ",
+     "id": 10594223,
+     "name": "TD Bank",
+     "overview": {
+      "description": null
+     },
+     "primaryIndustry": null,
+     "ratings": {
+      "businessOutlookRating": 0.61,
+      "careerOpportunitiesRating": 3.5,
+      "ceoRating": null,
+      "ceoRatingsCount": 0,
+      "compensationAndBenefitsRating": 3.9,
+      "cultureAndValuesRating": 3.9,
+      "diversityAndInclusionRating": 4.3,
+      "overallRating": 4.1,
+      "recommendToFriendRating": 0.91,
+      "seniorManagementRating": 3.6,
+      "workLifeBalanceRating": 3.8
+     },
+     "shortName": "TD Bank",
+     "size": "Unknown",
+     "sizeCategory": "UNKNOWN",
+     "squareLogoUrl": null,
+     "website": "tdbank.com"
+    }
+   },
+   {
+    "demographicRatings": [
+     {
+      "category": "gender",
+      "categoryRatings": [
+       {
+        "categoryValue": "man",
+        "ratings": null
+       },
+       {
+        "categoryValue": "woman",
+        "ratings": null
+       },
+       {
+        "categoryValue": "nonBinary",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "raceEthnicity",
+      "categoryRatings": [
+       {
+        "categoryValue": "indigenousAmerican",
+        "ratings": null
+       },
+       {
+        "categoryValue": "asian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "nativeHawaiian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "middleEastern",
+        "ratings": null
+       },
+       {
+        "categoryValue": "blackOrAfricanAmerican",
+        "ratings": null
+       },
+       {
+        "categoryValue": "hispanicOrLatinx",
+        "ratings": null
+       },
+       {
+        "categoryValue": "white",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "sexualOrientation",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "disability",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "parentOrCaregiver",
+      "categoryRatings": [
+       {
+        "categoryValue": "parentOrGuardian",
+        "ratings": null
+       },
+       {
+        "categoryValue": "caregiver",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": null
+       }
+      ]
+     },
+     {
+      "category": "veteranStatus",
+      "categoryRatings": [
+       {
+        "categoryValue": "yes",
+        "ratings": null
+       },
+       {
+        "categoryValue": "no",
+        "ratings": null
+       }
+      ]
+     }
+    ],
+    "employer": {
+     "bestLedCompanies": [],
+     "bestPlacesToWork": [],
+     "bestPlacesToWorkCEO": [],
+     "bestProfile": {
+      "id": 8628257
+     },
+     "counts": {
+      "globalJobCount": {
+       "jobCount": 0
+      },
+      "reviewCount": 74,
+      "salaryCount": 79
+     },
+     "headquarters": "West Des Moines, IA",
+     "id": 3070235,
+     "name": "BANK",
+     "overview": {
+      "description": null
+     },
+     "primaryIndustry": {
+      "industryId": 200048,
+      "industryName": "Banking & Lending",
+      "sectorId": 10010,
+      "sectorName": "Financial Services"
+     },
+     "ratings": {
+      "businessOutlookRating": 0.68,
+      "careerOpportunitiesRating": 3.7,
+      "ceoRating": null,
+      "ceoRatingsCount": 0,
+      "compensationAndBenefitsRating": 3.5,
+      "cultureAndValuesRating": 3.5,
+      "diversityAndInclusionRating": 2.1,
+      "overallRating": 3.8,
+      "recommendToFriendRating": 0.72,
+      "seniorManagementRating": 3.3,
+      "workLifeBalanceRating": 3.3
+     },
+     "shortName": "BANK",
+     "size": "1 to 50 Employees",
+     "sizeCategory": "SMALL",
+     "squareLogoUrl": "https://media.glassdoor.com/sql/3070235/bank-squarelogo-1642584593290.png",
+     "website": "www.bank.bank"
+    }
+   }
+  ],
+  "numOfPagesAvailable": 1096,
+  "numOfRecordsAvailable": 10957
+ }
+}

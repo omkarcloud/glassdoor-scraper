@@ -1,0 +1,139 @@
+{
+ "salaryRecords": {
+  "individualSalariesForGoc": {
+   "currency": {
+    "code": "USD"
+   },
+   "results": [
+    {
+     "city": {
+      "name": "Los Angeles, CA"
+     },
+     "country": {
+      "name": "United States"
+     },
+     "displayAnonymityPayAmounts": true,
+     "jobTitle": "Software Engineer",
+     "metro": {
+      "name": "Los Angeles, CA"
+     },
+     "payForPayPeriod": {
+      "basePayAmount": null,
+      "payPeriod": "ANNUAL",
+      "totalAdditionalPayAmount": null,
+      "totalPayAnonymityMaxAmount": 199000.0,
+      "totalPayAnonymityMinAmount": 171000.0
+     },
+     "reviewDate": "2026-09-25",
+     "state": {
+      "name": "California"
+     },
+     "yearsOfExperience": "FOUR_TO_SIX"
+    },
+    {
+     "city": {
+      "name": "Tempe, AZ"
+     },
+     "country": {
+      "name": "United States"
+     },
+     "displayAnonymityPayAmounts": true,
+     "jobTitle": "Software Engineer",
+     "metro": {
+      "name": "Phoenix, AZ"
+     },
+     "payForPayPeriod": {
+      "basePayAmount": null,
+      "payPeriod": "ANNUAL",
+      "totalAdditionalPayAmount": null,
+      "totalPayAnonymityMaxAmount": 172000.0,
+      "totalPayAnonymityMinAmount": 148000.0
+     },
+     "reviewDate": "2026-09-25",
+     "state": {
+      "name": "Arizona"
+     },
+     "yearsOfExperience": "FOUR_TO_SIX"
+    },
+    {
+     "city": {
+      "name": "Redwood City, CA"
+     },
+     "country": {
+      "name": "United States"
+     },
+     "displayAnonymityPayAmounts": true,
+     "jobTitle": "Software Engineer",
+     "metro": {
+      "name": "San Francisco, CA"
+     },
+     "payForPayPeriod": {
+      "basePayAmount": null,
+      "payPeriod": "ANNUAL",
+      "totalAdditionalPayAmount": null,
+      "totalPayAnonymityMaxAmount": 270000.0,
+      "totalPayAnonymityMinAmount": 231000.0
+     },
+     "reviewDate": "2026-09-25",
+     "state": {
+      "name": "California"
+     },
+     "yearsOfExperience": "ONE_TO_THREE"
+    },
+    {
+     "city": {
+      "name": "New York, NY"
+     },
+     "country": {
+      "name": "United States"
+     },
+     "displayAnonymityPayAmounts": true,
+     "jobTitle": "Software Engineer",
+     "metro": {
+      "name": "New York City, NY"
+     },
+     "payForPayPeriod": {
+      "basePayAmount": null,
+      "payPeriod": "ANNUAL",
+      "totalAdditionalPayAmount": null,
+      "totalPayAnonymityMaxAmount": 223000.0,
+      "totalPayAnonymityMinAmount": 191000.0
+     },
+     "reviewDate": "2026-09-25",
+     "state": {
+      "name": "New York State"
+     },
+     "yearsOfExperience": "SEVEN_TO_NINE"
+    },
+    {
+     "city": {
+      "name": "Austin, TX"
+     },
+     "country": {
+      "name": "United States"
+     },
+     "displayAnonymityPayAmounts": true,
+     "jobTitle": "Software Engineer",
+     "metro": {
+      "name": "Austin, TX"
+     },
+     "payForPayPeriod": {
+      "basePayAmount": null,
+      "payPeriod": "ANNUAL",
+      "totalAdditionalPayAmount": null,
+      "totalPayAnonymityMaxAmount": 143000.0,
+      "totalPayAnonymityMinAmount": 123000.0
+     },
+     "reviewDate": "2026-09-25",
+     "state": {
+      "name": "Texas"
+     },
+     "yearsOfExperience": "TEN_TO_FOURTEEN"
+    }
+   ],
+   "totalNumberOfPages": 10,
+   "totalNumberOfRecords": 50
+  },
+  "individualSalariesForJobTitle": null
+ }
+}

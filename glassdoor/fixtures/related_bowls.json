@@ -1,0 +1,211 @@
+{
+ "getExploreBowlsCG": {
+  "bowls": [
+   {
+    "_id": "65417195ed00b4cd4dd511a0",
+    "allowedMembershipType": "MEMBER",
+    "canJoin": false,
+    "creationDate": "2023-10-31T21:28:53.945Z",
+    "description": "A community for professionals working across industries in Australia.",
+    "feedState": {
+     "lastMessageDate": "2026-09-14T08:52:05.953Z"
+    },
+    "handleUrl": "professionals-in-australia",
+    "hasPosts": true,
+    "hideNumberOfUsers": null,
+    "isBowlLeader": false,
+    "isJoined": false,
+    "isLocked": false,
+    "isVisible": true,
+    "joinMode": "DEFAULT",
+    "joinState": "NONE",
+    "meetsJoinRules": false,
+    "name": "Professionals in Australia",
+    "numberOfUsers": 921381,
+    "requestToJoinConfig": {
+     "isJoinReasonRequired": false,
+     "isMultipleChoiceEnabled": false,
+     "shouldRequestPhoto": false,
+     "userEnteredJoinReason": null
+    },
+    "subscriptionType": null,
+    "suggestionSource": "USER_INFO",
+    "type": "BOWL",
+    "uiConfig": {
+     "colorFrom": "FF51C6",
+     "colorTo": "FFE689",
+     "coverPic": "https://dslntlv9vhjr4.cloudfront.net/crowd_images/professionals-in-australia_ag21Q.png",
+     "icon": "https://dslntlv9vhjr4.cloudfront.net/crowd_images/professionals-in-australia_ag21Q.png"
+    },
+    "userPushState": {
+     "isNewPostsEnabled": true,
+     "isPushEnabled": true
+    }
+   },
+   {
+    "_id": "5f3f2b66eae653002b1576de",
+    "allowedMembershipType": "MEMBER",
+    "canJoin": false,
+    "creationDate": "2020-08-21T02:03:18.439Z",
+    "description": "A place to share advice, questions, vent and discuss how to change careers and pivot in to and out of jobs.",
+    "feedState": {
+     "lastMessageDate": "2026-09-26T05:11:44.728Z"
+    },
+    "handleUrl": "career-pivot",
+    "hasPosts": true,
+    "hideNumberOfUsers": null,
+    "isBowlLeader": false,
+    "isJoined": false,
+    "isLocked": false,
+    "isVisible": true,
+    "joinMode": "DEFAULT",
+    "joinState": "NONE",
+    "meetsJoinRules": false,
+    "name": "Career Pivot",
+    "numberOfUsers": 798445,
+    "requestToJoinConfig": {
+     "isJoinReasonRequired": false,
+     "isMultipleChoiceEnabled": false,
+     "shouldRequestPhoto": false,
+     "userEnteredJoinReason": null
+    },
+    "subscriptionType": null,
+    "suggestionSource": "USER_INFO",
+    "type": "BOWL",
+    "uiConfig": {
+     "colorFrom": "5FDAED",
+     "colorTo": "55FFB6",
+     "coverPic": "https://dslntlv9vhjr4.cloudfront.net/crowd_images/career-pivot_DO1WT.jpg",
+     "icon": "https://dslntlv9vhjr4.cloudfront.net/crowd_images/career-pivot_DO1WT.jpg"
+    },
+    "userPushState": {
+     "isNewPostsEnabled": true,
+     "isPushEnabled": true
+    }
+   },
+   {
+    "_id": "5b0ec788cf11a800139f9490",
+    "allowedMembershipType": "MEMBER",
+    "canJoin": false,
+    "creationDate": "2018-05-30T15:47:20.282Z",
+    "description": "Bowl for discussing all things related to Startups, new Business Ideas or Entrepreneurial Ventures. Network to find your co-founder.",
+    "feedState": {
+     "lastMessageDate": "2026-09-26T00:00:37.917Z"
+    },
+    "handleUrl": "startups-and-entrepreneurship",
+    "hasPosts": true,
+    "hideNumberOfUsers": null,
+    "isBowlLeader": false,
+    "isJoined": false,
+    "isLocked": false,
+    "isVisible": true,
+    "joinMode": "DEFAULT",
+    "joinState": "NONE",
+    "meetsJoinRules": false,
+    "name": "Startups and Entrepreneurship",
+    "numberOfUsers": 1000144,
+    "requestToJoinConfig": {
+     "isJoinReasonRequired": false,
+     "isMultipleChoiceEnabled": false,
+     "shouldRequestPhoto": false,
+     "userEnteredJoinReason": null
+    },
+    "subscriptionType": null,
+    "suggestionSource": "USER_INFO",
+    "type": "BOWL",
+    "uiConfig": {
+     "colorFrom": "4622D2",
+     "colorTo": "0F71A6",
+     "coverPic": "https://dslntlv9vhjr4.cloudfront.net/crowd_images/5Bbg9XmCo1sTz.png",
+     "icon": "https://dslntlv9vhjr4.cloudfront.net/crowd_images/5Bbg9XmCo1sTz.png"
+    },
+    "userPushState": {
+     "isNewPostsEnabled": true,
+     "isPushEnabled": true
+    }
+   },
+   {
+    "_id": "633f2a52ab6c8e004c567699",
+    "allowedMembershipType": "MEMBER",
+    "canJoin": false,
+    "creationDate": "2022-10-06T19:19:46.690Z",
+    "description": "Get advice on salaries and comp packages across STEM fields.",
+    "feedState": {
+     "lastMessageDate": "2026-09-26T00:47:18.432Z"
+    },
+    "handleUrl": "salaries-in-stem",
+    "hasPosts": true,
+    "hideNumberOfUsers": null,
+    "isBowlLeader": false,
+    "isJoined": false,
+    "isLocked": false,
+    "isVisible": true,
+    "joinMode": "DEFAULT",
+    "joinState": "NONE",
+    "meetsJoinRules": false,
+    "name": "Salaries in STEM",
+    "numberOfUsers": 5421849,
+    "requestToJoinConfig": {
+     "isJoinReasonRequired": false,
+     "isMultipleChoiceEnabled": false,
+     "shouldRequestPhoto": false,
+     "userEnteredJoinReason": null
+    },
+    "subscriptionType": null,
+    "suggestionSource": "USER_INFO",
+    "type": "BOWL",
+    "uiConfig": {
+     "colorFrom": "FF7D32",
+     "colorTo": "FFD961",
+     "coverPic": "https://dslntlv9vhjr4.cloudfront.net/crowd_images/salaries-in-stem_OeRTY.png",
+     "icon": "https://dslntlv9vhjr4.cloudfront.net/crowd_images/salaries-in-stem_OeRTY.png"
+    },
+    "userPushState": {
+     "isNewPostsEnabled": true,
+     "isPushEnabled": true
+    }
+   },
+   {
+    "_id": "5ef2c1fa90958000291670db",
+    "allowedMembershipType": "MEMBER",
+    "canJoin": false,
+    "creationDate": "2020-06-24T03:01:14.791Z",
+    "description": "Bowl for existing folks in tech in strategy roles (e.g business ops) or product management",
+    "feedState": {
+     "lastMessageDate": "2026-09-17T13:25:11.316Z"
+    },
+    "handleUrl": "tech-strategy-product",
+    "hasPosts": true,
+    "hideNumberOfUsers": null,
+    "isBowlLeader": false,
+    "isJoined": false,
+    "isLocked": false,
+    "isVisible": true,
+    "joinMode": "DEFAULT",
+    "joinState": "NONE",
+    "meetsJoinRules": false,
+    "name": "Tech Strategy & Product",
+    "numberOfUsers": 1200054,
+    "requestToJoinConfig": {
+     "isJoinReasonRequired": false,
+     "isMultipleChoiceEnabled": false,
+     "shouldRequestPhoto": false,
+     "userEnteredJoinReason": null
+    },
+    "subscriptionType": null,
+    "suggestionSource": "USER_INFO",
+    "type": "BOWL",
+    "uiConfig": {
+     "colorFrom": "BAA2FF",
+     "colorTo": "EDBCE1",
+     "coverPic": "https://dslntlv9vhjr4.cloudfront.net/bowls_images/d5AypCyxXloaE.jpg",
+     "icon": "https://dslntlv9vhjr4.cloudfront.net/bowls_images/d5AypCyxXloaE.jpg"
+    },
+    "userPushState": {
+     "isNewPostsEnabled": true,
+     "isPushEnabled": true
+    }
+   }
+  ]
+ }
+}

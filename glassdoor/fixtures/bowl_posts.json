@@ -1,0 +1,298 @@
+{
+ "getBowlPostsCG": {
+  "posts": [
+   {
+    "_id": "6a528e1e92efe9c6594f63fc",
+    "annotation": null,
+    "bowlMemberBadges": [],
+    "canComment": false,
+    "canDelete": false,
+    "canEdit": false,
+    "canonicalURL": null,
+    "commentsCount": 128,
+    "companyMentions": [],
+    "creatorStats": null,
+    "date": "2026-07-11T18:40:30.929Z",
+    "followedByUser": false,
+    "globalBadges": [],
+    "handleUrl": "im-in-a-difficult-position-earlier-this-year-i-was-ready-to-resign-because-i-was-looking-for-better-compensation-and-growth",
+    "isAuthor": false,
+    "isProfileFollowedByCurrentUser": false,
+    "messageData": {
+     "linkMetadata": null,
+     "text": "I’m in a difficult position. Earlier this year, I was ready to resign because I was looking for better compensation and growth. My manager and several senior leaders asked me to stay, promising better opportunities. This week, I received a promotion, which I genuinely appreciate, but the overall outcome still isn’t where I had hoped.\n\nAt the same time, I have another opportunity that aligns more closely with my long-term goals. I’m confused if I should leave or stay due to guilt ? :("
+    },
+    "messageType": "TEXT",
+    "myReaction": null,
+    "nerLocationMentions": [],
+    "nerTitleMentions": [],
+    "originService": "FISHBOWL",
+    "ppcCategories": [],
+    "reactionCounters": {
+     "funny": 5,
+     "helpful": 0,
+     "like": 92,
+     "smart": 0,
+     "uplifting": 0
+    },
+    "sharesCount": 20,
+    "sign": {
+     "icon": null,
+     "metadata": {
+      "firstName": null,
+      "handleUrl": null,
+      "lastName": null,
+      "profileDiscoverableToPublic": false
+     },
+     "name": "Graduate Teaching Assistant",
+     "signAccent": null,
+     "signType": "TITLE"
+    },
+    "tagsInFeed": [
+     "TOP"
+    ],
+    "topComment": {
+     "_id": "6a52997e90b646409021085c",
+     "bowlMemberBadges": [],
+     "canDelete": false,
+     "canEdit": false,
+     "commentId": null,
+     "commentType": "POST_COMMENT",
+     "date": "2026-07-11T19:29:02.389Z",
+     "globalBadges": [],
+     "isPostAuthor": false,
+     "likesCount": 197,
+     "messageData": {
+      "linkMetadata": null,
+      "text": "Definitely leave. You have to do what's best for you. Your current company would do the same"
+     },
+     "messageType": "TEXT",
+     "myReaction": null,
+     "originService": "FISHBOWL",
+     "postId": "6a528e1e92efe9c6594f63fc",
+     "reactionCounters": {
+      "funny": 0,
+      "helpful": 0,
+      "like": 197,
+      "smart": 0,
+      "uplifting": 0
+     },
+     "repliesCount": 2,
+     "repliesPreviews": [],
+     "sign": {
+      "icon": null,
+      "metadata": {
+       "firstName": null,
+       "handleUrl": null,
+       "lastName": null,
+       "profileDiscoverableToPublic": false
+      },
+      "name": "Consultant 1",
+      "signAccent": null,
+      "signType": "TITLE"
+     },
+     "userId": null
+    },
+    "userId": null
+   },
+   {
+    "_id": "6aa2bc4e05d31bb5a9cbecff",
+    "annotation": null,
+    "bowlMemberBadges": [],
+    "canComment": false,
+    "canDelete": false,
+    "canEdit": false,
+    "canonicalURL": null,
+    "commentsCount": 159,
+    "companyMentions": [],
+    "creatorStats": null,
+    "date": "2026-09-10T14:18:54.134Z",
+    "followedByUser": false,
+    "globalBadges": [],
+    "handleUrl": "i-am-a-fully-remote-engineer-and-my-team-does-a-1-hour-game-hour-every-week-it-feels-so-pointless-because-we-are-all-remote-and",
+    "isAuthor": false,
+    "isProfileFollowedByCurrentUser": false,
+    "messageData": {
+     "linkMetadata": null,
+     "text": "I am a fully remote engineer and my team does a 1-hour game hour every week. It feels so pointless because we are all remote and I know that we would largely rather be doing other things than wasting our time playing a dumb game together. Do any other remote workers have this set up for their teams too. What are your thoughts on it?"
+    },
+    "messageType": "TEXT",
+    "myReaction": null,
+    "nerLocationMentions": [],
+    "nerTitleMentions": [
+     {
+      "gocId": 102465,
+      "id": 31261,
+      "mGocId": 10049,
+      "span": {
+       "endChar": 28,
+       "startChar": 20,
+       "text": "engineer"
+      },
+      "title": "Engineer"
+     }
+    ],
+    "originService": "GLASSDOOR",
+    "ppcCategories": [],
+    "reactionCounters": {
+     "funny": 0,
+     "helpful": 2,
+     "like": 77,
+     "smart": 2,
+     "uplifting": 2
+    },
+    "sharesCount": 26,
+    "sign": {
+     "icon": null,
+     "metadata": {
+      "firstName": null,
+      "handleUrl": null,
+      "lastName": null,
+      "profileDiscoverableToPublic": false
+     },
+     "name": "Software Engineer",
+     "signAccent": null,
+     "signType": "TITLE"
+    },
+    "tagsInFeed": [
+     "NOW"
+    ],
+    "topComment": {
+     "_id": "6aa2df0c53d457919d86a67c",
+     "bowlMemberBadges": [],
+     "canDelete": false,
+     "canEdit": false,
+     "commentId": null,
+     "commentType": "POST_COMMENT",
+     "date": "2026-09-10T16:47:08.022Z",
+     "globalBadges": [],
+     "isPostAuthor": false,
+     "likesCount": 119,
+     "messageData": {
+      "linkMetadata": null,
+      "text": "Sounds like a pretty neat idea and nice way to bring the team together"
+     },
+     "messageType": "TEXT",
+     "myReaction": null,
+     "originService": "FISHBOWL",
+     "postId": "6aa2bc4e05d31bb5a9cbecff",
+     "reactionCounters": {
+      "funny": 0,
+      "helpful": 1,
+      "like": 118,
+      "smart": 0,
+      "uplifting": 0
+     },
+     "repliesCount": 8,
+     "repliesPreviews": [],
+     "sign": {
+      "icon": null,
+      "metadata": {
+       "firstName": null,
+       "handleUrl": null,
+       "lastName": null,
+       "profileDiscoverableToPublic": false
+      },
+      "name": "Business Development Manager 1",
+      "signAccent": null,
+      "signType": "TITLE"
+     },
+     "userId": null
+    },
+    "userId": null
+   },
+   {
+    "_id": "6a84ba7a385b9d19285fa47c",
+    "annotation": null,
+    "bowlMemberBadges": [],
+    "canComment": false,
+    "canDelete": false,
+    "canEdit": false,
+    "canonicalURL": null,
+    "commentsCount": 98,
+    "companyMentions": [],
+    "creatorStats": null,
+    "date": "2026-08-18T20:03:06.803Z",
+    "followedByUser": false,
+    "globalBadges": [],
+    "handleUrl": "on-slackteams-how-do-you-feel-about-people-who-send-a-hello-and-wait-for-you-to-respond-before-posing-the-rest-of-their-question-i",
+    "isAuthor": false,
+    "isProfileFollowedByCurrentUser": false,
+    "messageData": {
+     "linkMetadata": null,
+     "text": "On Slack/Teams, how do you feel about people who send a \"hello\" and wait for you to respond before posing the rest of their question? I can't stand it. I'm busy and don't have time to be doing the whole 'I'm good, you' thing every time someone needs something from me. Stating what you need to state right away is not rude."
+    },
+    "messageType": "TEXT",
+    "myReaction": null,
+    "nerLocationMentions": [],
+    "nerTitleMentions": [],
+    "originService": "FISHBOWL",
+    "ppcCategories": [],
+    "reactionCounters": {
+     "funny": 7,
+     "helpful": 3,
+     "like": 102,
+     "smart": 3,
+     "uplifting": 1
+    },
+    "sharesCount": 6,
+    "sign": {
+     "icon": null,
+     "metadata": {
+      "firstName": null,
+      "handleUrl": null,
+      "lastName": null,
+      "profileDiscoverableToPublic": false
+     },
+     "name": "Content Designer",
+     "signAccent": null,
+     "signType": "TITLE"
+    },
+    "tagsInFeed": [],
+    "topComment": {
+     "_id": "6a84c1e45cc9e651ef88fd98",
+     "bowlMemberBadges": [],
+     "canDelete": false,
+     "canEdit": false,
+     "commentId": null,
+     "commentType": "POST_COMMENT",
+     "date": "2026-08-18T20:34:44.583Z",
+     "globalBadges": [],
+     "isPostAuthor": false,
+     "likesCount": 44,
+     "messageData": {
+      "linkMetadata": null,
+      "text": "I don’t understand the waiting part.  It’s easy to say hello and ask a question in the same post.  Agree that it’s a strange interaction."
+     },
+     "messageType": "TEXT",
+     "myReaction": null,
+     "originService": "FISHBOWL",
+     "postId": "6a84ba7a385b9d19285fa47c",
+     "reactionCounters": {
+      "funny": 0,
+      "helpful": 0,
+      "like": 44,
+      "smart": 0,
+      "uplifting": 0
+     },
+     "repliesCount": 0,
+     "repliesPreviews": [],
+     "sign": {
+      "icon": null,
+      "metadata": {
+       "firstName": null,
+       "handleUrl": null,
+       "lastName": null,
+       "profileDiscoverableToPublic": false
+      },
+      "name": "Technical Program Manager 1",
+      "signAccent": null,
+      "signType": "TITLE"
+     },
+     "userId": null
+    },
+    "userId": null
+   }
+  ]
+ }
+}

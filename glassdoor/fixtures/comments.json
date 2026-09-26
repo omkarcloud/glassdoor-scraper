@@ -1,0 +1,531 @@
+{
+ "getFishbowlPostComments": {
+  "comments": [
+   {
+    "author": {
+     "icon": null,
+     "metadata": {
+      "handleUrl": null,
+      "profileDiscoverableToPublic": false
+     },
+     "name": "Business Development Manager 1",
+     "signPrefixType": "EMPTY",
+     "type": "TITLE"
+    },
+    "commentType": "POST_COMMENT",
+    "date": "2026-09-10T16:47:08.022Z",
+    "id": "6aa2df0c53d457919d86a67c",
+    "isAuthor": false,
+    "messageData": {
+     "imageUrls": null,
+     "linkMetadata": null,
+     "text": "Sounds like a pretty neat idea and nice way to bring the team together"
+    },
+    "messageType": "TEXT",
+    "myReaction": null,
+    "reactions": [
+     {
+      "count": 118,
+      "reactionType": "LIKE"
+     },
+     {
+      "count": 1,
+      "reactionType": "HELPFUL"
+     },
+     {
+      "count": 0,
+      "reactionType": "SMART"
+     },
+     {
+      "count": 0,
+      "reactionType": "FUNNY"
+     },
+     {
+      "count": 0,
+      "reactionType": "UPLIFTING"
+     }
+    ],
+    "replies": {
+     "comments": [
+      {
+       "author": {
+        "icon": null,
+        "metadata": {
+         "handleUrl": null,
+         "profileDiscoverableToPublic": false
+        },
+        "name": "Career Changer - Masters Student 1",
+        "signPrefixType": "EMPTY",
+        "type": "TITLE"
+       },
+       "commentType": "THREADED_COMMENT",
+       "date": "2026-09-24T15:23:46.750Z",
+       "id": "6ab54082cacad140ceddb93d",
+       "isAuthor": false,
+       "messageData": {
+        "imageUrls": null,
+        "linkMetadata": null,
+        "text": "Having been fully remote previously, that sounds awful, that goodness my company at the time didn't enforce nonsense like that, I was allowed to get on with my job and then log off."
+       },
+       "messageType": "TEXT",
+       "myReaction": null,
+       "reactions": [
+        {
+         "count": 0,
+         "reactionType": "LIKE"
+        },
+        {
+         "count": 0,
+         "reactionType": "HELPFUL"
+        },
+        {
+         "count": 0,
+         "reactionType": "SMART"
+        },
+        {
+         "count": 0,
+         "reactionType": "FUNNY"
+        },
+        {
+         "count": 0,
+         "reactionType": "UPLIFTING"
+        }
+       ],
+       "replies": {
+        "comments": [],
+        "repliesCursor": null
+       },
+       "repliesCount": 0
+      }
+     ],
+     "repliesCursor": {
+      "next": null,
+      "prev": "MTc5MDI2MzQyNjc1MF9ERVNDX1VQ"
+     }
+    },
+    "repliesCount": 8
+   },
+   {
+    "author": {
+     "icon": null,
+     "metadata": {
+      "handleUrl": null,
+      "profileDiscoverableToPublic": false
+     },
+     "name": "Fidelity Investments 1",
+     "signPrefixType": "WORKS_AT",
+     "type": "COMPANY"
+    },
+    "commentType": "POST_COMMENT",
+    "date": "2026-09-10T17:20:38.451Z",
+    "id": "6aa2e6e645617c314f90d3df",
+    "isAuthor": false,
+    "messageData": {
+     "imageUrls": null,
+     "linkMetadata": null,
+     "text": "I do this with all my teams. Builds trust, psychological safety, empathy, etc. seems trivial but the value gained is immense."
+    },
+    "messageType": "TEXT",
+    "myReaction": null,
+    "reactions": [
+     {
+      "count": 47,
+      "reactionType": "LIKE"
+     },
+     {
+      "count": 0,
+      "reactionType": "HELPFUL"
+     },
+     {
+      "count": 0,
+      "reactionType": "SMART"
+     },
+     {
+      "count": 0,
+      "reactionType": "FUNNY"
+     },
+     {
+      "count": 0,
+      "reactionType": "UPLIFTING"
+     }
+    ],
+    "replies": {
+     "comments": [
+      {
+       "author": {
+        "icon": null,
+        "metadata": {
+         "handleUrl": null,
+         "profileDiscoverableToPublic": false
+        },
+        "name": "Tech Lead 1",
+        "signPrefixType": "EMPTY",
+        "type": "TITLE"
+       },
+       "commentType": "THREADED_COMMENT",
+       "date": "2026-09-17T14:40:52.505Z",
+       "id": "6aabfbf40c8bd526f2ccb44e",
+       "isAuthor": false,
+       "messageData": {
+        "imageUrls": null,
+        "linkMetadata": null,
+        "text": "I organized organized activity of this kind in my last company. When I got fired team founded for me crate of personalized gifts, decorated with our team's coat of arms and years of service. We are in touch and open to help each other.\nWe didn't trust upper management but trusted each other."
+       },
+       "messageType": "TEXT",
+       "myReaction": null,
+       "reactions": [
+        {
+         "count": 8,
+         "reactionType": "LIKE"
+        },
+        {
+         "count": 0,
+         "reactionType": "HELPFUL"
+        },
+        {
+         "count": 0,
+         "reactionType": "SMART"
+        },
+        {
+         "count": 0,
+         "reactionType": "FUNNY"
+        },
+        {
+         "count": 0,
+         "reactionType": "UPLIFTING"
+        }
+       ],
+       "replies": {
+        "comments": [],
+        "repliesCursor": null
+       },
+       "repliesCount": 0
+      }
+     ],
+     "repliesCursor": {
+      "next": null,
+      "prev": "MTc4OTY1NjA1MjUwNV9ERVNDX1VQ"
+     }
+    },
+    "repliesCount": 7
+   },
+   {
+    "author": {
+     "icon": null,
+     "metadata": {
+      "handleUrl": null,
+      "profileDiscoverableToPublic": false
+     },
+     "name": "Journeyman Painter & Prepper 1",
+     "signPrefixType": "EMPTY",
+     "type": "TITLE"
+    },
+    "commentType": "POST_COMMENT",
+    "date": "2026-09-10T20:50:43.361Z",
+    "id": "6aa31823b9ea961e3d1c72f2",
+    "isAuthor": false,
+    "messageData": {
+     "imageUrls": null,
+     "linkMetadata": null,
+     "text": "The way that this sounds like a phenomenal bonding activity for a group of people who are without social interactions most of the day"
+    },
+    "messageType": "TEXT",
+    "myReaction": null,
+    "reactions": [
+     {
+      "count": 29,
+      "reactionType": "LIKE"
+     },
+     {
+      "count": 0,
+      "reactionType": "HELPFUL"
+     },
+     {
+      "count": 0,
+      "reactionType": "SMART"
+     },
+     {
+      "count": 0,
+      "reactionType": "FUNNY"
+     },
+     {
+      "count": 0,
+      "reactionType": "UPLIFTING"
+     }
+    ],
+    "replies": {
+     "comments": [
+      {
+       "author": {
+        "icon": null,
+        "metadata": {
+         "handleUrl": null,
+         "profileDiscoverableToPublic": false
+        },
+        "name": "Software Engineer 12",
+        "signPrefixType": "EMPTY",
+        "type": "TITLE"
+       },
+       "commentType": "THREADED_COMMENT",
+       "date": "2026-09-19T13:59:44.113Z",
+       "id": "6aae9550a826e25f873e5b37",
+       "isAuthor": false,
+       "messageData": {
+        "imageUrls": null,
+        "linkMetadata": null,
+        "text": "I don't think team building or an hour of anything is them doing anything for your social life. Just because it is annoying and does not benefit one person it might be the the rest of the team so whatever let them be the Debbie downer."
+       },
+       "messageType": "TEXT",
+       "myReaction": null,
+       "reactions": [
+        {
+         "count": 0,
+         "reactionType": "LIKE"
+        },
+        {
+         "count": 0,
+         "reactionType": "HELPFUL"
+        },
+        {
+         "count": 0,
+         "reactionType": "SMART"
+        },
+        {
+         "count": 0,
+         "reactionType": "FUNNY"
+        },
+        {
+         "count": 0,
+         "reactionType": "UPLIFTING"
+        }
+       ],
+       "replies": {
+        "comments": [],
+        "repliesCursor": null
+       },
+       "repliesCount": 0
+      }
+     ],
+     "repliesCursor": {
+      "next": null,
+      "prev": "MTc4OTgyNjM4NDExM19ERVNDX1VQ"
+     }
+    },
+    "repliesCount": 3
+   },
+   {
+    "author": {
+     "icon": null,
+     "metadata": {
+      "handleUrl": null,
+      "profileDiscoverableToPublic": false
+     },
+     "name": "VP Software Development and Analytics 1",
+     "signPrefixType": "EMPTY",
+     "type": "TITLE"
+    },
+    "commentType": "POST_COMMENT",
+    "date": "2026-09-13T03:13:21.472Z",
+    "id": "6aa614d18e8ca166d54b6ce5",
+    "isAuthor": false,
+    "messageData": {
+     "imageUrls": null,
+     "linkMetadata": null,
+     "text": "As a VP of a fully remote team - I can see this being valuable. While I do not “play games” we do meet three times a week for 1 hour.  \n\nThe main problem with remote work and remote employees, they tend to work and think in silos - only work on what is assigned no more and no less.  What does the sprint board say. That is fine when you evaluate and value productivity by piece meal or story points.  I value productivity as a positive influence towards a common goal.  This common goal is set by leadership, management and team together.  This is missing in today’s environment. The water cooler talk, break room conversations, passing in the hall all had productive communications that do not happen any more. Teams seem to have just a vague understanding of their teammate - with my not caring anything about their teammates - they are removed, so not important. \n\nI cannot speak for your leadership but I am expecting that they are trying to get the team to see and understand they are part of a bigger picture and need to learn to communicate and trust in a non formal fashion - this is needed for true productivity.  \n\nIf you have good leadership, ask them why.  I love it when my team asks me why - You might not see why and they do.  Management does not always expose things well or sometimes intentional.  If you still think it is not needed, let them know and discuss.  Be nice and respectful with an open mind.  Be expected to finally hear because I want you too - after a couple of pushbacks. Then you can decide your voluntary future with the company."
+    },
+    "messageType": "TEXT",
+    "myReaction": null,
+    "reactions": [
+     {
+      "count": 20,
+      "reactionType": "LIKE"
+     },
+     {
+      "count": 1,
+      "reactionType": "HELPFUL"
+     },
+     {
+      "count": 1,
+      "reactionType": "SMART"
+     },
+     {
+      "count": 0,
+      "reactionType": "FUNNY"
+     },
+     {
+      "count": 0,
+      "reactionType": "UPLIFTING"
+     }
+    ],
+    "replies": {
+     "comments": [
+      {
+       "author": {
+        "icon": null,
+        "metadata": {
+         "handleUrl": null,
+         "profileDiscoverableToPublic": false
+        },
+        "name": "Software Engineer 12",
+        "signPrefixType": "EMPTY",
+        "type": "TITLE"
+       },
+       "commentType": "THREADED_COMMENT",
+       "date": "2026-09-19T14:03:05.897Z",
+       "id": "6aae9619ae112288ddfcc738",
+       "isAuthor": false,
+       "messageData": {
+        "imageUrls": null,
+        "linkMetadata": null,
+        "text": "Yes I mean I still am looking for improvements and places to refactor and redesign there is still never a time I don't have work regardless of if my assigned work is done this is something good or bad some people seem to have stopped doing. While it would be nice to have a job with some downtime that has never been the case for me as a se. Always something needing upgraded or refactored that feels impossible to get to"
+       },
+       "messageType": "TEXT",
+       "myReaction": null,
+       "reactions": [
+        {
+         "count": 0,
+         "reactionType": "LIKE"
+        },
+        {
+         "count": 0,
+         "reactionType": "HELPFUL"
+        },
+        {
+         "count": 0,
+         "reactionType": "SMART"
+        },
+        {
+         "count": 0,
+         "reactionType": "FUNNY"
+        },
+        {
+         "count": 0,
+         "reactionType": "UPLIFTING"
+        }
+       ],
+       "replies": {
+        "comments": [],
+        "repliesCursor": null
+       },
+       "repliesCount": 0
+      }
+     ],
+     "repliesCursor": {
+      "next": null,
+      "prev": "MTc4OTgyNjU4NTg5N19ERVNDX1VQ"
+     }
+    },
+    "repliesCount": 7
+   },
+   {
+    "author": {
+     "icon": null,
+     "metadata": {
+      "handleUrl": null,
+      "profileDiscoverableToPublic": false
+     },
+     "name": "Software Engineer",
+     "signPrefixType": "EMPTY",
+     "type": "TITLE"
+    },
+    "commentType": "POST_COMMENT",
+    "date": "2026-09-11T16:27:08.283Z",
+    "id": "6aa42bdc32ecfdaedb3ac731",
+    "isAuthor": true,
+    "messageData": {
+     "imageUrls": null,
+     "linkMetadata": null,
+     "text": "Ok guys you've convinced me, I won't push to eliminate the game hour I will play like a good little boy"
+    },
+    "messageType": "TEXT",
+    "myReaction": null,
+    "reactions": [
+     {
+      "count": 7,
+      "reactionType": "LIKE"
+     },
+     {
+      "count": 1,
+      "reactionType": "HELPFUL"
+     },
+     {
+      "count": 1,
+      "reactionType": "SMART"
+     },
+     {
+      "count": 6,
+      "reactionType": "FUNNY"
+     },
+     {
+      "count": 0,
+      "reactionType": "UPLIFTING"
+     }
+    ],
+    "replies": {
+     "comments": [
+      {
+       "author": {
+        "icon": null,
+        "metadata": {
+         "handleUrl": null,
+         "profileDiscoverableToPublic": false
+        },
+        "name": "Data Storage Sales Engineer 1",
+        "signPrefixType": "EMPTY",
+        "type": "TITLE"
+       },
+       "commentType": "THREADED_COMMENT",
+       "date": "2026-09-17T11:22:30.304Z",
+       "id": "6aabcd762f1ebc8b3493044d",
+       "isAuthor": false,
+       "messageData": {
+        "imageUrls": null,
+        "linkMetadata": null,
+        "text": "Good boy! Issue resolved. Now you can start working on next week's complaint."
+       },
+       "messageType": "TEXT",
+       "myReaction": null,
+       "reactions": [
+        {
+         "count": 2,
+         "reactionType": "LIKE"
+        },
+        {
+         "count": 0,
+         "reactionType": "HELPFUL"
+        },
+        {
+         "count": 0,
+         "reactionType": "SMART"
+        },
+        {
+         "count": 1,
+         "reactionType": "FUNNY"
+        },
+        {
+         "count": 0,
+         "reactionType": "UPLIFTING"
+        }
+       ],
+       "replies": {
+        "comments": [],
+        "repliesCursor": null
+       },
+       "repliesCount": 0
+      }
+     ],
+     "repliesCursor": {
+      "next": null,
+      "prev": "MTc4OTY0NDE1MDMwNF9ERVNDX1VQ"
+     }
+    },
+    "repliesCount": 6
+   }
+  ],
+  "commentsCursor": {
+   "next": "NV9ERVNDX0RPV04=",
+   "prev": null
+  },
+  "repliesCursor": null
+ }
+}

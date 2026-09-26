@@ -1,0 +1,226 @@
+{
+ "employer": {
+  "activeStatus": "ACTIVE",
+  "awards": [
+   {
+    "featured": true,
+    "name": "Best Places to Work for LGBT Equality",
+    "source": "Human Rights Campaign",
+    "year": 2012
+   },
+   {
+    "featured": true,
+    "name": "100 Best Companies to Work For",
+    "source": "Fortune",
+    "year": 2010
+   },
+   {
+    "featured": true,
+    "name": "Best Places to Work for LGBT Equality",
+    "source": "Human Rights Campaign",
+    "year": 2010
+   },
+   {
+    "featured": true,
+    "name": "Best Workplaces for Commuters",
+    "source": "National Center for Transit Research at USF",
+    "year": 2010
+   },
+   {
+    "featured": true,
+    "name": "Most Admired Companies in Research Science",
+    "source": "Black Engineer & Information Technology",
+    "year": 2010
+   }
+  ],
+  "bestLedCompanies": [
+   {
+    "id": 1186,
+    "timePeriod": "2024"
+   }
+  ],
+  "bestPlacesToWork": [
+   {
+    "rank": 39,
+    "timePeriod": "2018",
+    "tldId": 1
+   },
+   {
+    "rank": 34,
+    "timePeriod": "2019",
+    "tldId": 1
+   },
+   {
+    "rank": 21,
+    "timePeriod": "2020",
+    "tldId": 1
+   },
+   {
+    "rank": 9,
+    "timePeriod": "2021",
+    "tldId": 1
+   },
+   {
+    "rank": 28,
+    "timePeriod": "2022",
+    "tldId": 1
+   },
+   {
+    "rank": 13,
+    "timePeriod": "2023",
+    "tldId": 1
+   },
+   {
+    "rank": 18,
+    "timePeriod": "2024",
+    "tldId": 1
+   },
+   {
+    "rank": 6,
+    "timePeriod": "2025",
+    "tldId": 1
+   },
+   {
+    "rank": 37,
+    "timePeriod": "2017",
+    "tldId": 1
+   }
+  ],
+  "bestPlacesToWorkCEO": [
+   {
+    "id": 71,
+    "tldId": 1
+   },
+   {
+    "id": 91,
+    "tldId": 1
+   },
+   {
+    "id": 109,
+    "tldId": 1
+   },
+   {
+    "id": 1157,
+    "tldId": 1
+   }
+  ],
+  "bestProfile": {
+   "id": 7577419
+  },
+  "ceo": {
+   "name": "Satya Nadella",
+   "photoUrl": "https://media.glassdoor.com/people/sql/1651/microsoft-satya-nadella.png",
+   "title": "CEO"
+  },
+  "competitors": [
+   {
+    "id": 9079,
+    "shortName": "Google",
+    "squareLogoUrl": "https://media.glassdoor.com/sql/9079/google-squarelogo-1441130773284.png"
+   },
+   {
+    "id": 11159,
+    "shortName": "Salesforce",
+    "squareLogoUrl": "https://media.glassdoor.com/sql/11159/salesforce-com-squarelogo-1413910133565.png"
+   },
+   {
+    "id": 7470741,
+    "shortName": "Amazon Web Services",
+    "squareLogoUrl": "https://media.glassdoor.com/sql/7470741/amazon-web-services-squareLogo-1680754591940.png"
+   }
+  ],
+  "counts": {
+   "benefitCount": 30138,
+   "globalJobCount": {
+    "jobCount": 2489
+   },
+   "interviewCount": 0,
+   "photoCount": 648,
+   "reviewCount": 69449,
+   "salaryCount": 199772
+  },
+  "coverPhoto": {
+   "hiResUrl": null
+  },
+  "headquarters": "Redmond, WA",
+  "id": 1651,
+  "legalActionBadges": [],
+  "links": {
+   "benefitsUrl": "/Benefits/Microsoft-Benefits-E1651.htm",
+   "faqUrl": "/FAQ/Microsoft-Questions-E1651.htm",
+   "interviewUrl": "/Interview/Microsoft-Interview-Questions-E1651.htm",
+   "jobsUrl": "/Jobs/Microsoft-Jobs-E1651.htm",
+   "locationsUrl": "/Location/All-Microsoft-Office-Locations-E1651.htm",
+   "overviewUrl": "/Overview/Working-at-Microsoft-EI_IE1651.11,20.htm",
+   "photosUrl": "/Photos/Microsoft-Office-Photos-E1651.htm",
+   "reviewsUrl": "/Reviews/Microsoft-Reviews-E1651.htm",
+   "salariesUrl": "/Salary/Microsoft-Salaries-E1651.htm"
+  },
+  "name": "Microsoft Corporation",
+  "overview": {
+   "description": "At Microsoft, our mission is to empower every person and every organization on the planet to achieve more. When you join Microsoft, you're not just taking on a job, you're embracing a calling. A calling where your individual contributions amplify into a collective force championing global progress and innovation.  \nRooted in a growth mindset, Microsoft believes in nurturing potential, embracing change, and lifelong learning. As part of Team Microsoft, you'll collaborate across boundaries, building upon the ideas of others, unified by our shared mission.  \n\nTogether, our aspirations become tangible. Consider Microsoft to make world-changing impact. \nBecause impact matters. \n\nJoin us at careers.microsoft.com ",
+   "mission": "To empower every person and every organization on the planet to achieve more."
+  },
+  "parent": null,
+  "primaryIndustry": {
+   "industryId": 200060,
+   "industryName": "Computer Hardware Development",
+   "sectorId": 10013,
+   "sectorName": "Information Technology"
+  },
+  "ratings": {
+   "businessOutlookRating": 0.67,
+   "careerOpportunitiesRating": 3.7,
+   "ceoRating": 0.74,
+   "ceoRatingsCount": 7179,
+   "compensationAndBenefitsRating": 3.8,
+   "cultureAndValuesRating": 3.8,
+   "diversityAndInclusionRating": 4.1,
+   "overallRating": 4.0,
+   "recommendToFriendRating": 0.74,
+   "seniorManagementRating": 3.3,
+   "workLifeBalanceRating": 3.9
+  },
+  "revenue": "$10+ billion (USD)",
+  "shortName": "Microsoft",
+  "size": "10000+ Employees",
+  "sizeCategory": "GIANT",
+  "squareLogoUrl": "https://media.glassdoor.com/sql/1651/microsoft-squarelogo-1479856042252.png",
+  "stock": "MSFT",
+  "subsidiaries": [
+   {
+    "employer": {
+     "id": 35331,
+     "shortName": "Skype"
+    }
+   },
+   {
+    "employer": {
+     "id": 384355,
+     "shortName": "Yammer"
+    }
+   },
+   {
+    "employer": {
+     "id": 938120,
+     "shortName": "Cloudyn"
+    }
+   },
+   {
+    "employer": {
+     "id": 284295,
+     "shortName": "Intentional Software"
+    }
+   },
+   {
+    "employer": {
+     "id": 34865,
+     "shortName": "LinkedIn"
+    }
+   }
+  ],
+  "type": "Company - Public",
+  "website": "https://www.microsoft.com/en-gb/",
+  "yearFounded": 1975
+ }
+}

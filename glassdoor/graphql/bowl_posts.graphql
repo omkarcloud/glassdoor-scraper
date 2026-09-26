@@ -1,0 +1,354 @@
+query GetBowlPostsCG($params: GetFishbowlBowlPostsParams!, $query: GetFishbowlBowlPostsQuery) {
+  getBowlPostsCG(params: $params, query: $query) {
+    posts {
+      ...FishbowlPostCGWithoutBowlInfo
+    }
+  }
+}
+fragment FishbowlPostCGWithoutBowlInfo on Post {
+  _id
+  userId
+  isAuthor
+  isProfileFollowedByCurrentUser
+  bowlMemberBadges
+  sign {
+    icon
+    name
+    signAccent
+    signType
+    metadata {
+      firstName
+      lastName
+      handleUrl
+      profileDiscoverableToPublic
+    }
+  }
+  messageType
+  messageData {
+    ...MultiImageMessageDataCG
+    ...ShortVideoMessageDataCG
+    ...PollMessageDataCG
+    ...ImageMessageDataCG
+    ...TextMessageDataCG
+    ...PromptMessageDataCG
+  }
+  canComment
+  canEdit
+  canDelete
+  myReaction
+  reactionCounters {
+    like
+    helpful
+    smart
+    funny
+    uplifting
+  }
+  commentsCount
+  sharesCount
+  date
+  originService
+  handleUrl
+  canonicalURL
+  companyMentions {
+    aliasId
+    name
+    employerId
+    icon
+    span {
+      text
+      startChar
+      endChar
+    }
+    enables
+  }
+  nerTitleMentions {
+    gocId
+    id
+    mGocId
+    title
+    span {
+      text
+      startChar
+      endChar
+    }
+  }
+  nerLocationMentions {
+    locationId
+    metroId
+    stateId
+    countryId
+    locationType
+    locationName
+    span {
+      text
+      startChar
+      endChar
+    }
+    metadata {
+      queryRewrite
+    }
+  }
+  ppcCategories {
+    category
+    categoryName
+  }
+  tagsInFeed
+  annotation {
+    type
+    jobTitle
+    jobTitlePlural
+    matches
+  }
+  creatorStats {
+    views
+    impressions
+  }
+  topComment {
+    ...FishbowlCommentCG
+  }
+  globalBadges {
+    badgeType
+    enabled
+  }
+  followedByUser
+}
+fragment ShortVideoMessageDataCG on ShortVideoMessageData {
+  text
+  linkMetadata {
+    url
+    domain
+    imageUrl
+    title
+    description
+  }
+  videoId
+  videoStatus
+  captionsEnabled
+  thumbnail {
+    width
+    height
+    url
+    alt
+  }
+  token
+  width
+  height
+}
+fragment MultiImageMessageDataCG on MultiImageMessageData {
+  text
+  linkMetadata {
+    url
+    domain
+    imageUrl
+    title
+    description
+  }
+  multiImages: images {
+    id
+    url
+    width
+    height
+    alt
+    order
+  }
+  multi_image
+}
+fragment ImageMessageDataCG on ImageMessageData {
+  text
+  linkMetadata {
+    url
+    domain
+    imageUrl
+    title
+    description
+  }
+  images {
+    width
+    height
+    url
+    alt
+  }
+}
+fragment PromptMessageDataCG on PromptMessageData {
+  _id
+  optionVotes {
+    optionId
+    date
+    updateDate
+    professionalTitleId
+    userId
+  }
+  options {
+    id
+    numberOfVotes
+    text
+  }
+  date
+  totalVotes
+  type
+  text
+  subline
+  relatedPostId
+  backgroundColor
+  publicationDate
+}
+fragment PollMessageDataCG on PollMessageData {
+  text
+  linkMetadata {
+    url
+    domain
+    imageUrl
+    title
+    description
+  }
+  totalVotes
+  voteEndDate
+  answers {
+    _id
+    text
+    variant
+    color
+    votedByCurrentUser
+    totalVotes
+  }
+}
+fragment FishbowlCommentCG on Comment {
+  _id
+  userId
+  isPostAuthor
+  postId
+  commentId
+  bowlMemberBadges
+  sign {
+    icon
+    name
+    signAccent
+    signType
+    metadata {
+      firstName
+      lastName
+      handleUrl
+      profileDiscoverableToPublic
+    }
+  }
+  commentType
+  messageType
+  canEdit
+  canDelete
+  myReaction
+  reactionCounters {
+    like
+    helpful
+    smart
+    funny
+    uplifting
+  }
+  likesCount
+  repliesCount
+  date
+  originService
+  messageData {
+    ... on ImageMessageData {
+      text
+      linkMetadata {
+        url
+        domain
+        imageUrl
+        title
+        description
+      }
+      images {
+        width
+        height
+        url
+      }
+    }
+    ... on TextMessageData {
+      text
+      linkMetadata {
+        url
+        domain
+        imageUrl
+        title
+        description
+      }
+    }
+  }
+  repliesPreviews {
+    _id
+    userId
+    isPostAuthor
+    postId
+    commentId
+    sign {
+      icon
+      name
+      signAccent
+      signType
+      metadata {
+        firstName
+        lastName
+        handleUrl
+        profileDiscoverableToPublic
+      }
+    }
+    commentType
+    messageType
+    canEdit
+    canDelete
+    myReaction
+    bowlMemberBadges
+    reactionCounters {
+      like
+      helpful
+      smart
+      funny
+      uplifting
+    }
+    likesCount
+    repliesCount
+    date
+    originService
+    messageData {
+      ... on ImageMessageData {
+        text
+        linkMetadata {
+          url
+          domain
+          imageUrl
+          title
+          description
+        }
+        images {
+          width
+          height
+          url
+        }
+      }
+      ... on TextMessageData {
+        text
+        linkMetadata {
+          url
+          domain
+          imageUrl
+          title
+          description
+        }
+      }
+    }
+  }
+  globalBadges {
+    badgeType
+    enabled
+  }
+}
+fragment TextMessageDataCG on TextMessageData {
+  text
+  linkMetadata {
+    url
+    domain
+    imageUrl
+    title
+    description
+  }
+}

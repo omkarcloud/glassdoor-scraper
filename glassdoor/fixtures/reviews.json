@@ -1,0 +1,263 @@
+{
+ "employerReviewsRG": {
+  "allReviewsCount": 71220,
+  "filteredReviewsCount": 49089,
+  "numberOfPages": 9818,
+  "queryJobTitle": null,
+  "queryLocation": null,
+  "ratedReviewsCount": 52805,
+  "ratingCountDistribution": {
+   "careerOpportunities": {
+    "_1": 391,
+    "_2": 534,
+    "_3": 1544,
+    "_4": 2630,
+    "_5": 5030
+   },
+   "compensationAndBenefits": {
+    "_1": 202,
+    "_2": 178,
+    "_3": 811,
+    "_4": 2429,
+    "_5": 6269
+   },
+   "cultureAndValues": {
+    "_1": 423,
+    "_2": 462,
+    "_3": 1283,
+    "_4": 2374,
+    "_5": 5236
+   },
+   "diversityAndInclusion": {
+    "_1": 362,
+    "_2": 344,
+    "_3": 1035,
+    "_4": 2178,
+    "_5": 5737
+   },
+   "overall": {
+    "_1": 441,
+    "_2": 457,
+    "_3": 1920,
+    "_4": 5497,
+    "_5": 10377
+   },
+   "recommendToFriend": {
+    "RECOMMEND": 6704,
+    "WONT_RECOMMEND": 1147
+   },
+   "seniorManagement": {
+    "_1": 761,
+    "_2": 764,
+    "_3": 1738,
+    "_4": 2428,
+    "_5": 3946
+   },
+   "workLifeBalance": {
+    "_1": 394,
+    "_2": 487,
+    "_3": 1377,
+    "_4": 2342,
+    "_5": 5076
+   }
+  },
+  "ratings": {
+   "businessOutlookRating": 0.82,
+   "careerOpportunitiesRating": 4.2,
+   "ceoRating": 0.83,
+   "compensationAndBenefitsRating": 4.5,
+   "cultureAndValuesRating": 4.2,
+   "diversityAndInclusionRating": 4.4,
+   "overallRating": 4.4,
+   "recommendToFriendRating": 0.87,
+   "seniorManagementRating": 3.9,
+   "workLifeBalanceRating": 4.2
+  },
+  "reviews": [
+   {
+    "advice": null,
+    "cons": "Stressful work\nDepends on the the team, but the managers tend to micromanage",
+    "countHelpful": 0,
+    "countNotHelpful": 0,
+    "employer": {
+     "id": 9079,
+     "shortName": "Google"
+    },
+    "employerResponses": [],
+    "employmentStatus": "REGULAR",
+    "featured": false,
+    "isCurrentJob": true,
+    "jobTitle": null,
+    "lengthOfEmployment": 0,
+    "location": null,
+    "originalLanguageId": null,
+    "pros": "Good Benefits, nice campus to work at",
+    "ratingBusinessOutlook": null,
+    "ratingCareerOpportunities": 5.0,
+    "ratingCeo": null,
+    "ratingCompensationAndBenefits": 5.0,
+    "ratingCultureAndValues": 5,
+    "ratingDiversityAndInclusion": 5,
+    "ratingOverall": 4,
+    "ratingRecommendToFriend": null,
+    "ratingSeniorLeadership": 4.0,
+    "ratingWorkLifeBalance": 3.0,
+    "reviewDateTime": "2026-09-24T20:52:09.073",
+    "reviewId": 105729709,
+    "summary": "Good benefits, but stressful work"
+   },
+   {
+    "advice": null,
+    "cons": "no cons, pretty good overall",
+    "countHelpful": 0,
+    "countNotHelpful": 0,
+    "employer": {
+     "id": 9079,
+     "shortName": "Google"
+    },
+    "employerResponses": [],
+    "employmentStatus": "REGULAR",
+    "featured": false,
+    "isCurrentJob": true,
+    "jobTitle": {
+     "text": "SWE New Grad"
+    },
+    "lengthOfEmployment": 0,
+    "location": {
+     "id": 1132348,
+     "name": "New York, NY",
+     "type": "CITY"
+    },
+    "originalLanguageId": null,
+    "pros": "good food, fun people, nice office",
+    "ratingBusinessOutlook": null,
+    "ratingCareerOpportunities": 0.0,
+    "ratingCeo": null,
+    "ratingCompensationAndBenefits": 0.0,
+    "ratingCultureAndValues": 0,
+    "ratingDiversityAndInclusion": 0,
+    "ratingOverall": 5,
+    "ratingRecommendToFriend": null,
+    "ratingSeniorLeadership": 0.0,
+    "ratingWorkLifeBalance": 0.0,
+    "reviewDateTime": "2026-09-24T16:06:49.223",
+    "reviewId": 105727365,
+    "summary": "Great food and fun atmosphere in a nice office"
+   },
+   {
+    "advice": null,
+    "cons": "Not much more innovation on existing products.",
+    "countHelpful": 0,
+    "countNotHelpful": 0,
+    "employer": {
+     "id": 9079,
+     "shortName": "Google"
+    },
+    "employerResponses": [],
+    "employmentStatus": "REGULAR",
+    "featured": false,
+    "isCurrentJob": false,
+    "jobTitle": {
+     "text": "Software Engineer"
+    },
+    "lengthOfEmployment": 0,
+    "location": {
+     "id": 1147394,
+     "name": "Redwood City, CA",
+     "type": "CITY"
+    },
+    "originalLanguageId": null,
+    "pros": "Friendly people and good benefits",
+    "ratingBusinessOutlook": null,
+    "ratingCareerOpportunities": 0.0,
+    "ratingCeo": null,
+    "ratingCompensationAndBenefits": 0.0,
+    "ratingCultureAndValues": 0,
+    "ratingDiversityAndInclusion": 0,
+    "ratingOverall": 4,
+    "ratingRecommendToFriend": null,
+    "ratingSeniorLeadership": 0.0,
+    "ratingWorkLifeBalance": 0.0,
+    "reviewDateTime": "2026-09-24T14:22:42.860",
+    "reviewId": 105726393,
+    "summary": "Friendly environment with solid benefits, but lacks innovation"
+   },
+   {
+    "advice": null,
+    "cons": "very top down management, less impact",
+    "countHelpful": 0,
+    "countNotHelpful": 0,
+    "employer": {
+     "id": 9079,
+     "shortName": "Google"
+    },
+    "employerResponses": [],
+    "employmentStatus": "REGULAR",
+    "featured": false,
+    "isCurrentJob": false,
+    "jobTitle": {
+     "text": "Software Engineer(Internship)"
+    },
+    "lengthOfEmployment": 0,
+    "location": {
+     "id": 1147442,
+     "name": "Sunnyvale, CA",
+     "type": "CITY"
+    },
+    "originalLanguageId": null,
+    "pros": "Good work life balance, provide food",
+    "ratingBusinessOutlook": null,
+    "ratingCareerOpportunities": 5.0,
+    "ratingCeo": null,
+    "ratingCompensationAndBenefits": 5.0,
+    "ratingCultureAndValues": 5,
+    "ratingDiversityAndInclusion": 5,
+    "ratingOverall": 4,
+    "ratingRecommendToFriend": null,
+    "ratingSeniorLeadership": 3.0,
+    "ratingWorkLifeBalance": 5.0,
+    "reviewDateTime": "2026-09-24T14:21:41.033",
+    "reviewId": 105726378,
+    "summary": "Good work-life balance, but top-down management limits impact"
+   },
+   {
+    "advice": null,
+    "cons": "Bureaucratic, slow-moving, negative culture shift in the past 4 years",
+    "countHelpful": 0,
+    "countNotHelpful": 0,
+    "employer": {
+     "id": 9079,
+     "shortName": "Google"
+    },
+    "employerResponses": [],
+    "employmentStatus": "REGULAR",
+    "featured": false,
+    "isCurrentJob": false,
+    "jobTitle": {
+     "text": "Senior UX Program Manager"
+    },
+    "lengthOfEmployment": 0,
+    "location": {
+     "id": 1132348,
+     "name": "New York, NY",
+     "type": "CITY"
+    },
+    "originalLanguageId": null,
+    "pros": "Kind people, supportive benefits, internal mobility",
+    "ratingBusinessOutlook": null,
+    "ratingCareerOpportunities": 4.0,
+    "ratingCeo": null,
+    "ratingCompensationAndBenefits": 5.0,
+    "ratingCultureAndValues": 4,
+    "ratingDiversityAndInclusion": 4,
+    "ratingOverall": 4,
+    "ratingRecommendToFriend": null,
+    "ratingSeniorLeadership": 4.0,
+    "ratingWorkLifeBalance": 5.0,
+    "reviewDateTime": "2026-09-24T08:39:19.700",
+    "reviewId": 105721641,
+    "summary": "Supportive benefits overshadowed by bureaucracy and negative culture shift"
+   }
+  ]
+ }
+}

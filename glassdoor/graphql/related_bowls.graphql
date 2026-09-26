@@ -1,0 +1,48 @@
+query GetExploreBowlsCG($params: GetExploreBowlsParams!, $query: GetExploreBowlsQuery) {
+  getExploreBowlsCG(params: $params, query: $query) {
+    bowls {
+      ...FishbowlBowlCG
+    }
+  }
+}
+fragment FishbowlBowlCG on Feed {
+  canJoin
+  hasPosts
+  isJoined
+  isBowlLeader
+  feedState {
+    lastMessageDate
+  }
+  uiConfig {
+    colorTo
+    colorFrom
+    icon
+    coverPic
+  }
+  requestToJoinConfig {
+    isJoinReasonRequired
+    shouldRequestPhoto
+    isMultipleChoiceEnabled
+    userEnteredJoinReason
+  }
+  userPushState {
+    isPushEnabled
+    isNewPostsEnabled
+  }
+  creationDate
+  subscriptionType
+  suggestionSource
+  joinState
+  name
+  isVisible
+  isLocked
+  handleUrl
+  description
+  joinMode
+  type
+  allowedMembershipType
+  hideNumberOfUsers
+  _id
+  numberOfUsers
+  meetsJoinRules
+}

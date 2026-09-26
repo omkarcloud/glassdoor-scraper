@@ -1,0 +1,105 @@
+query getPostComments($id: String!, $cursor: String, $count: Int, $sortType: FishbowlSortType) {
+    getFishbowlPostComments(
+      request: {
+        postId: $id
+        page: { cursor: $cursor, count: $count }
+        sort: { sortType: $sortType }
+      }
+    ) {
+      comments {
+        ...FishbowlCommentInfo
+        replies {
+          comments {
+            ...FishbowlCommentInfo
+          }
+        }
+      }
+      commentsCursor {
+        ...FishbowlCursorInfo
+      }
+      repliesCursor {
+        ...FishbowlCursorInfo
+      }
+    }
+  }
+  fragment FishbowlCommentInfo on FishbowlComment {
+    id
+    date
+    author {
+      icon {
+        imageUrl
+      }
+      metadata {
+        handleUrl
+        profileDiscoverableToPublic
+      }
+      name
+      type
+      signPrefixType
+    }
+    isAuthor
+    commentType
+    messageData {
+      imageUrls {
+        imageUrl
+        image2xUrl
+        image3xUrl
+      }
+      linkMetadata {
+        description
+        domain
+        imageUrl
+        title
+        url
+      }
+      text
+    }
+    messageType
+    myReaction
+    reactions {
+      count
+      reactionType
+    }
+    replies {
+      comments {
+        id
+        date
+        author {
+          icon {
+            imageUrl
+          }
+          metadata {
+            handleUrl
+            profileDiscoverableToPublic
+          }
+          name
+        }
+        isAuthor
+        commentType
+        messageData {
+          text
+          linkMetadata {
+            description
+            domain
+            imageUrl
+            title
+            url
+          }
+        }
+        myReaction
+        reactions {
+          count
+          reactionType
+        }
+      }
+      repliesCursor {
+        next
+        prev
+      }
+    }
+    repliesCount
+  }
+  fragment FishbowlCursorInfo on FishbowlCursor {
+    next
+    prev
+  }

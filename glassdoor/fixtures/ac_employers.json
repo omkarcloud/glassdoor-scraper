@@ -1,0 +1,82 @@
+[
+ {
+  "id": 9079,
+  "name": "Google Inc.",
+  "shortName": "Google",
+  "logoURL": "https://media.glassdoor.com/sqlm/9079/google-squarelogo-1441130773284.png",
+  "websiteURL": "www.google.com",
+  "label": "Google"
+ },
+ {
+  "id": 3162960,
+  "name": "Google Cloud",
+  "shortName": "Google Cloud",
+  "logoURL": "https://media.glassdoor.com/sqlm/3162960/google-cloud-squarelogo-1681973584703.png",
+  "websiteURL": "cloud.google.com",
+  "label": "Google Cloud"
+ },
+ {
+  "id": 7391295,
+  "name": "Google Operations Center",
+  "shortName": "GOC",
+  "logoURL": "https://media.glassdoor.com/sqlm/7391295/google-operations-center-squarelogo-1658217912919.png",
+  "websiteURL": "googleoperationscenter.com",
+  "label": "GOC"
+ },
+ {
+  "id": 1596815,
+  "name": "DeepMind Technologies Limited",
+  "shortName": "Google DeepMind",
+  "logoURL": "https://media.glassdoor.com/sqlm/1596815/google-deepmind-squareLogo-1712564781738.png",
+  "websiteURL": "www.deepmind.com",
+  "label": "Google DeepMind"
+ },
+ {
+  "id": 3305018,
+  "name": "Google Summer of Code",
+  "shortName": "Google Summer of Code",
+  "logoURL": "https://media.glassdoor.com/sqlm/3305018/google-summer-of-code-squarelogo-1664277293690.png",
+  "websiteURL": "summerofcode.withgoogle.com",
+  "label": "Google Summer of Code"
+ },
+ {
+  "id": 10216774,
+  "name": "Google Fiber Inc.",
+  "shortName": "GFiber",
+  "logoURL": "https://media.glassdoor.com/sqlm/10216774/gfiber-squareLogo-1789481073630.png",
+  "websiteURL": "fiber.google.com",
+  "label": "GFiber"
+ },
+ {
+  "id": 981952,
+  "name": "E-Smart Systems Pvt. Ltd.",
+  "shortName": "E-Smart Systems",
+  "logoURL": "https://media.glassdoor.com/sqlm/981952/e-smart-systems-squarelogo-1552454463898.png",
+  "websiteURL": "www.google.co.in/url?q=www.e-smartsystems.com/&sa=u&ei=rlqovavwbm3huqsm7yhwdw&ved=0cbyqfjaa&sig2=j7k0qtwhfdcmlakphaud8q&usg=afqjcngxev7ldsw0h1f6y-e7g44mqko5lg",
+  "label": "E-Smart Systems"
+ },
+ {
+  "id": 939648,
+  "name": "Goo-Goo Express Wash, Inc.,",
+  "shortName": "Goo-Goo Express Wash",
+  "logoURL": "https://media.glassdoor.com/sqlm/939648/goo-goo-express-wash-squarelogo-1562581717382.png",
+  "websiteURL": "www.googooexpresswash.com",
+  "label": "Goo-Goo Express Wash"
+ },
+ {
+  "id": 1186310,
+  "name": "Google eLearn Services",
+  "shortName": "Google-eLearn",
+  "logoURL": "https://media.glassdoor.com/sqlm/1186310/google-elearn-squareLogo-1666118816996.png",
+  "websiteURL": "www.google-elearn.com",
+  "label": "Google-eLearn"
+ },
+ {
+  "id": 234783,
+  "name": "Standard Candy Company",
+  "shortName": "Standard Candy",
+  "logoURL": "https://media.glassdoor.com/sqlm/234783/standard-candy-squarelogo-1463568551571.png",
+  "websiteURL": "www.googoo.com",
+  "label": "Standard Candy"
+ }
+]

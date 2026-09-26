@@ -1,0 +1,204 @@
+{
+ "employerInterviewsIG": {
+  "difficultySubmissionCount": 14706,
+  "difficultySum": 44896,
+  "filteredInterviewCount": 15147,
+  "interviewExperienceCounts": [
+   {
+    "count": 9531,
+    "type": "POSITIVE"
+   },
+   {
+    "count": 2019,
+    "type": "NEGATIVE"
+   },
+   {
+    "count": 3247,
+    "type": "NEUTRAL"
+   }
+  ],
+  "interviewObtainedChannelCounts": [
+   {
+    "count": 1371,
+    "type": "RECRUITER"
+   },
+   {
+    "count": 242,
+    "type": "OTHER"
+   },
+   {
+    "count": 1527,
+    "type": "EMPLOYEE_REFERRAL"
+   },
+   {
+    "count": 882,
+    "type": "COLLEGE"
+   },
+   {
+    "count": 360,
+    "type": "IN_PERSON"
+   },
+   {
+    "count": 6528,
+    "type": "APPLIED_ONLINE"
+   },
+   {
+    "count": 133,
+    "type": "STAFFING_AGENCY"
+   }
+  ],
+  "interviewQuestionCount": 16912,
+  "interviews": [
+   {
+    "countHelpful": 2,
+    "countNotHelpful": 0,
+    "difficulty": "AVERAGE",
+    "durationDays": 5,
+    "employerResponses": [],
+    "experience": "NEUTRAL",
+    "featured": false,
+    "id": 179909,
+    "interviewDateTime": "2007-04-01T07:00:00",
+    "jobTitle": {
+     "text": "Operations"
+    },
+    "location": {
+     "id": 1,
+     "name": "United States",
+     "type": "COUNTRY"
+    },
+    "outcome": "ACCEPT_OFFER",
+    "processDescription": "The interview process was very quick, I had a basic/general phone interview with HR. After a couple of days was called for on site interview with the entire team about 7 interviews, which included a pannel interview. Couple of days later was called again for an onsite final interview with the VP.",
+    "reviewDateTime": "2009-02-25T15:43:51.25",
+    "source": null,
+    "userQuestions": [
+     {
+      "answerCount": 2,
+      "id": 7,
+      "question": "Describe how supply chain works for a company like ours and what challanges are faced on a day to day basis ?"
+     }
+    ]
+   },
+   {
+    "countHelpful": 0,
+    "countNotHelpful": 0,
+    "difficulty": "EASY",
+    "durationDays": 3,
+    "employerResponses": [],
+    "experience": "NEUTRAL",
+    "featured": false,
+    "id": 190662,
+    "interviewDateTime": "2007-09-01T07:00:00",
+    "jobTitle": {
+     "text": "Mac Specialist (Apple Store)"
+    },
+    "location": {
+     "id": 1155583,
+     "name": "Atlanta, GA",
+     "type": "CITY"
+    },
+    "outcome": "ACCEPT_OFFER",
+    "processDescription": "The initial communications were challenging. It was difficult to rise above the pack because the company insists you contact them through the web site. I was completely ignored and given the cold shoulder at numerous locations in another state; finally a recruiter contacted me. But it was for a location 50 miles out of my way. After being flagged by the recruiter, I had better luck when I went in person into the location I wanted to work at. The rest of the process was long and bogged down in procedure - especially annoying when it got to the background check. I ended up doing all the work providing details (such as a copy of my diploma from over ten years ago, hahaha) for the third-party company that was to check my background.",
+    "reviewDateTime": "2009-03-17T00:01:06.763",
+    "source": "APPLIED_ONLINE",
+    "userQuestions": [
+     {
+      "answerCount": 1,
+      "id": 160,
+      "question": "Describe your best retail experience."
+     }
+    ]
+   },
+   {
+    "countHelpful": 0,
+    "countNotHelpful": 0,
+    "difficulty": "EASY",
+    "durationDays": 5,
+    "employerResponses": [],
+    "experience": "NEUTRAL",
+    "featured": false,
+    "id": 191279,
+    "interviewDateTime": "2007-09-01T07:00:00",
+    "jobTitle": {
+     "text": "Mac Specialist (Apple Store)"
+    },
+    "location": {
+     "id": 1147518,
+     "name": "Santa Rosa, CA",
+     "type": "CITY"
+    },
+    "outcome": "ACCEPT_OFFER",
+    "processDescription": "the group interview is kind of a joke. They have you interview each other and then introduce the other person, but most of the people tried to sabotage the person they were interviewing, which backfired as none of them got second interviews. the manager who interviewed me is no longer with the company, which is unfortunate, because he was a good manager.",
+    "reviewDateTime": "2009-03-18T00:16:47.363",
+    "source": "APPLIED_ONLINE",
+    "userQuestions": [
+     {
+      "answerCount": 0,
+      "id": 208,
+      "question": "One of the questions they ask is about your experience using product, however the people who interview you are not tech savy and so you kind of have to dumb it down for them, but not to much because then they don't think you know anything. "
+     }
+    ]
+   },
+   {
+    "countHelpful": 1,
+    "countNotHelpful": 0,
+    "difficulty": "AVERAGE",
+    "durationDays": 21,
+    "employerResponses": [],
+    "experience": "POSITIVE",
+    "featured": false,
+    "id": 191354,
+    "interviewDateTime": "2008-09-01T07:00:00",
+    "jobTitle": {
+     "text": "BOH Specialist"
+    },
+    "location": null,
+    "outcome": "ACCEPT_OFFER",
+    "processDescription": "The interview process was very long, especially because I didn't want a retail position. (They automatically assume everyone is applying for a retail position.) The interviewers/managers however, were very efficient and precise in their question asking. So once the wait is over the interview runs very smoothly and they start you right away. There is a group interview and then multiple one on one interviews. They are very thorough because they only hire people who are skilled enough for the job. It would be hard to get the job if you don't have experience or a referral.",
+    "reviewDateTime": "2009-03-18T02:08:11.68",
+    "source": "EMPLOYEE_REFERRAL",
+    "userQuestions": [
+     {
+      "answerCount": 0,
+      "id": 211,
+      "question": "Are you familiar with all of our products? Because even if the position isn't retail, every employee is required to have an extensive knowledge and be able to help customers with all kinds of questions."
+     }
+    ]
+   },
+   {
+    "countHelpful": 0,
+    "countNotHelpful": 0,
+    "difficulty": "AVERAGE",
+    "durationDays": 14,
+    "employerResponses": [],
+    "experience": "POSITIVE",
+    "featured": false,
+    "id": 191693,
+    "interviewDateTime": "2008-03-01T08:00:00",
+    "jobTitle": {
+     "text": "Internship"
+    },
+    "location": {
+     "id": 1147422,
+     "name": "Cupertino, CA",
+     "type": "CITY"
+    },
+    "outcome": "NO_OFFER",
+    "processDescription": "They came to campus and interviewed us one on one.  He asked some behavioral questions, then got into some technical stuff.  I told him I was familiar with Unix and he then proceeded to test my terminal command line knowledge.  The questions got progressively harder.  After the interview I was called and asked to participate in a phone interview with a specific department.  I had to decline the interview.",
+    "reviewDateTime": "2009-03-18T15:44:12.263",
+    "source": "COLLEGE",
+    "userQuestions": [
+     {
+      "answerCount": 1,
+      "id": 361,
+      "question": "How do you stop a zombie process from the command line?"
+     }
+    ]
+   }
+  ],
+  "newestReviewDate": "2026-09-25T09:30:11.077",
+  "queryLocation": null,
+  "totalInterviewCount": 15147,
+  "totalNumberOfPages": 3030
+ }
+}

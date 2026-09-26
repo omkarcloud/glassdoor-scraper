@@ -1,0 +1,340 @@
+{
+ "jobview": {
+  "header": {
+   "adOrderId": 1110586,
+   "advertiserType": "GENERAL",
+   "ageInDays": 15,
+   "applyUrl": "/partner/jobListing.htm?pos=101&ao=1110586&s=58&guid=000001a0dccb38e2ad989af6babcaff2&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_f1409735&cb=1790410701110&jobListingId=1010259346403&jrtk=5-yul1-3-1k3ecme80294mk00---6NYlbfkN0CMMQh_vh03lgJPJxo1psrfkoiyIx26TdSTAtXy3zS83Eh5yIVnyNFFlIYflgDbnBe6gFN7MY5qM8-ZvPBWhDLnuE4dLXxFrOSQe_CZZRFEARHGnOVn-_hI_VydhJ9PfTgXMaNaLj3FjeN75EpWoIX2mI91HLDxw3iGKGwHN_sbvcww2_HZ9CkHkzrZ8FHhXFurfRWmg-UG8PNA4EKal01KlOHi4v-NYLiKNcO1mtfPAbLeH-gOp7ob-RpN6cislt4wLIXeyQCshMSr5oCoJ19DHU1hl5U9kyFUMXQ4T-wL9HoCERmIL2iPACQf53Wa85ao4Tdi5EhZR8rXMZIhhBJyQzvhEkjtpKpwH0y6aeq0oURMpRoLyMpaZd-O0cJBsLWdlh99WmHjv9ocdAhNHTxm7gQmj_Tm0QryM-JfYPvH-IhaptMZpeM2upPT6v4DhTwehw-nmJtRf6VMPWDJyCJXmSGhz_DuHuVNf-4a99PYrDWCIBbqUIxLmDaTGTGwG6wz5xzAJ1xilpo9vPEc0jyAgrzjihgbqG_mdMcGS_Zkxkg-1od2O1i6-PnF2WTyVqM%3D",
+   "easyApply": false,
+   "employer": {
+    "id": 7470741,
+    "name": "Amazon Web Services, Inc",
+    "shortName": "Amazon Web Services",
+    "squareLogoUrl": "https://media.glassdoor.com/sql/7470741/amazon-web-services-squareLogo-1680754591940.png"
+   },
+   "employerNameFromSearch": "Amazon Development Center U.S., Inc.",
+   "expired": false,
+   "goc": "machine learning engineer",
+   "gocId": 102642,
+   "indeedJobAttribute": {
+    "education": [],
+    "educationLabel": [],
+    "extractedJobAttributes": [
+     {
+      "key": "22JPW",
+      "value": "AI models"
+     },
+     {
+      "key": "3GPEM",
+      "value": "Version control"
+     },
+     {
+      "key": "4E4WW",
+      "value": "Computer science"
+     },
+     {
+      "key": "4R4AM",
+      "value": "Software engineering"
+     },
+     {
+      "key": "6XNCP",
+      "value": "Computer Science"
+     },
+     {
+      "key": "7HYQD",
+      "value": "Engineering development testing"
+     },
+     {
+      "key": "9KJUR",
+      "value": "Embedded systems"
+     },
+     {
+      "key": "9TE9M",
+      "value": "AD&D insurance"
+     },
+     {
+      "key": "9X8JA",
+      "value": "AI integration"
+     },
+     {
+      "key": "ACKRZ",
+      "value": "Coaching"
+     },
+     {
+      "key": "AP3T4",
+      "value": "C#"
+     },
+     {
+      "key": "C5C2F",
+      "value": "System design"
+     },
+     {
+      "key": "CF3CP",
+      "value": "Full-time"
+     },
+     {
+      "key": "CK39H",
+      "value": "Mathematics"
+     },
+     {
+      "key": "DP9CS",
+      "value": "Scalable systems"
+     },
+     {
+      "key": "EM5ST",
+      "value": "Enterprise software systems development"
+     },
+     {
+      "key": "EVPJU",
+      "value": "Java"
+     },
+     {
+      "key": "EY33Q",
+      "value": "Health insurance"
+     },
+     {
+      "key": "FNWKU",
+      "value": "System design for system development"
+     },
+     {
+      "key": "FQJ2X",
+      "value": "Dental insurance"
+     },
+     {
+      "key": "G85UP",
+      "value": "Flexible spending account"
+     },
+     {
+      "key": "GUHBD",
+      "value": "Machine intelligence"
+     },
+     {
+      "key": "H2YKN",
+      "value": "Bachelor's degree in engineering"
+     },
+     {
+      "key": "H99VT",
+      "value": "Professional development support"
+     },
+     {
+      "key": "HCRPT",
+      "value": "RSU"
+     },
+     {
+      "key": "HW4J4",
+      "value": "Paid time off"
+     },
+     {
+      "key": "J2ANE",
+      "value": "Model deployment"
+     },
+     {
+      "key": "JCEB8",
+      "value": "Application design"
+     },
+     {
+      "key": "JMBPA",
+      "value": "Embedded software"
+     },
+     {
+      "key": "JYNKB",
+      "value": "System testing"
+     },
+     {
+      "key": "K5S2U",
+      "value": "Adoption assistance"
+     },
+     {
+      "key": "KTEH7",
+      "value": "Perl"
+     },
+     {
+      "key": "MGSEB",
+      "value": "Mentoring"
+     },
+     {
+      "key": "MTAXW",
+      "value": "Systems engineering"
+     },
+     {
+      "key": "NPHPU",
+      "value": "Parental leave"
+     },
+     {
+      "key": "PYTWK",
+      "value": "Scalability"
+     },
+     {
+      "key": "QGH34",
+      "value": "Engineering product development"
+     },
+     {
+      "key": "QXB7R",
+      "value": "Employee assistance program"
+     },
+     {
+      "key": "RZAT2",
+      "value": "Vision insurance"
+     },
+     {
+      "key": "SENX8",
+      "value": "401(k) matching"
+     },
+     {
+      "key": "SSFKC",
+      "value": "Machine learning (ML) fundamentals"
+     },
+     {
+      "key": "T72XD",
+      "value": "1 year"
+     },
+     {
+      "key": "TWX3Y",
+      "value": "Bachelor's degree in mathematics"
+     },
+     {
+      "key": "UB7SC",
+      "value": "Senior level"
+     },
+     {
+      "key": "V9DFT",
+      "value": "Multithreading"
+     },
+     {
+      "key": "VBXYJ",
+      "value": "Bachelor's degree in computer science"
+     },
+     {
+      "key": "WSBNK",
+      "value": "Communication skills"
+     },
+     {
+      "key": "WZ9TD",
+      "value": "Flexible schedule"
+     },
+     {
+      "key": "Z4F5N",
+      "value": "Providing code feedback"
+     }
+    ],
+    "skills": [
+     "4E4WW",
+     "AP3T4",
+     "C5C2F",
+     "EVPJU",
+     "JMBPA",
+     "JYNKB",
+     "KTEH7",
+     "MGSEB",
+     "MTAXW",
+     "PYTWK",
+     "V9DFT",
+     "WSBNK"
+    ],
+    "skillsLabel": [
+     "Computer science",
+     "C#",
+     "System design",
+     "Java",
+     "Embedded software",
+     "System testing",
+     "Perl",
+     "Mentoring",
+     "Systems engineering",
+     "Scalability",
+     "Multithreading",
+     "Communication skills"
+    ],
+    "yearsOfExperienceLabel": [
+     "1"
+    ]
+   },
+   "isSponsoredEmployer": false,
+   "isSponsoredJob": true,
+   "jobCountryId": 1,
+   "jobLink": "/partner/jobListing.htm?pos=101&ao=1110586&s=58&guid=000001a0dccb38e2ad989af6babcaff2&src=GD_JOB_AD&t=NS&vt=w&cs=1_673c39d7&cb=1790410701110&jobListingId=1010259346403&jrtk=5-yul1-3-1k3ecme80294mk00---6NYlbfkN0CMMQh_vh03lgJPJxo1psrfkoiyIx26TdSTAtXy3zS83Eh5yIVnyNFFlIYflgDbnBe6gFN7MY5qM8-ZvPBWhDLnuE4dLXxFrOSQe_CZZRFEARHGnOVn-_hI_VydhJ9PfTgXMaNaLj3FjeN75EpWoIX2mI91HLDxw3iGKGwHN_sbvcww2_HZ9CkHkzrZ8FHhXFurfRWmg-UG8PNA4EKal01KlOHi4v-NYLiKNcO1mtfPAbLeH-gOp7ob-RpN6cislt4wLIXeyQCshMSr5oCoJ19DHU1hl5U9kyFUMXQ4T-wL9HoCERmIL2iPACQf53Wa85ao4Tdi5EhZR8rXMZIhhBJyQzvhEkjtpKpwH0y6aeq0oURMpRoLyMpaZd-O0cJBsLWdlh99WmHjv9ocdAhNHTxm7gQmj_Tm0QryM-JfYPvH-IhaptMZpeM2upPT6v4DhTwehw-nmJtRf6VMPWDJyCJXmSGhz_DuHuVNf-4a99PYrDWCIBbqUIxLmDaTGTGwG6wz5xzAJ1xilpo9vPEc0jyAgrzjihgbqG_mdMcGS_Zkxkg-1od2O1i6-PnF2WTyVqM%3D",
+   "jobTitleText": "Software Development Engineer - Gen AI, Connect (AI Agent)",
+   "jobTypeKeys": [
+    "search-jobs.job-type-options.fulltime"
+   ],
+   "locId": 1132348,
+   "locationName": "New York, NY",
+   "locationType": "C",
+   "normalizedJobTitle": "machine learning engineer",
+   "payCurrency": "USD",
+   "payPeriod": "ANNUAL",
+   "payPeriodAdjustedPay": {
+    "p10": 158100.0,
+    "p50": 185950.0,
+    "p90": 213800.0
+   },
+   "posted": "Sep 10, 2026",
+   "rating": 3.7,
+   "remoteWorkTypes": null,
+   "salarySource": "EMPLOYER_PROVIDED",
+   "seoJobLink": "https://www.glassdoor.com/job-listing/software-development-engineer-gen-ai-connect-ai-agent-amazon-web-services-JV_IC1132348_KO0,53_KE54,73.htm?jl=1010259346403",
+   "sgocId": 1007
+  },
+  "job": {
+   "description": "<div><h2 class=\"jobSectionHeader\"><b>DESCRIPTION</b></h2><p>\nAs part of the AWS Applied AI Solutions organization, we have a vision to provide business applications, leveraging Amazon&rsquo;s unique experience and expertise, that are used by millions of companies worldwide to manage day-to-day operations. We will accomplish this by accelerating our customers&rsquo; businesses through delivery of intuitive and differentiated technology solutions that solve enduring business challenges. We blend vision with curiosity and Amazon&rsquo;s real-world experience to build opinionated, turnkey solutions. Where customers prefer to buy over build, we become their trusted partner with solutions that are no-brainers to buy and easy to use.\n<br>\n<br>\nAmazon Connect is an AI-powered customer experience solution that enables superior outcomes at a lower cost. Since its 2017 public launch, Amazon Connect has become an AI leader, transforming how organizations of all types interact with their customers.<br>\n<br>\nAmazon Lex is a fully managed service, part of the Amazon Connect AI portfolio, enabling developers to create conversational interface for their applications. As a SDE, you will be responsible for designing, developing, testing, and deploying distributed machine learning systems and large-scale solutions for our world-wide customer base. In this, you will collaborate closely with a team of ML scientists to influence our overall strategy and define the team&rsquo;s road map. You will also drive the system architecture, spearhead best practices that enable a quality product, and help coach and develop junior engineers. A successful candidate will have an established background in engineering large scale software systems, a strong technical ability, great communication skills, and a motivation to achieve results in a fast paced environment.<br>\n<br>\nOur team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we&rsquo;re building an environment that celebrates knowledge sharing and mentorship. Our senior members enjoy one-on-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects based on what will help each team member develop into a better-rounded engineer and enable them to take on more complex tasks in the future<br>\n<br>\nAbout the team<br>\nABOUT AWS:<br>\n<br>\nDiverse Experiences\n<br>\nAmazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn&rsquo;t followed a traditional path, or includes alternative experiences, don&rsquo;t let it stop you from applying.\n<br>\n<br>\nWhy AWS\n<br>\nAmazon Web Services (AWS) is the world&rsquo;s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating &mdash; that&rsquo;s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.<br>\n<br>\nWork/Life Balance\n<br>\nWe value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there&rsquo;s nothing we can&rsquo;t achieve in the cloud.\n<br>\n<br>\nInclusive Team Culture\n<br>\nHere at AWS, it&rsquo;s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity and AmazeCon conferences, inspire us to never stop embracing our uniqueness.<br>\n<br>\nMentorship and Career Growth<br>\nWe&rsquo;re continuously raising our performance bar as we strive to become Earth&rsquo;s Best Employer. That&rsquo;s why you&rsquo;ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.\n</p><h2 class=\"jobSectionHeader\"><b>BASIC QUALIFICATIONS</b></h2><ul><li>3+ years of non-internship professional software development experience</li><li>2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience</li><li>1+ years of software development engineer or related occupational experience</li><li>1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience</li><li>1+ years of Object Oriented Design experience</li><li>Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field</li><li>Experience programming with at least one software programming language</li></ul><h2 class=\"jobSectionHeader\"><b>\nPREFERRED QUALIFICATIONS</b></h2><ul><li>3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience</li><li>Bachelor's degree in computer science or equivalent</li></ul><br>\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.<br>\n<br>\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you&rsquo;re applying in isn&rsquo;t listed, please contact your Recruiting Partner.<p><br>\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life &amp; AD&amp;D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.</p><br>\nUSA, NY, New York - 158,100.00 - 213,800.00 USD annually</div><p></p>",
+   "discoverDate": "2026-09-10T00:00:00",
+   "idFromSource": "57d4059657b6715c",
+   "importConfigId": 322429,
+   "jobTitleId": 0,
+   "jobTitleText": "Software Development Engineer - Gen AI, Connect (AI Agent)",
+   "listingId": 1010259346403
+  },
+  "map": {
+   "address": null,
+   "cityName": "New York, NY",
+   "country": "United States",
+   "lat": 40.71417,
+   "lng": -74.00639,
+   "locationName": "New York, NY",
+   "postalCode": null,
+   "stateName": "New York State"
+  },
+  "overview": {
+   "ceo": {
+    "name": "Matt Garman",
+    "photoUrl": "https://media.glassdoor.com/people/sql/7470741/amazon-web-services-ceo1739406431600.png"
+   },
+   "headquarters": "Seattle, WA",
+   "id": 7470741,
+   "links": {
+    "benefitsUrl": "/Benefits/Amazon-Web-Services-Benefits-E7470741.htm",
+    "overviewUrl": "/Overview/Working-at-Amazon-Web-Services-EI_IE7470741.11,30.htm",
+    "photosUrl": "/Photos/Amazon-Web-Services-Office-Photos-E7470741.htm",
+    "reviewsUrl": "/Reviews/Amazon-Web-Services-Reviews-E7470741.htm",
+    "salariesUrl": "/Salary/Amazon-Web-Services-Salaries-E7470741.htm"
+   },
+   "name": "Amazon Web Services, Inc",
+   "primaryIndustry": {
+    "industryId": 200063,
+    "industryName": "Internet & Web Services",
+    "sectorId": 10013,
+    "sectorName": "Information Technology"
+   },
+   "ratings": {
+    "careerOpportunitiesRating": 3.8,
+    "ceoRating": 0.53,
+    "ceoRatingsCount": 2453,
+    "compensationAndBenefitsRating": 3.9,
+    "cultureAndValuesRating": 3.2,
+    "overallRating": 3.6,
+    "recommendToFriendRating": 0.63,
+    "seniorManagementRating": 3.0,
+    "workLifeBalanceRating": 3.0
+   },
+   "revenue": "$10+ billion (USD)",
+   "shortName": "Amazon Web Services",
+   "size": "Unknown",
+   "sizeCategory": "UNKNOWN",
+   "squareLogoUrl": "https://media.glassdoor.com/sql/7470741/amazon-web-services-squareLogo-1680754591940.png",
+   "type": "Subsidiary or Business Segment",
+   "website": "https://aws.amazon.com/careers/why-aws/",
+   "yearFounded": 2006
+  },
+  "similarJobs": null
+ }
+}

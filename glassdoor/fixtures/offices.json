@@ -1,0 +1,611 @@
+{
+ "employer": {
+  "id": 1651,
+  "links": {
+   "locationsUrl": "/Location/All-Microsoft-Office-Locations-E1651.htm"
+  },
+  "officeAddresses": [
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "NC",
+    "cityName": "Raleigh",
+    "countryName": "US",
+    "id": 44157,
+    "officeLocationId": 144397,
+    "postalCode": "00000"
+   },
+   {
+    "addressLine1": "1355 Market Street, Suite 300",
+    "addressLine2": "San Francisco, CA 94103",
+    "administrativeAreaName1": "CA",
+    "cityName": "San Francisco",
+    "countryName": "US",
+    "id": 63,
+    "officeLocationId": 287,
+    "postalCode": "94103"
+   },
+   {
+    "addressLine1": "835 Market Street, Suite 700",
+    "addressLine2": "San Francisco, CA 94103",
+    "administrativeAreaName1": "CA",
+    "cityName": "San Francisco",
+    "countryName": "US",
+    "id": 64,
+    "officeLocationId": 287,
+    "postalCode": "94103"
+   },
+   {
+    "addressLine1": "1065 La Avenida",
+    "addressLine2": "Mountain View, CA 94043",
+    "administrativeAreaName1": "CA",
+    "cityName": "Mountain View",
+    "countryName": "US",
+    "id": 65,
+    "officeLocationId": 288,
+    "postalCode": "94043"
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "CA",
+    "cityName": "Palo Alto",
+    "countryName": "US",
+    "id": 321356,
+    "officeLocationId": 411174,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "CA",
+    "cityName": "San Jose",
+    "countryName": "US",
+    "id": 321359,
+    "officeLocationId": 411177,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "CA",
+    "cityName": "Sunnyvale",
+    "countryName": "US",
+    "id": 321358,
+    "officeLocationId": 411176,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "WA",
+    "cityName": "Auburn",
+    "countryName": "US",
+    "id": 321367,
+    "officeLocationId": 411185,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "WA",
+    "cityName": "Bellevue",
+    "countryName": "US",
+    "id": 321363,
+    "officeLocationId": 411181,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "WA",
+    "cityName": "Bothell",
+    "countryName": "US",
+    "id": 321354,
+    "officeLocationId": 411172,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "WA",
+    "cityName": "Duvall",
+    "countryName": "US",
+    "id": 321364,
+    "officeLocationId": 411182,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "WA",
+    "cityName": "Everett",
+    "countryName": "US",
+    "id": 321366,
+    "officeLocationId": 411184,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "WA",
+    "cityName": "Issaquah",
+    "countryName": "US",
+    "id": 321349,
+    "officeLocationId": 411167,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "WA",
+    "cityName": "Kent",
+    "countryName": "US",
+    "id": 321360,
+    "officeLocationId": 411178,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "WA",
+    "cityName": "Kirkland",
+    "countryName": "US",
+    "id": 321351,
+    "officeLocationId": 411169,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "WA",
+    "cityName": "Lynnwood",
+    "countryName": "US",
+    "id": 321362,
+    "officeLocationId": 411180,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "WA",
+    "cityName": "Maple Valley",
+    "countryName": "US",
+    "id": 321369,
+    "officeLocationId": 411187,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "WA",
+    "cityName": "Mercer Island",
+    "countryName": "US",
+    "id": 321368,
+    "officeLocationId": 411186,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "WA",
+    "cityName": "North Bend",
+    "countryName": "US",
+    "id": 321350,
+    "officeLocationId": 411168,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "205 108th Ave NE #400",
+    "addressLine2": "Bellevue, WA 98004",
+    "administrativeAreaName1": "WA",
+    "cityName": "Redmond",
+    "countryName": "US",
+    "id": 15,
+    "officeLocationId": 289,
+    "postalCode": "98004"
+   },
+   {
+    "addressLine1": "116 Bellevue Way Southeast ",
+    "addressLine2": "Bellevue Square, Bellevue, WA 98004",
+    "administrativeAreaName1": "WA",
+    "cityName": "Redmond",
+    "countryName": "US",
+    "id": 16,
+    "officeLocationId": 289,
+    "postalCode": "98004"
+   },
+   {
+    "addressLine1": "1 Microsoft Way",
+    "addressLine2": "Redmond, WA 98052",
+    "administrativeAreaName1": "WA",
+    "cityName": "Redmond",
+    "countryName": "US",
+    "id": 14,
+    "officeLocationId": 289,
+    "postalCode": "98052"
+   },
+   {
+    "addressLine1": "23050 NE 102 St",
+    "addressLine2": "Redmond, WA 98053",
+    "administrativeAreaName1": "WA",
+    "cityName": "Redmond",
+    "countryName": "US",
+    "id": 19,
+    "officeLocationId": 289,
+    "postalCode": "98053"
+   },
+   {
+    "addressLine1": "Pacific Place 600 Pine St",
+    "addressLine2": "Seattle, WA 98101",
+    "administrativeAreaName1": "WA",
+    "cityName": "Redmond",
+    "countryName": "US",
+    "id": 18,
+    "officeLocationId": 289,
+    "postalCode": "98101"
+   },
+   {
+    "addressLine1": "2642 NE University Village St ",
+    "addressLine2": "Seattle, WA 98105",
+    "administrativeAreaName1": "WA",
+    "cityName": "Redmond",
+    "countryName": "US",
+    "id": 17,
+    "officeLocationId": 289,
+    "postalCode": "98105"
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "WA",
+    "cityName": "Renton",
+    "countryName": "US",
+    "id": 321353,
+    "officeLocationId": 411171,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "WA",
+    "cityName": "Sammamish",
+    "countryName": "US",
+    "id": 321361,
+    "officeLocationId": 411179,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "WA",
+    "cityName": "Seattle",
+    "countryName": "US",
+    "id": 321357,
+    "officeLocationId": 411175,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "WA",
+    "cityName": "Snohomish",
+    "countryName": "US",
+    "id": 321352,
+    "officeLocationId": 411170,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "WA",
+    "cityName": "Snoqualmie",
+    "countryName": "US",
+    "id": 321365,
+    "officeLocationId": 411183,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "WA",
+    "cityName": "Tacoma",
+    "countryName": "US",
+    "id": 321371,
+    "officeLocationId": 411189,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "WA",
+    "cityName": "Woodinville",
+    "countryName": "US",
+    "id": 321355,
+    "officeLocationId": 411173,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "255 Main Street",
+    "addressLine2": "Cambridge, MA 02142",
+    "administrativeAreaName1": "MA",
+    "cityName": "Cambridge",
+    "countryName": "US",
+    "id": 66,
+    "officeLocationId": 290,
+    "postalCode": "02142"
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "WA",
+    "cityName": "Shoreline",
+    "countryName": "US",
+    "id": 321370,
+    "officeLocationId": 411188,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "DU",
+    "cityName": "Dubai",
+    "countryName": "United Arab Emirates",
+    "id": 514696,
+    "officeLocationId": 590424,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "50",
+    "cityName": "Tirana",
+    "countryName": "Albania",
+    "id": 514694,
+    "officeLocationId": 590422,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "D84",
+    "cityName": "Kongens Lyngby",
+    "countryName": "Denmark",
+    "id": 514699,
+    "officeLocationId": 590427,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "A",
+    "cityName": "Prague",
+    "countryName": "Czech Republic",
+    "id": 514687,
+    "officeLocationId": 590416,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "BRU",
+    "cityName": "Brussels",
+    "countryName": "Belgium",
+    "id": 514697,
+    "officeLocationId": 590425,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "M",
+    "cityName": "Ra`ananna",
+    "countryName": "Israel",
+    "id": 514704,
+    "officeLocationId": 590432,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "LA",
+    "cityName": "Lagos",
+    "countryName": "Nigeria",
+    "id": 514707,
+    "officeLocationId": 590435,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "CT",
+    "cityName": "Barcelona",
+    "countryName": "Spain",
+    "id": 514714,
+    "officeLocationId": 590442,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "01",
+    "cityName": "Athens",
+    "countryName": "Greece",
+    "id": 514701,
+    "officeLocationId": 590429,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "ENG",
+    "cityName": "Reading",
+    "countryName": "United Kingdom",
+    "id": 514684,
+    "officeLocationId": 590413,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "LOM",
+    "cityName": "Milan",
+    "countryName": "Italy",
+    "id": 514718,
+    "officeLocationId": 590446,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "05",
+    "cityName": "Nairobi",
+    "countryName": "Kenya",
+    "id": 514706,
+    "officeLocationId": 590434,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "03",
+    "cityName": "Luxembourg",
+    "countryName": "Luxembourg",
+    "id": 514698,
+    "officeLocationId": 590426,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "A8",
+    "cityName": "Issy-les-Moulineaux",
+    "countryName": "France",
+    "id": 514702,
+    "officeLocationId": 590430,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "MZ",
+    "cityName": "Warsaw",
+    "countryName": "Poland",
+    "id": 514710,
+    "officeLocationId": 590438,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "S01",
+    "cityName": "Riyadh",
+    "countryName": "Saudi Arabia",
+    "id": 514716,
+    "officeLocationId": 590444,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "AT-9",
+    "cityName": "Vienna",
+    "countryName": "Austria",
+    "id": 514692,
+    "officeLocationId": 590420,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "B",
+    "cityName": "Bucharest",
+    "countryName": "Romania",
+    "id": 514711,
+    "officeLocationId": 590439,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "11",
+    "cityName": "Lisbon",
+    "countryName": "Portugal",
+    "id": 514715,
+    "officeLocationId": 590443,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "AB",
+    "cityName": "Stockholm",
+    "countryName": "Sweden",
+    "id": 514713,
+    "officeLocationId": 590441,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "48",
+    "cityName": "Moscow",
+    "countryName": "Russia",
+    "id": 514705,
+    "officeLocationId": 590433,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "C",
+    "cityName": "Cairo",
+    "countryName": "Egypt",
+    "id": 514700,
+    "officeLocationId": 590428,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "12",
+    "cityName": "Kyiv",
+    "countryName": "Ukraine",
+    "id": 514712,
+    "officeLocationId": 590440,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "04",
+    "cityName": "Beirut",
+    "countryName": "Lebanon",
+    "id": 514717,
+    "officeLocationId": 590445,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "09",
+    "cityName": "Baku",
+    "countryName": "Azerbaijan",
+    "id": 514693,
+    "officeLocationId": 590421,
+    "postalCode": ""
+   },
+   {
+    "addressLine1": "",
+    "addressLine2": "",
+    "administrativeAreaName1": "BY",
+    "cityName": "Munich",
+    "countryName": "Germany",
+    "id": 514709,
+    "officeLocationId": 590437,
+    "postalCode": ""
+   }
+  ],
+  "shortName": "Microsoft"
+ }
+}

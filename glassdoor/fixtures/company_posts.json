@@ -1,0 +1,166 @@
+{
+ "getFederationPosts": {
+  "posts": [
+   {
+    "_id": "6ab59d558b9d8ea1f7bdc939",
+    "bowl": {
+     "_id": "5b5fa58ec14e1a001369f1b4",
+     "handleUrl": "googlers-xooglers",
+     "name": "Googlers & Xooglers",
+     "numberOfUsers": 91299,
+     "type": "BOWL",
+     "uiConfig": {
+      "icon": "https://dslntlv9vhjr4.cloudfront.net/bowls_images_2/gxMG4Dw9auWlS.jpg"
+     }
+    },
+    "commentsCount": 2,
+    "date": "2026-09-24T21:59:49.611Z",
+    "handleUrl": "hey-everyone-i-recently-went-through-the-full-loop-interviews-for-a-l5-pso-position-after-the-call-with-director-the-team",
+    "messageData": {
+     "text": "Hey everyone, I recently went through the full loop interviews for a L5 PS&O position. After the call with director the team ultimately chose another candidate but they told me my feedback was strong for L5. Recruiter is sharing my packet with other hm who are hiring L5 PS&O positions under the Google umbrella (which currently there are only 3 openings). What’s the chance of my packet getting picked up by other hm? Was also told HC decision is not needed due to strong feedback. Thanks!"
+    },
+    "messageType": "TEXT",
+    "ppcCategories": [],
+    "reactionCounters": {
+     "FUNNY": 0,
+     "HELPFUL": 0,
+     "LIKE": 1,
+     "SMART": 0,
+     "UPLIFTING": 0
+    },
+    "sign": {
+     "name": "Meta",
+     "signType": "COMPANY"
+    }
+   },
+   {
+    "_id": "6ab4f678d16d0b8b0355d84c",
+    "bowl": {
+     "_id": "5b5fa58ec14e1a001369f1b4",
+     "handleUrl": "googlers-xooglers",
+     "name": "Googlers & Xooglers",
+     "numberOfUsers": 91299,
+     "type": "BOWL",
+     "uiConfig": {
+      "icon": "https://dslntlv9vhjr4.cloudfront.net/bowls_images_2/gxMG4Dw9auWlS.jpg"
+     }
+    },
+    "commentsCount": 1,
+    "date": "2026-09-24T10:07:52.820Z",
+    "handleUrl": "hi-new-to-google-find-it-a-bit-hard-to-get-used-to-chromeos-shortcuts-overall-usability-how-did-u-manage-did-u-request-for-a",
+    "messageData": {
+     "text": "Hi! New to Google, find it a bit hard to get used to chromeOS. (Shortcuts, overall usability). how did u manage? Did u request for a Mac instead ?"
+    },
+    "messageType": "TEXT",
+    "ppcCategories": [],
+    "reactionCounters": {
+     "FUNNY": 0,
+     "HELPFUL": 0,
+     "LIKE": 1,
+     "SMART": 0,
+     "UPLIFTING": 0
+    },
+    "sign": {
+     "name": "Consultant",
+     "signType": "TITLE"
+    }
+   },
+   {
+    "_id": "6ab21b852a35c700870f6629",
+    "bowl": {
+     "_id": "5b5fa58ec14e1a001369f1b4",
+     "handleUrl": "googlers-xooglers",
+     "name": "Googlers & Xooglers",
+     "numberOfUsers": 91299,
+     "type": "BOWL",
+     "uiConfig": {
+      "icon": "https://dslntlv9vhjr4.cloudfront.net/bowls_images_2/gxMG4Dw9auWlS.jpg"
+     }
+    },
+    "commentsCount": 1,
+    "date": "2026-09-22T06:09:09.429Z",
+    "handleUrl": "hi-there-i-am-new-to-google-would-like-to-get-more-familiar-with-googles-ai-tools-and-how-when-to-use-them-any-reccos-i-am-not-a",
+    "messageData": {
+     "text": "Hi there,\nI am new to Google. Would like to get more familiar with google’s AI tools and how/ when to use them? Any reccos ? (I am not a technical profile) . Also, what tips do you have for someone new at Google? What do you wish you had done differently ? Thanks a lot"
+    },
+    "messageType": "TEXT",
+    "ppcCategories": [],
+    "reactionCounters": {
+     "FUNNY": 0,
+     "HELPFUL": 0,
+     "LIKE": 1,
+     "SMART": 0,
+     "UPLIFTING": 0
+    },
+    "sign": {
+     "name": "Consultant",
+     "signType": "TITLE"
+    }
+   },
+   {
+    "_id": "6ab144cd385137c6838528d7",
+    "bowl": {
+     "_id": "5b5fa58ec14e1a001369f1b4",
+     "handleUrl": "googlers-xooglers",
+     "name": "Googlers & Xooglers",
+     "numberOfUsers": 91299,
+     "type": "BOWL",
+     "uiConfig": {
+      "icon": "https://dslntlv9vhjr4.cloudfront.net/bowls_images_2/gxMG4Dw9auWlS.jpg"
+     }
+    },
+    "commentsCount": 3,
+    "date": "2026-09-21T14:53:01.736Z",
+    "handleUrl": "how-was-your-first-week-at-google-fully-remote-was-it-only-onboarding-what-can-i-expect",
+    "messageData": {
+     "text": "How was your first week at Google? Fully remote? Was it only onboarding ? What can I expect?"
+    },
+    "messageType": "TEXT",
+    "ppcCategories": [],
+    "reactionCounters": {
+     "FUNNY": 0,
+     "HELPFUL": 0,
+     "LIKE": 2,
+     "SMART": 0,
+     "UPLIFTING": 0
+    },
+    "sign": {
+     "name": "Consultant",
+     "signType": "TITLE"
+    }
+   },
+   {
+    "_id": "6ab07b924baef9700bb5f15a",
+    "bowl": {
+     "_id": "5b5fa58ec14e1a001369f1b4",
+     "handleUrl": "googlers-xooglers",
+     "name": "Googlers & Xooglers",
+     "numberOfUsers": 91299,
+     "type": "BOWL",
+     "uiConfig": {
+      "icon": "https://dslntlv9vhjr4.cloudfront.net/bowls_images_2/gxMG4Dw9auWlS.jpg"
+     }
+    },
+    "commentsCount": 2,
+    "date": "2026-09-21T00:34:26.947Z",
+    "handleUrl": "what-level-do-ex-ap-from-mbbs-land-at-google",
+    "messageData": {
+     "text": "What level do ex AP from MBBs land at Google?"
+    },
+    "messageType": "TEXT",
+    "ppcCategories": [],
+    "reactionCounters": {
+     "FUNNY": 0,
+     "HELPFUL": 0,
+     "LIKE": 1,
+     "SMART": 0,
+     "UPLIFTING": 0
+    },
+    "sign": {
+     "name": "Associate Partner",
+     "signType": "TITLE"
+    }
+   }
+  ]
+ }
+}
