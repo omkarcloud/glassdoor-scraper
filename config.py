@@ -32,3 +32,14 @@ GLASSDOOR_BROWSER_IDLE_SECONDS = 300
 
 def glassdoor_proxy():
     return os.environ.get("GLASSDOOR_PROXY") or None
+
+
+# ---- added by the sync: defaults for a direct run ----
+GLASSDOOR_BROWSER_SLOTS = 1
+def burst_slots(share):
+    return share
+
+
+def glassdoor_browser_proxy(*args, **kwargs):
+    return None
+

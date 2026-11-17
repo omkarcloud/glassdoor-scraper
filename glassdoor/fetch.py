@@ -52,6 +52,7 @@ Failure taxonomy (scraper_errors, mapped to HTTP by route_glue):
   GlassdoorNotFound       the entity does not exist                  — never retried
 """
 import json
+import fastjson
 import os
 import random
 import sys
@@ -63,8 +64,11 @@ from urllib.parse import urlencode
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
+import browser_client
 import config
+import egress
 from scraper_errors import BadRequest, Blocked, NotFound, UpstreamError
+from scraper_utils import debug, fanout, memo
 
 SITE = "https://www.glassdoor.com"
 IMPERSONATE = "chrome"
@@ -72,16 +76,16 @@ TIMEOUT = (10, 40)          # (connect, read)
 
 NAV_HEADERS = {
     "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "accept-language": "en-US,en;q=0.9", "sec-fetch-dest": "document", "sec-fetch-mode": "navigate",
+    "accept-language": egress.site_accept_language("glassdoor"), "sec-fetch-dest": "document", "sec-fetch-mode": "navigate",
     "sec-fetch-site": "none", "sec-fetch-user": "?1", "upgrade-insecure-requests": "1",
 }
 API_HEADERS = {
-    "accept": "*/*", "accept-language": "en-US,en;q=0.9", "content-type": "application/json",
+    "accept": "*/*", "accept-language": egress.site_accept_language("glassdoor"), "content-type": "application/json",
     "gd-csrf-token": "1", "origin": SITE, "sec-fetch-dest": "empty", "sec-fetch-mode": "cors",
     "sec-fetch-site": "same-origin",
 }
 GET_JSON_HEADERS = {
-    "accept": "application/json", "accept-language": "en-US,en;q=0.9", "sec-fetch-dest": "empty",
+    "accept": "application/json", "accept-language": egress.site_accept_language("glassdoor"), "sec-fetch-dest": "empty",
     "sec-fetch-mode": "cors", "sec-fetch-site": "same-origin",
 }
 # Common one-word searches: the warm-up URL varies so every session does not
@@ -128,14 +132,7 @@ class GlassdoorNotFound(NotFound):
 
 def dump_debug(name, text):
     """Write a raw response to $GLASSDOOR_DEBUG_DIR/<name>.txt."""
-    dbg = os.environ.get("GLASSDOOR_DEBUG_DIR", "")
-    if dbg and text:
-        try:
-            os.makedirs(dbg, exist_ok=True)
-            with open(os.path.join(dbg, name + ".txt"), "w") as f:
-                f.write(text if isinstance(text, str) else json.dumps(text))
-        except OSError:
-            pass
+    debug.dump("GLASSDOOR_DEBUG_DIR", name, text, render=json.dumps)
 
 
 # ---- warmed sessions ------------------------------------------------------------------
@@ -244,7 +241,7 @@ def classify(status, text, headers, label):
 
 def _parse_json(text, label):
     try:
-        return json.loads(text) if text.strip() else None
+        return fastjson.loads(text) if text.strip() else None
     except ValueError:
         dump_debug("non_json", text)
         if any(m in text[:4000] for m in CHALLENGE_MARKERS):
@@ -252,92 +249,37 @@ def _parse_json(text, label):
         raise GlassdoorUpstreamError(f"non-JSON body on {label}")
 
 
-# ---- browser fallback ---------------------------------------------------------------------
+# ---- browser fallback (on the browser box) -------------------------------------------------
 
-class _Browser:
-    """One headful patchright Chrome, opened on demand, reused while busy
-    and closed after config.GLASSDOOR_BROWSER_IDLE_SECONDS unused."""
-
-    def __init__(self):
-        self.lock = threading.Lock()
-        self.driver = None
-        self.last_used = 0.0
-        self.closer = None
-
-    def _open(self):
-        from chrome_manager import create_scope
-        from patchright_driver import PatchrightDriver
-        with create_scope():
-            driver = PatchrightDriver(proxy_url=config.glassdoor_proxy(), headless=False)
-        try:
-            driver.nav(BROWSER_WARM_URL, mode="blocked", challenge_markers=("Just a moment", "Security | Glassdoor"))
-            deadline = time.monotonic() + BROWSER_SETTLE_TIMEOUT
-            while time.monotonic() < deadline:
-                names = {c.get("name") for c in driver.cookies()}
-                if all(name in names for name in WARM_COOKIES):
-                    break
-                time.sleep(1.0)
-            else:
-                raise GlassdoorBlocked("browser never cleared the Cloudflare challenge")
-        except Exception:
-            driver.close()
-            raise
-        return driver
-
-    def _close_if_idle(self):
-        while True:
-            time.sleep(30)
-            with self.lock:
-                if self.driver is None:
-                    self.closer = None
-                    return
-                if time.time() - self.last_used > config.GLASSDOOR_BROWSER_IDLE_SECONDS:
-                    self._drop()
-                    self.closer = None
-                    return
-
-    def _drop(self):
-        if self.driver is not None:
-            try:
-                self.driver.close()
-            except Exception:
-                pass
-        self.driver = None
-
-    def request(self, method, path_and_query, headers, body, label):
-        """In-page fetch of a same-origin path. The page may sit on a local
-        TLD (page GETs are GeoIP-redirected: glassdoor.co.in from India), and
-        a cross-origin POST to www.glassdoor.com would fail CORS, so the call
-        goes to the page's own origin."""
-        from urllib.parse import urlsplit
-        from patchright_driver import _FETCH_JS, FETCH_TIMEOUT_MS
-        with self.lock:
-            if self.driver is None:
-                self.driver = self._open()
-            if self.closer is None:
-                self.closer = threading.Thread(target=self._close_if_idle, daemon=True)
-                self.closer.start()
-            self.last_used = time.time()
-            try:
-                parts = urlsplit(self.driver.current_url or "")
-                origin = f"{parts.scheme}://{parts.netloc}" if parts.netloc else SITE
-                res = self.driver.call(lambda page: page.evaluate(_FETCH_JS, {
-                    "url": origin + path_and_query, "method": method, "headers": headers, "body": body,
-                    "referrer": origin + "/Job/index.htm", "timeoutMs": FETCH_TIMEOUT_MS}))
-            except Exception:
-                self._drop()
-                raise
-        if not res or (not res.get("status") and res.get("error")):
-            raise GlassdoorUpstreamError(f"browser fetch failed on {label}: {(res or {}).get('error')}")
-        status = int(res.get("status") or 0)
-        text = res.get("body") or ""
-        if status in BLOCK_STATUSES:
-            with self.lock:
-                self._drop()
-        return classify(status, text, res.get("headers") or {}, label)
+# Sticky exits for the box browser: one proxy URL = one kept Chrome on the
+# box, warmed once on /Job/jobs.htm (8-60 s for the Cloudflare clearance)
+# and reused by every call on that exit. From 2026-10-23 (2a3c9a6,
+# GLASSDOOR_BROWSER_PROXY_COUNTRY None -> "us") until 2026-11-04 every call
+# minted a fresh exit here, so every salary call paid a fresh Chrome and a
+# fresh warm-up -- the bug browser_client.ExitPool fixed for 13 other sites
+# that day, missed here. burst=True: GLASSDOOR_BROWSER_SLOTS x
+# BROWSER_BURST_FACTOR candidates; the box opens the extra ones only with
+# headroom.
+_BROWSER_EXITS = browser_client.ExitPool("glassdoor", config.glassdoor_browser_proxy,
+                                         size=lambda: config.GLASSDOOR_BROWSER_SLOTS, burst=True)
 
 
-_browser = _Browser()
+def _box_request(method, path_and_query, headers, body, label):
+    """In-page fetch on the box's warmed Glassdoor page (recipes/glassdoor.py
+    rewrites the call to the page's own origin). Egress: sticky US residential
+    exits (_BROWSER_EXITS; GLASSDOOR_BROWSER_PROXY_COUNTRY); the recipe fails
+    the browser on a 401/403/429, and that exit is rotated here.
+    Chrome left GKE 2026-10-22."""
+    try:
+        _proxy, res = _BROWSER_EXITS.fetch_any("glassdoor", url=SITE + path_and_query, method=method,
+                                               headers=headers or {}, body=body)
+    except browser_client.BoxRefused as e:
+        if e.candidate is not None:
+            _BROWSER_EXITS.rotate(e.proxy)
+        raise GlassdoorBlocked(f"{label}: refused in the box browser: {e}", status=403) from e
+    except browser_client.BoxUnavailable as e:
+        raise GlassdoorUpstreamError(f"{label}: browser box unavailable: {e}") from e
+    return classify(int(res.get("status") or 0), res.get("body") or "", res.get("headers") or {}, label)
 
 
 # ---- requests -------------------------------------------------------------------------------
@@ -419,7 +361,7 @@ def _request(method, path, *, params=None, body=None, headers=None, label=None):
             if getattr(last, "status", None) != 429:
                 _mark_curl_blocked(path)
         try:
-            return _browser.request(method, path_and_query, {k: v for k, v in (headers or {}).items()
+            return _box_request(method, path_and_query, {k: v for k, v in (headers or {}).items()
                                                   if k not in ("origin", "referer") and not k.startswith("sec-")},
                                     data, label)
         except (GlassdoorNotFound, GlassdoorBadRequest):
@@ -497,19 +439,7 @@ MEMO_MAX = 2048
 
 
 def memoized(key, fn, ttl=MEMO_TTL):
-    now = time.monotonic()
-    with _memo_lock:
-        hit = _memo.get(key)
-        if hit and now - hit[0] < ttl:
-            _memo.move_to_end(key)
-            return hit[1]
-    value = fn()
-    with _memo_lock:
-        _memo[key] = (now, value)
-        _memo.move_to_end(key)
-        while len(_memo) > MEMO_MAX:
-            _memo.popitem(last=False)
-    return value
+    return memo.memoized(_memo, _memo_lock, MEMO_MAX, key, fn, ttl)
 
 
 def memo_get(key):
@@ -529,15 +459,7 @@ def memo_put(key, value):
 def run_parallel(fns, workers):
     """Run zero-arg callables in parallel; results align with `fns`. Each
     result is ("ok", value) or ("error", exception)."""
-    def guard(fn):
-        try:
-            return ("ok", fn())
-        except Exception as e:
-            return ("error", e)
-    if not fns:
-        return []
-    with ThreadPoolExecutor(max_workers=max(1, min(workers, len(fns)))) as ex:
-        return list(ex.map(guard, fns))
+    return fanout.guarded_per_call(fns, workers)
 
 
 if __name__ == "__main__":

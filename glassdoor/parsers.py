@@ -23,16 +23,10 @@ import re
 from glassdoor import refdata
 from glassdoor import refs
 from glassdoor.values import iso_date, num, rounded, text, to_int
+from scraper_utils.values import as_dict as _d, as_list as _l
 
 
 # ---- primitives --------------------------------------------------------------------------
-
-def _d(value):
-    return value if isinstance(value, dict) else {}
-
-
-def _l(value):
-    return value if isinstance(value, list) else []
 
 
 def rating(value):
